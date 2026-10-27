@@ -1,0 +1,12 @@
+{
+  "split": "validation",
+  "selected_round": 12,
+  "selection_role": "checkpoint selection and early stopping",
+  "accuracy": 0.8041303610687847,
+  "macro_precision": 0.6347527518634087,
+  "macro_recall": 0.5980063990210632,
+  "macro_f1": 0.5762867396535416,
+  "weighted_f1": 0.7824447059594991,
+  "evaluated_rows": 1176701,
+  "supported_classes": 34
+}

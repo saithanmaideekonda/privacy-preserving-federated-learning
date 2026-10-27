@@ -1,0 +1,168 @@
+{
+  "created_utc": "2026-10-26T13:23:25.098797+00:00",
+  "configuration": {
+    "name": "lr_0p002_seed_20261028",
+    "learning_rate_init": 0.002,
+    "max_epochs": 12,
+    "patience": 3,
+    "seed": 20261028,
+    "factor_changed": "seed only; exact Stage 2 implementation",
+    "model": "sklearn.neural_network.MLPClassifier",
+    "hidden_layer_sizes": [
+      128,
+      64
+    ],
+    "activation": "relu",
+    "solver": "adam",
+    "alpha": 0.0001,
+    "batch_size": 8192,
+    "cpu_threads": 4,
+    "selection_metric": "validation macro-F1",
+    "class_weighting": "Phase 2 normalized inverse square-root class weights; fixed across candidates",
+    "class_weight_by_label": {
+      "Backdoor_Malware": 28.28400698102604,
+      "BenignTraffic": 1.5441744072462271,
+      "BrowserHijacking": 21.48431588556946,
+      "CommandInjection": 22.192223505730905,
+      "DDoS-ACK_Fragmentation": 3.0305595077476717,
+      "DDoS-HTTP_Flood": 9.542687307689107,
+      "DDoS-ICMP_Flood": 0.6034784389649351,
+      "DDoS-ICMP_Fragmentation": 2.413250695534205,
+      "DDoS-PSHACK_Flood": 0.8011356857890028,
+      "DDoS-RSTFINFlood": 0.8058162822800632,
+      "DDoS-SYN_Flood": 0.8031220602646448,
+      "DDoS-SlowLoris": 10.598568673627298,
+      "DDoS-SynonymousIP_Flood": 0.8552791371332852,
+      "DDoS-TCP_Flood": 0.7643523474553248,
+      "DDoS-UDP_Flood": 0.6959021427676082,
+      "DDoS-UDP_Fragmentation": 3.0056762934871926,
+      "DNS_Spoofing": 3.814353765692395,
+      "DictionaryBruteForce": 14.146585380635027,
+      "DoS-HTTP_Flood": 6.030525631201849,
+      "DoS-SYN_Flood": 1.139966734926462,
+      "DoS-TCP_Flood": 0.9909755330254946,
+      "DoS-UDP_Flood": 0.8892344595147682,
+      "MITM-ArpSpoofing": 2.914342354503935,
+      "Mirai-greeth_flood": 1.6301508194616876,
+      "Mirai-greip_flood": 1.8650657197505967,
+      "Mirai-udpplain": 1.7165400737791776,
+      "Recon-HostDiscovery": 4.428848662968741,
+      "Recon-OSScan": 5.1634836692751485,
+      "Recon-PingSweep": 35.35787136413399,
+      "Recon-PortScan": 5.652994960920765,
+      "SqlInjection": 22.877500961678845,
+      "Uploading_Attack": 47.30369272349306,
+      "VulnerabilityScan": 8.373575354969512,
+      "XSS": 27.310799727572054
+    },
+    "training_rows": 5492542,
+    "validation_rows": 1176701,
+    "feature_count": 44,
+    "class_count": 34,
+    "test_arrays_loaded": false,
+    "test_labels_loaded": false
+  },
+  "validation_metrics": {
+    "accuracy": 0.9740749774156732,
+    "macro_precision": 0.6766459437254746,
+    "macro_recall": 0.7133174568725176,
+    "macro_f1": 0.682134122843446,
+    "weighted_f1": 0.9739460323466345,
+    "evaluated_rows": 1176701,
+    "supported_classes": 34
+  },
+  "selected_epoch": 12,
+  "epochs_completed": 12,
+  "timing_seconds": {
+    "training_and_epoch_validation": 190.34631559997797,
+    "train_seconds_sum": 179.2832890000427,
+    "validation_seconds_sum": 9.739200299954973
+  },
+  "resource_samples": [
+    {
+      "working_set_bytes": 1384300544,
+      "peak_working_set_bytes": 1387315200,
+      "private_bytes": 905338880,
+      "epoch": 1
+    },
+    {
+      "working_set_bytes": 1385455616,
+      "peak_working_set_bytes": 1446023168,
+      "private_bytes": 905428992,
+      "epoch": 2
+    },
+    {
+      "working_set_bytes": 1386512384,
+      "peak_working_set_bytes": 1447260160,
+      "private_bytes": 906448896,
+      "epoch": 3
+    },
+    {
+      "working_set_bytes": 1387999232,
+      "peak_working_set_bytes": 1448464384,
+      "private_bytes": 906887168,
+      "epoch": 4
+    },
+    {
+      "working_set_bytes": 1387651072,
+      "peak_working_set_bytes": 1449644032,
+      "private_bytes": 906170368,
+      "epoch": 5
+    },
+    {
+      "working_set_bytes": 1387507712,
+      "peak_working_set_bytes": 1449644032,
+      "private_bytes": 907030528,
+      "epoch": 6
+    },
+    {
+      "working_set_bytes": 1389027328,
+      "peak_working_set_bytes": 1450119168,
+      "private_bytes": 908603392,
+      "epoch": 7
+    },
+    {
+      "working_set_bytes": 1387749376,
+      "peak_working_set_bytes": 1450278912,
+      "private_bytes": 905543680,
+      "epoch": 8
+    },
+    {
+      "working_set_bytes": 1388662784,
+      "peak_working_set_bytes": 1450278912,
+      "private_bytes": 906932224,
+      "epoch": 9
+    },
+    {
+      "working_set_bytes": 1388544000,
+      "peak_working_set_bytes": 1451606016,
+      "private_bytes": 906395648,
+      "epoch": 10
+    },
+    {
+      "working_set_bytes": 1389522944,
+      "peak_working_set_bytes": 1451606016,
+      "private_bytes": 907984896,
+      "epoch": 11
+    },
+    {
+      "working_set_bytes": 1388560384,
+      "peak_working_set_bytes": 1451606016,
+      "private_bytes": 906371072,
+      "epoch": 12
+    }
+  ],
+  "warnings": [],
+  "software_versions": {
+    "python": "3.14.3",
+    "numpy": "2.4.4",
+    "scikit_learn": "1.8.0",
+    "joblib": "1.5.3"
+  },
+  "checkpoint_path": "checkpoints/best_model.joblib",
+  "checkpoint_sha256": "3ff1554fafa6c1aabc403ef60cac5461d13313b12925f787b191e343a23c8e75",
+  "gradient_update_split": "training only",
+  "model_selection_split": "validation only",
+  "test_arrays_loaded": false,
+  "test_labels_loaded": false
+}

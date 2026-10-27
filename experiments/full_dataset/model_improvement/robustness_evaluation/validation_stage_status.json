@@ -1,0 +1,45 @@
+{
+  "completed_utc": "2026-10-26T13:26:41.851894+00:00",
+  "runs": [
+    {
+      "seed": 20261028,
+      "status": "trained"
+    },
+    {
+      "seed": 20261029,
+      "status": "trained"
+    }
+  ],
+  "selection_rule_result": {
+    "checks": {
+      "mean_macro_f1_exceeds_baseline": true,
+      "three_of_four_macro_f1_exceed_baseline": true,
+      "mean_macro_recall_not_lower": true,
+      "accuracy_within_1pp": true,
+      "weighted_f1_within_1pp": true,
+      "12_weak_class_mean_f1_within_1pp": true,
+      "uploading_recall_positive_in_two_runs": true
+    },
+    "passed": true,
+    "candidate_mean_metrics": {
+      "accuracy": 0.9785623110713767,
+      "macro_precision": 0.6796060380522181,
+      "macro_recall": 0.7083709806369048,
+      "macro_f1": 0.6850452607154908,
+      "weighted_f1": 0.978503624085524
+    },
+    "baseline_macro_f1": 0.6696508820436516,
+    "baseline_12_weak_class_mean_f1": 0.2242559952938276,
+    "candidate_12_weak_class_mean_f1": 0.2481163927901634,
+    "uploading_attack_validation_recall_by_seed": [
+      0.0,
+      0.05405405405405406,
+      0.08108108108108109,
+      0.05405405405405406
+    ],
+    "uploading_attack_positive_seed_count": 3,
+    "test_data_used": false
+  },
+  "test_arrays_loaded": false,
+  "test_labels_loaded": false
+}

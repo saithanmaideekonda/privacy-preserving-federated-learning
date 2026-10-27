@@ -1,0 +1,2113 @@
+scenario,client_id,window_index,feature,psi,threshold,alert,synthetic_shift_applied,current_bin_counts
+no_drift,1,1,flow_duration,0.0018112995417491277,0.25,False,False,"[2516, 367, 394, 397, 422]"
+no_drift,1,1,Header_Length,0.0020921931889213412,0.25,False,False,"[359, 101, 1630, 421, 408, 392, 366, 419]"
+no_drift,1,1,Protocol Type,0.0013856208479797953,0.25,False,False,"[309, 2609, 381, 797]"
+no_drift,1,1,Duration,0.000811560185647548,0.25,False,False,"[367, 46, 3202, 481]"
+no_drift,1,1,Rate,0.0030370141441875727,0.25,False,False,"[409, 386, 445, 428, 431, 411, 407, 424, 387, 368]"
+no_drift,1,1,Srate,0.0030370141441875727,0.25,False,False,"[409, 386, 445, 428, 431, 411, 407, 424, 387, 368]"
+no_drift,1,1,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,1,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,1,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,1,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,1,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,1,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,1,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,1,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,1,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,1,syn_count,0.0008664185308136663,0.25,False,False,"[2807, 261, 595, 433]"
+no_drift,1,1,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,1,urg_count,0.00027210946130821237,0.25,False,False,"[3648, 448]"
+no_drift,1,1,rst_count,0.00039166335889733687,0.25,False,False,"[3231, 376, 489]"
+no_drift,1,1,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,1,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,1,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,1,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,1,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,1,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,1,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,1,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,1,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,1,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,1,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,1,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,1,Tot sum,0.0019957170421069643,0.25,False,False,"[138, 618, 2104, 410, 405, 421]"
+no_drift,1,1,Min,0.001758640814757261,0.25,False,False,"[109, 651, 2924, 412]"
+no_drift,1,1,Max,0.001763627895151366,0.25,False,False,"[95, 555, 2211, 402, 401, 432]"
+no_drift,1,1,AVG,0.0021543100595239817,0.25,False,False,"[98, 610, 2157, 403, 418, 410]"
+no_drift,1,1,Std,0.0007495743753352684,0.25,False,False,"[2875, 404, 384, 433]"
+no_drift,1,1,Tot size,0.002297750873139972,0.25,False,False,"[98, 613, 2065, 493, 402, 425]"
+no_drift,1,1,IAT,0.003965209659935593,0.25,False,False,"[422, 430, 404, 428, 379, 363, 418, 444, 383, 425]"
+no_drift,1,1,Number,2.8750880143573557e-06,0.25,False,False,"[136, 3960]"
+no_drift,1,1,Magnitue,0.0020648420710164188,0.25,False,False,"[98, 614, 2148, 405, 423, 408]"
+no_drift,1,1,Radius,0.0007927357511113262,0.25,False,False,"[2870, 411, 381, 434]"
+no_drift,1,1,Covariance,0.0002918983733675903,0.25,False,False,"[2871, 393, 408, 424]"
+no_drift,1,1,Variance,0.0007967521791872579,0.25,False,False,"[2881, 362, 426, 427]"
+no_drift,1,1,Weight,1.0474668897021147e-06,0.25,False,False,"[136, 3960]"
+no_drift,1,2,flow_duration,0.000493966553737941,0.25,False,False,"[2445, 404, 411, 436, 400]"
+no_drift,1,2,Header_Length,0.0014526417104672998,0.25,False,False,"[347, 112, 1569, 453, 411, 384, 408, 412]"
+no_drift,1,2,Protocol Type,0.00020236708716268235,0.25,False,False,"[318, 2561, 402, 815]"
+no_drift,1,2,Duration,0.001529413450396388,0.25,False,False,"[406, 37, 3224, 429]"
+no_drift,1,2,Rate,0.0018693306372550038,0.25,False,False,"[425, 413, 399, 403, 420, 402, 401, 418, 442, 373]"
+no_drift,1,2,Srate,0.0018693306372550038,0.25,False,False,"[425, 413, 399, 403, 420, 402, 401, 418, 442, 373]"
+no_drift,1,2,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,2,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,2,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,2,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,2,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,2,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,2,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,2,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,2,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,2,syn_count,0.0012466551766026005,0.25,False,False,"[2813, 272, 609, 402]"
+no_drift,1,2,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,2,urg_count,0.00014843767471664748,0.25,False,False,"[3684, 412]"
+no_drift,1,2,rst_count,3.769664602654344e-05,0.25,False,False,"[3245, 391, 460]"
+no_drift,1,2,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,2,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,2,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,2,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,2,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,2,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,2,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,2,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,2,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,2,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,2,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,2,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,2,Tot sum,0.00038578559667441445,0.25,False,False,"[126, 652, 2083, 421, 411, 403]"
+no_drift,1,2,Min,0.00019036808739383637,0.25,False,False,"[101, 697, 2897, 401]"
+no_drift,1,2,Max,0.0002236058589660054,0.25,False,False,"[83, 592, 2210, 409, 402, 400]"
+no_drift,1,2,AVG,0.0004553141420939316,0.25,False,False,"[88, 647, 2137, 418, 402, 404]"
+no_drift,1,2,Std,0.000363958321526558,0.25,False,False,"[2891, 396, 416, 393]"
+no_drift,1,2,Tot size,0.0003674200535615001,0.25,False,False,"[88, 650, 2037, 513, 404, 404]"
+no_drift,1,2,IAT,0.0020820356527599206,0.25,False,False,"[420, 442, 375, 403, 420, 388, 400, 416, 432, 400]"
+no_drift,1,2,Number,7.139630791185514e-05,0.25,False,False,"[141, 3955]"
+no_drift,1,2,Magnitue,0.000565357096581201,0.25,False,False,"[89, 647, 2125, 430, 400, 405]"
+no_drift,1,2,Radius,0.00029686485097703936,0.25,False,False,"[2883, 402, 418, 393]"
+no_drift,1,2,Covariance,0.0003172365549320034,0.25,False,False,"[2892, 408, 407, 389]"
+no_drift,1,2,Variance,0.00037644161932013444,0.25,False,False,"[2876, 373, 425, 422]"
+no_drift,1,2,Weight,6.048868588233433e-05,0.25,False,False,"[141, 3955]"
+no_drift,1,3,flow_duration,0.0010559689934154085,0.25,False,False,"[2399, 438, 418, 413, 428]"
+no_drift,1,3,Header_Length,0.0014867107405891595,0.25,False,False,"[362, 105, 1548, 403, 425, 388, 447, 418]"
+no_drift,1,3,Protocol Type,0.00022900491273434927,0.25,False,False,"[310, 2518, 425, 843]"
+no_drift,1,3,Duration,0.000869051753794215,0.25,False,False,"[430, 39, 3150, 477]"
+no_drift,1,3,Rate,0.001173116655341547,0.25,False,False,"[404, 405, 409, 395, 406, 398, 420, 405, 406, 448]"
+no_drift,1,3,Srate,0.001173116655341547,0.25,False,False,"[404, 405, 409, 395, 406, 398, 420, 405, 406, 448]"
+no_drift,1,3,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,3,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,3,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,3,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,3,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,3,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,3,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,3,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,3,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,3,syn_count,0.00100452801442332,0.25,False,False,"[2827, 247, 573, 449]"
+no_drift,1,3,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,3,urg_count,0.00017850377184350444,0.25,False,False,"[3652, 444]"
+no_drift,1,3,rst_count,0.00019273679502475764,0.25,False,False,"[3220, 390, 486]"
+no_drift,1,3,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,3,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,3,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,3,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,3,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,3,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,3,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,3,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,3,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,3,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,3,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,3,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,3,Tot sum,0.0018261385965485848,0.25,False,False,"[110, 708, 2026, 406, 403, 443]"
+no_drift,1,3,Min,0.0008488558454391676,0.25,False,False,"[89, 742, 2842, 423]"
+no_drift,1,3,Max,0.0004979702196950046,0.25,False,False,"[75, 619, 2154, 417, 411, 420]"
+no_drift,1,3,AVG,0.0012629259885805202,0.25,False,False,"[78, 699, 2072, 414, 395, 438]"
+no_drift,1,3,Std,0.0005557656939627159,0.25,False,False,"[2825, 433, 420, 418]"
+no_drift,1,3,Tot size,0.0013185905257854322,0.25,False,False,"[78, 699, 1995, 495, 390, 439]"
+no_drift,1,3,IAT,0.0025214714052162203,0.25,False,False,"[390, 411, 396, 367, 422, 419, 396, 429, 434, 432]"
+no_drift,1,3,Number,0.00011602202560043305,0.25,False,False,"[127, 3969]"
+no_drift,1,3,Magnitue,0.0011238397188821385,0.25,False,False,"[78, 702, 2070, 413, 398, 435]"
+no_drift,1,3,Radius,0.0006286259103029952,0.25,False,False,"[2823, 433, 422, 418]"
+no_drift,1,3,Covariance,0.00046680391190410795,0.25,False,False,"[2828, 428, 417, 423]"
+no_drift,1,3,Variance,0.0009424773621290149,0.25,False,False,"[2822, 377, 470, 427]"
+no_drift,1,3,Weight,0.00010075340956194908,0.25,False,False,"[128, 3968]"
+no_drift,1,4,flow_duration,0.0014633888176449152,0.25,False,False,"[2428, 416, 455, 404, 393]"
+no_drift,1,4,Header_Length,0.0025684317712710725,0.25,False,False,"[351, 118, 1544, 450, 438, 388, 426, 381]"
+no_drift,1,4,Protocol Type,0.0017042094654079842,0.25,False,False,"[300, 2520, 459, 817]"
+no_drift,1,4,Duration,0.0006210173591357023,0.25,False,False,"[415, 43, 3142, 496]"
+no_drift,1,4,Rate,0.0010446444483385138,0.25,False,False,"[432, 382, 404, 415, 410, 408, 402, 401, 418, 424]"
+no_drift,1,4,Srate,0.0010446444483385138,0.25,False,False,"[432, 382, 404, 415, 410, 408, 402, 401, 418, 424]"
+no_drift,1,4,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,4,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,4,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,4,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,4,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,4,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,4,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,4,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,4,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,4,syn_count,0.001259048247891749,0.25,False,False,"[2808, 250, 635, 403]"
+no_drift,1,4,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,4,urg_count,4.815886596648124e-07,0.25,False,False,"[3668, 428]"
+no_drift,1,4,rst_count,0.0005771913456068196,0.25,False,False,"[3207, 421, 468]"
+no_drift,1,4,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,4,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,4,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,4,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,4,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,4,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,4,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,4,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,4,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,4,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,4,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,4,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,4,Tot sum,0.003420045670060136,0.25,False,False,"[116, 695, 2012, 475, 428, 370]"
+no_drift,1,4,Min,0.0007668536846623789,0.25,False,False,"[87, 738, 2868, 403]"
+no_drift,1,4,Max,0.0029801068670497624,0.25,False,False,"[71, 595, 2152, 464, 435, 379]"
+no_drift,1,4,AVG,0.0035625459196811293,0.25,False,False,"[74, 692, 2068, 469, 417, 376]"
+no_drift,1,4,Std,0.0027470853235766813,0.25,False,False,"[2789, 458, 449, 400]"
+no_drift,1,4,Tot size,0.0018566713065284336,0.25,False,False,"[75, 696, 1981, 548, 406, 390]"
+no_drift,1,4,IAT,0.0019941607940146306,0.25,False,False,"[394, 428, 387, 398, 427, 435, 381, 396, 432, 418]"
+no_drift,1,4,Number,7.139630791185514e-05,0.25,False,False,"[141, 3955]"
+no_drift,1,4,Magnitue,0.003604844218790081,0.25,False,False,"[74, 692, 2062, 472, 422, 374]"
+no_drift,1,4,Radius,0.0025049883612053175,0.25,False,False,"[2792, 455, 446, 403]"
+no_drift,1,4,Covariance,0.002935788218657244,0.25,False,False,"[2802, 462, 445, 387]"
+no_drift,1,4,Variance,0.0029827534888704887,0.25,False,False,"[2785, 386, 506, 419]"
+no_drift,1,4,Weight,6.048868588233433e-05,0.25,False,False,"[141, 3955]"
+no_drift,1,5,flow_duration,0.0005933667862766644,0.25,False,False,"[2456, 393, 436, 404, 407]"
+no_drift,1,5,Header_Length,0.0010492326747939414,0.25,False,False,"[353, 105, 1566, 444, 415, 387, 405, 421]"
+no_drift,1,5,Protocol Type,0.0004643496928613481,0.25,False,False,"[318, 2551, 424, 803]"
+no_drift,1,5,Duration,0.0005630931940236596,0.25,False,False,"[411, 37, 3187, 461]"
+no_drift,1,5,Rate,0.0028859422104523347,0.25,False,False,"[383, 400, 404, 382, 424, 460, 393, 420, 424, 406]"
+no_drift,1,5,Srate,0.0028859422104523347,0.25,False,False,"[383, 400, 404, 382, 424, 460, 393, 420, 424, 406]"
+no_drift,1,5,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,5,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,5,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,5,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,5,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,5,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,5,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,5,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,5,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,5,syn_count,1.221162439211622e-05,0.25,False,False,"[2858, 242, 589, 407]"
+no_drift,1,5,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,5,urg_count,2.903916807636304e-06,0.25,False,False,"[3671, 425]"
+no_drift,1,5,rst_count,0.00029949046294573006,0.25,False,False,"[3262, 373, 461]"
+no_drift,1,5,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,5,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,5,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,5,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,5,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,5,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,5,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,5,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,5,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,5,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,5,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,5,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,5,Tot sum,0.003523841624379777,0.25,False,False,"[158, 685, 2086, 405, 403, 359]"
+no_drift,1,5,Min,0.0010662534282333972,0.25,False,False,"[119, 726, 2864, 387]"
+no_drift,1,5,Max,0.0027738651816606036,0.25,False,False,"[105, 596, 2208, 407, 417, 363]"
+no_drift,1,5,AVG,0.002848491881004082,0.25,False,False,"[109, 681, 2133, 394, 417, 362]"
+no_drift,1,5,Std,0.0014676925408338454,0.25,False,False,"[2885, 404, 437, 370]"
+no_drift,1,5,Tot size,0.002773767826602466,0.25,False,False,"[109, 682, 2041, 484, 415, 365]"
+no_drift,1,5,IAT,0.002045863771588799,0.25,False,False,"[402, 438, 412, 416, 440, 396, 409, 416, 388, 379]"
+no_drift,1,5,Number,9.577669940222031e-05,0.25,False,False,"[142, 3954]"
+no_drift,1,5,Magnitue,0.002862471649701547,0.25,False,False,"[109, 681, 2129, 395, 419, 363]"
+no_drift,1,5,Radius,0.001619087399953295,0.25,False,False,"[2884, 403, 439, 370]"
+no_drift,1,5,Covariance,0.001240482138071852,0.25,False,False,"[2885, 395, 438, 378]"
+no_drift,1,5,Variance,0.00037378027287843777,0.25,False,False,"[2886, 381, 433, 396]"
+no_drift,1,5,Weight,0.00010913486536071514,0.25,False,False,"[143, 3953]"
+no_drift,1,6,flow_duration,0.0012858013486802828,0.25,False,False,"[2400, 400, 433, 427, 436]"
+no_drift,1,6,Header_Length,0.0016395520692700132,0.25,False,False,"[355, 101, 1538, 438, 422, 386, 420, 436]"
+no_drift,1,6,Protocol Type,0.00025615152354666846,0.25,False,False,"[304, 2532, 426, 834]"
+no_drift,1,6,Duration,0.0017849419754962807,0.25,False,False,"[388, 65, 3167, 476]"
+no_drift,1,6,Rate,0.0032669320623479607,0.25,False,False,"[453, 392, 403, 411, 405, 394, 402, 402, 455, 379]"
+no_drift,1,6,Srate,0.0032669320623479607,0.25,False,False,"[453, 392, 403, 411, 405, 394, 402, 402, 455, 379]"
+no_drift,1,6,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,6,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,6,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,6,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,6,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,6,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,6,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,6,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,6,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,6,syn_count,0.0008383977401853572,0.25,False,False,"[2820, 254, 622, 400]"
+no_drift,1,6,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,6,urg_count,0.0005525165049665878,0.25,False,False,"[3639, 457]"
+no_drift,1,6,rst_count,0.0009302424114105738,0.25,False,False,"[3185, 415, 496]"
+no_drift,1,6,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,6,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,6,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,6,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,6,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,6,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,6,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,6,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,6,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,6,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,6,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,6,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,6,Tot sum,0.0008883893788643967,0.25,False,False,"[123, 676, 2053, 391, 423, 430]"
+no_drift,1,6,Min,6.465181780583506e-05,0.25,False,False,"[102, 708, 2867, 419]"
+no_drift,1,6,Max,0.0013073197303203337,0.25,False,False,"[80, 587, 2189, 379, 427, 434]"
+no_drift,1,6,AVG,0.001806211360403899,0.25,False,False,"[85, 670, 2115, 365, 428, 433]"
+no_drift,1,6,Std,0.0020368307301116837,0.25,False,False,"[2861, 365, 436, 434]"
+no_drift,1,6,Tot size,0.0005654557516785753,0.25,False,False,"[85, 671, 1998, 489, 435, 418]"
+no_drift,1,6,IAT,0.0017793293785425411,0.25,False,False,"[420, 400, 386, 389, 435, 399, 404, 406, 420, 437]"
+no_drift,1,6,Number,1.9459733123114612e-05,0.25,False,False,"[138, 3958]"
+no_drift,1,6,Magnitue,0.0019668039759757347,0.25,False,False,"[85, 671, 2111, 367, 428, 434]"
+no_drift,1,6,Radius,0.0021509431225142967,0.25,False,False,"[2860, 363, 437, 436]"
+no_drift,1,6,Covariance,0.001464124125916921,0.25,False,False,"[2859, 373, 438, 426]"
+no_drift,1,6,Variance,0.0014929992923524427,0.25,False,False,"[2848, 365, 427, 456]"
+no_drift,1,6,Weight,2.590710721060148e-05,0.25,False,False,"[139, 3957]"
+no_drift,1,7,flow_duration,0.0005741676476191185,0.25,False,False,"[2432, 437, 418, 406, 403]"
+no_drift,1,7,Header_Length,0.003427090898938009,0.25,False,False,"[312, 102, 1609, 427, 430, 432, 410, 374]"
+no_drift,1,7,Protocol Type,0.0013279582164960285,0.25,False,False,"[313, 2606, 390, 787]"
+no_drift,1,7,Duration,0.000638973668296768,0.25,False,False,"[395, 51, 3208, 442]"
+no_drift,1,7,Rate,0.002163249499892992,0.25,False,False,"[415, 418, 395, 392, 407, 442, 442, 388, 409, 388]"
+no_drift,1,7,Srate,0.002163249499892992,0.25,False,False,"[415, 418, 395, 392, 407, 442, 442, 388, 409, 388]"
+no_drift,1,7,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,7,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,7,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,7,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,7,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,7,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,7,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,7,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,7,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,7,syn_count,0.00039999294417281085,0.25,False,False,"[2822, 245, 599, 430]"
+no_drift,1,7,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,7,urg_count,0.00029137658485468707,0.25,False,False,"[3690, 406]"
+no_drift,1,7,rst_count,0.0008441917863145668,0.25,False,False,"[3221, 425, 450]"
+no_drift,1,7,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,7,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,7,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,7,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,7,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,7,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,7,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,7,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,7,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,7,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,7,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,7,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,7,Tot sum,0.003216098356644062,0.25,False,False,"[126, 669, 2115, 413, 426, 347]"
+no_drift,1,7,Min,0.0011248491375827588,0.25,False,False,"[100, 697, 2925, 374]"
+no_drift,1,7,Max,0.002533925171569367,0.25,False,False,"[81, 583, 2244, 439, 374, 375]"
+no_drift,1,7,AVG,0.002332572167835653,0.25,False,False,"[87, 665, 2163, 417, 409, 355]"
+no_drift,1,7,Std,0.0013851836689300478,0.25,False,False,"[2880, 434, 413, 369]"
+no_drift,1,7,Tot size,0.002022635772873646,0.25,False,False,"[87, 664, 2071, 515, 396, 363]"
+no_drift,1,7,IAT,0.00222844568875455,0.25,False,False,"[412, 425, 405, 393, 446, 392, 419, 391, 433, 380]"
+no_drift,1,7,Number,0.0005606068982910278,0.25,False,False,"[118, 3978]"
+no_drift,1,7,Magnitue,0.0025567010870974636,0.25,False,False,"[87, 666, 2157, 419, 415, 352]"
+no_drift,1,7,Radius,0.0012585397051065443,0.25,False,False,"[2886, 425, 415, 370]"
+no_drift,1,7,Covariance,0.0007244151036226215,0.25,False,False,"[2894, 422, 399, 381]"
+no_drift,1,7,Variance,0.00043810701045389667,0.25,False,False,"[2872, 380, 449, 395]"
+no_drift,1,7,Weight,0.0005240566583998584,0.25,False,False,"[119, 3977]"
+no_drift,1,8,flow_duration,0.0011283230590319725,0.25,False,False,"[2457, 414, 401, 442, 382]"
+no_drift,1,8,Header_Length,0.0013266255398782269,0.25,False,False,"[356, 110, 1580, 393, 443, 385, 412, 417]"
+no_drift,1,8,Protocol Type,0.00013736170781369748,0.25,False,False,"[320, 2516, 412, 848]"
+no_drift,1,8,Duration,0.0012474661240459506,0.25,False,False,"[408, 47, 3216, 425]"
+no_drift,1,8,Rate,0.0033902121835496023,0.25,False,False,"[450, 406, 419, 422, 377, 384, 373, 410, 433, 422]"
+no_drift,1,8,Srate,0.0033902121835496023,0.25,False,False,"[450, 406, 419, 422, 377, 384, 373, 410, 433, 422]"
+no_drift,1,8,Drate,0.0,0.25,False,False,[4096]
+no_drift,1,8,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,8,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,8,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,8,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,8,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,8,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,8,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,1,8,ack_count,0.0,0.25,False,False,[4096]
+no_drift,1,8,syn_count,0.0007997619242280024,0.25,False,False,"[2896, 226, 557, 417]"
+no_drift,1,8,fin_count,0.0,0.25,False,False,[4096]
+no_drift,1,8,urg_count,0.00011155193207734595,0.25,False,False,"[3682, 414]"
+no_drift,1,8,rst_count,0.00037994380192888586,0.25,False,False,"[3264, 370, 462]"
+no_drift,1,8,HTTP,0.0,0.25,False,False,[4096]
+no_drift,1,8,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,1,8,DNS,0.0,0.25,False,False,[4096]
+no_drift,1,8,SMTP,0.0,0.25,False,False,[4096]
+no_drift,1,8,SSH,0.0,0.25,False,False,[4096]
+no_drift,1,8,TCP,0.0,0.25,False,False,[4096]
+no_drift,1,8,UDP,0.0,0.25,False,False,[4096]
+no_drift,1,8,DHCP,0.0,0.25,False,False,[4096]
+no_drift,1,8,ARP,0.0,0.25,False,False,[4096]
+no_drift,1,8,ICMP,0.0,0.25,False,False,[4096]
+no_drift,1,8,IPv,0.0,0.25,False,False,[4096]
+no_drift,1,8,LLC,0.0,0.25,False,False,[4096]
+no_drift,1,8,Tot sum,0.0005522370134482056,0.25,False,False,"[125, 698, 2063, 425, 391, 394]"
+no_drift,1,8,Min,0.00026293082684201465,0.25,False,False,"[109, 729, 2853, 405]"
+no_drift,1,8,Max,0.002936988018517523,0.25,False,False,"[92, 621, 2199, 381, 440, 363]"
+no_drift,1,8,AVG,0.0008057280574402048,0.25,False,False,"[94, 694, 2125, 392, 403, 388]"
+no_drift,1,8,Std,0.0012211035356856947,0.25,False,False,"[2898, 425, 370, 403]"
+no_drift,1,8,Tot size,0.0006242216711076208,0.25,False,False,"[94, 696, 2012, 505, 401, 388]"
+no_drift,1,8,IAT,0.0013096177355049613,0.25,False,False,"[386, 421, 409, 395, 403, 420, 434, 409, 432, 387]"
+no_drift,1,8,Number,0.0004313321837168122,0.25,False,False,"[120, 3976]"
+no_drift,1,8,Magnitue,0.0007122481063784862,0.25,False,False,"[94, 696, 2113, 401, 405, 387]"
+no_drift,1,8,Radius,0.0012143070512639939,0.25,False,False,"[2895, 426, 370, 405]"
+no_drift,1,8,Covariance,0.001061121860987686,0.25,False,False,"[2895, 428, 376, 397]"
+no_drift,1,8,Variance,0.0002758759359583159,0.25,False,False,"[2874, 398, 426, 398]"
+no_drift,1,8,Weight,0.0004597145376490262,0.25,False,False,"[120, 3976]"
+no_drift,2,1,flow_duration,0.0009333865359793035,0.25,False,False,"[2456, 443, 398, 391, 408]"
+no_drift,2,1,Header_Length,0.001138867130999321,0.25,False,False,"[422, 262, 1754, 371, 450, 433, 404]"
+no_drift,2,1,Protocol Type,0.0017652980547021185,0.25,False,False,"[413, 160, 2678, 179, 666]"
+no_drift,2,1,Duration,0.0005488188944479586,0.25,False,False,"[382, 40, 3228, 446]"
+no_drift,2,1,Rate,0.0024229911575104073,0.25,False,False,"[430, 392, 407, 393, 375, 429, 439, 403, 398, 430]"
+no_drift,2,1,Srate,0.0024229911575104073,0.25,False,False,"[430, 392, 407, 393, 375, 429, 439, 403, 398, 430]"
+no_drift,2,1,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,1,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,1,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,1,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,1,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,1,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,1,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,1,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,1,ack_count,0.00115711179436225,0.25,False,False,"[3217, 103, 776]"
+no_drift,2,1,syn_count,0.00038131110979773325,0.25,False,False,"[2811, 117, 756, 412]"
+no_drift,2,1,fin_count,0.0010064703915814083,0.25,False,False,"[3203, 106, 787]"
+no_drift,2,1,urg_count,7.107265987214197e-05,0.25,False,False,"[3695, 401]"
+no_drift,2,1,rst_count,0.00037050724797644744,0.25,False,False,"[3244, 445, 407]"
+no_drift,2,1,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,1,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,1,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,1,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,1,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,1,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,1,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,1,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,1,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,1,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,1,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,1,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,1,Tot sum,0.002278246031594518,0.25,False,False,"[347, 489, 27, 2031, 371, 388, 443]"
+no_drift,2,1,Min,0.0002771408946247345,0.25,False,False,"[329, 500, 39, 2806, 422]"
+no_drift,2,1,Max,0.0016842891500676088,0.25,False,False,"[298, 441, 2147, 370, 384, 456]"
+no_drift,2,1,AVG,0.0021346454291077946,0.25,False,False,"[316, 511, 2067, 381, 370, 451]"
+no_drift,2,1,Std,0.001098366806556538,0.25,False,False,"[2908, 377, 390, 421]"
+no_drift,2,1,Tot size,0.00280231053630658,0.25,False,False,"[316, 511, 2036, 395, 384, 454]"
+no_drift,2,1,IAT,0.004199660874862836,0.25,False,False,"[406, 472, 434, 420, 377, 407, 397, 396, 378, 409]"
+no_drift,2,1,Number,0.0005561323178790389,0.25,False,False,"[121, 3975]"
+no_drift,2,1,Magnitue,0.002293912816765592,0.25,False,False,"[316, 512, 2076, 372, 374, 446]"
+no_drift,2,1,Radius,0.0012677680612724887,0.25,False,False,"[2909, 381, 384, 422]"
+no_drift,2,1,Covariance,0.001282591237080783,0.25,False,False,"[2913, 371, 396, 416]"
+no_drift,2,1,Variance,0.0018118714364870076,0.25,False,False,"[2924, 338, 416, 418]"
+no_drift,2,1,Weight,0.0005887460665543177,0.25,False,False,"[122, 3974]"
+no_drift,2,2,flow_duration,0.001066519291529437,0.25,False,False,"[2444, 397, 420, 444, 391]"
+no_drift,2,2,Header_Length,0.00217663559400079,0.25,False,False,"[406, 320, 1761, 367, 448, 368, 426]"
+no_drift,2,2,Protocol Type,0.00024930266308020513,0.25,False,False,"[406, 185, 2692, 174, 639]"
+no_drift,2,2,Duration,0.00012147042893722049,0.25,False,False,"[410, 45, 3212, 429]"
+no_drift,2,2,Rate,0.0032074635426033097,0.25,False,False,"[406, 388, 413, 449, 450, 391, 400, 424, 397, 378]"
+no_drift,2,2,Srate,0.0032074635426033097,0.25,False,False,"[406, 388, 413, 449, 450, 391, 400, 424, 397, 378]"
+no_drift,2,2,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,2,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,2,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,2,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,2,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,2,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,2,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,2,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,2,ack_count,1.2590771616359655e-05,0.25,False,False,"[3184, 122, 790]"
+no_drift,2,2,syn_count,0.0017624397696574161,0.25,False,False,"[2779, 108, 768, 441]"
+no_drift,2,2,fin_count,2.164810861651073e-05,0.25,False,False,"[3184, 125, 787]"
+no_drift,2,2,urg_count,0.0004009426065219882,0.25,False,False,"[3709, 387]"
+no_drift,2,2,rst_count,0.0013205534660764777,0.25,False,False,"[3208, 508, 380]"
+no_drift,2,2,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,2,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,2,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,2,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,2,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,2,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,2,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,2,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,2,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,2,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,2,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,2,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,2,Tot sum,0.0028245404973810386,0.25,False,False,"[347, 427, 29, 2038, 389, 407, 459]"
+no_drift,2,2,Min,0.0012914961233743433,0.25,False,False,"[338, 448, 36, 2834, 440]"
+no_drift,2,2,Max,0.0017914719949022361,0.25,False,False,"[310, 383, 2135, 410, 375, 483]"
+no_drift,2,2,AVG,0.002275538901689362,0.25,False,False,"[328, 451, 2072, 386, 393, 466]"
+no_drift,2,2,Std,0.0009067792684452894,0.25,False,False,"[2841, 389, 433, 433]"
+no_drift,2,2,Tot size,0.0018644948180890665,0.25,False,False,"[327, 445, 2028, 428, 404, 464]"
+no_drift,2,2,IAT,0.0032153822289758805,0.25,False,False,"[377, 377, 431, 397, 409, 391, 410, 413, 458, 433]"
+no_drift,2,2,Number,0.0001272768562466696,0.25,False,False,"[98, 3998]"
+no_drift,2,2,Magnitue,0.0022464407571751678,0.25,False,False,"[328, 453, 2076, 381, 397, 461]"
+no_drift,2,2,Radius,0.0012467151436283722,0.25,False,False,"[2845, 383, 434, 434]"
+no_drift,2,2,Covariance,0.001520256655570101,0.25,False,False,"[2845, 378, 437, 436]"
+no_drift,2,2,Variance,0.00027593797424706304,0.25,False,False,"[2860, 366, 440, 430]"
+no_drift,2,2,Weight,0.0001449519037193924,0.25,False,False,"[98, 3998]"
+no_drift,2,3,flow_duration,0.0004166695301042121,0.25,False,False,"[2460, 422, 393, 399, 422]"
+no_drift,2,3,Header_Length,0.0012473215252412422,0.25,False,False,"[421, 308, 1763, 393, 418, 383, 410]"
+no_drift,2,3,Protocol Type,0.0013021287205249984,0.25,False,False,"[442, 173, 2684, 188, 609]"
+no_drift,2,3,Duration,0.0002747778320194719,0.25,False,False,"[416, 49, 3202, 429]"
+no_drift,2,3,Rate,0.0036570251888155634,0.25,False,False,"[433, 443, 354, 414, 406, 415, 419, 429, 388, 395]"
+no_drift,2,3,Srate,0.0036570251888155634,0.25,False,False,"[433, 443, 354, 414, 406, 415, 419, 429, 388, 395]"
+no_drift,2,3,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,3,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,3,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,3,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,3,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,3,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,3,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,3,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,3,ack_count,0.00044142553878361056,0.25,False,False,"[3204, 131, 761]"
+no_drift,2,3,syn_count,0.00023928464703310272,0.25,False,False,"[2813, 125, 748, 410]"
+no_drift,2,3,fin_count,0.0003538806881946392,0.25,False,False,"[3201, 132, 763]"
+no_drift,2,3,urg_count,0.0001015131350238801,0.25,False,False,"[3697, 399]"
+no_drift,2,3,rst_count,0.0006260272299426056,0.25,False,False,"[3191, 502, 403]"
+no_drift,2,3,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,3,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,3,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,3,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,3,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,3,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,3,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,3,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,3,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,3,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,3,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,3,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,3,Tot sum,0.0015875417380826272,0.25,False,False,"[380, 439, 20, 2033, 404, 381, 439]"
+no_drift,2,3,Min,0.001827876653048817,0.25,False,False,"[362, 451, 40, 2800, 443]"
+no_drift,2,3,Max,0.002324960124323508,0.25,False,False,"[329, 371, 2151, 408, 366, 471]"
+no_drift,2,3,AVG,0.0018102215370282549,0.25,False,False,"[348, 454, 2067, 398, 379, 450]"
+no_drift,2,3,Std,0.0018258527666334056,0.25,False,False,"[2830, 382, 452, 432]"
+no_drift,2,3,Tot size,0.001546825025171955,0.25,False,False,"[349, 453, 2029, 433, 387, 445]"
+no_drift,2,3,IAT,0.0032452634137374353,0.25,False,False,"[408, 371, 415, 411, 415, 390, 398, 406, 475, 407]"
+no_drift,2,3,Number,4.255889066172141e-05,0.25,False,False,"[101, 3995]"
+no_drift,2,3,Magnitue,0.0019872659658031126,0.25,False,False,"[348, 456, 2073, 389, 382, 448]"
+no_drift,2,3,Radius,0.0016782369982147054,0.25,False,False,"[2836, 382, 446, 432]"
+no_drift,2,3,Covariance,0.0030136871107052515,0.25,False,False,"[2844, 365, 462, 425]"
+no_drift,2,3,Variance,0.000507166708211943,0.25,False,False,"[2844, 372, 439, 441]"
+no_drift,2,3,Weight,5.3020721650522885e-05,0.25,False,False,"[101, 3995]"
+no_drift,2,4,flow_duration,0.0002594946722074736,0.25,False,False,"[2474, 417, 407, 392, 406]"
+no_drift,2,4,Header_Length,0.0022369692015980474,0.25,False,False,"[421, 296, 1755, 329, 464, 409, 422]"
+no_drift,2,4,Protocol Type,0.00037900425850439915,0.25,False,False,"[423, 182, 2655, 184, 652]"
+no_drift,2,4,Duration,0.00031332365112668963,0.25,False,False,"[390, 49, 3213, 444]"
+no_drift,2,4,Rate,0.002435780185539683,0.25,False,False,"[402, 381, 424, 422, 420, 371, 404, 438, 406, 428]"
+no_drift,2,4,Srate,0.002435780185539683,0.25,False,False,"[402, 381, 424, 422, 420, 371, 404, 438, 406, 428]"
+no_drift,2,4,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,4,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,4,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,4,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,4,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,4,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,4,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,4,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,4,ack_count,0.000135344698654182,0.25,False,False,"[3167, 132, 797]"
+no_drift,2,4,syn_count,0.00027745010023950425,0.25,False,False,"[2857, 118, 730, 391]"
+no_drift,2,4,fin_count,0.00013252436374706252,0.25,False,False,"[3164, 135, 797]"
+no_drift,2,4,urg_count,0.0003369423542921799,0.25,False,False,"[3707, 389]"
+no_drift,2,4,rst_count,0.0008375407355278365,0.25,False,False,"[3265, 445, 386]"
+no_drift,2,4,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,4,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,4,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,4,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,4,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,4,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,4,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,4,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,4,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,4,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,4,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,4,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,4,Tot sum,0.0005530165186438817,0.25,False,False,"[362, 462, 21, 1989, 417, 403, 442]"
+no_drift,2,4,Min,0.00047501514790151435,0.25,False,False,"[336, 488, 40, 2797, 435]"
+no_drift,2,4,Max,0.0008968257133173041,0.25,False,False,"[307, 420, 2086, 427, 396, 460]"
+no_drift,2,4,AVG,0.0005845175044813633,0.25,False,False,"[325, 486, 2018, 411, 412, 444]"
+no_drift,2,4,Std,0.0003176082604983677,0.25,False,False,"[2849, 403, 413, 431]"
+no_drift,2,4,Tot size,0.0006256457092925797,0.25,False,False,"[325, 484, 1986, 433, 418, 450]"
+no_drift,2,4,IAT,0.0014824287143553373,0.25,False,False,"[391, 420, 423, 388, 395, 406, 439, 410, 402, 422]"
+no_drift,2,4,Number,3.365264955704341e-06,0.25,False,False,"[104, 3992]"
+no_drift,2,4,Magnitue,0.0005907584324374884,0.25,False,False,"[326, 486, 2022, 406, 414, 442]"
+no_drift,2,4,Radius,0.00040516446826789816,0.25,False,False,"[2854, 398, 413, 431]"
+no_drift,2,4,Covariance,0.000508400756554146,0.25,False,False,"[2849, 396, 418, 433]"
+no_drift,2,4,Variance,0.00015520327449967204,0.25,False,False,"[2873, 375, 427, 421]"
+no_drift,2,4,Weight,6.719730495967527e-06,0.25,False,False,"[104, 3992]"
+no_drift,2,5,flow_duration,0.0005817909000102184,0.25,False,False,"[2422, 433, 424, 412, 405]"
+no_drift,2,5,Header_Length,0.0012464282171369132,0.25,False,False,"[439, 273, 1720, 372, 443, 419, 430]"
+no_drift,2,5,Protocol Type,0.00267764208743763,0.25,False,False,"[406, 157, 2660, 186, 687]"
+no_drift,2,5,Duration,0.0029490878014924574,0.25,False,False,"[348, 39, 3238, 471]"
+no_drift,2,5,Rate,0.003505588604066209,0.25,False,False,"[388, 430, 417, 437, 409, 373, 387, 404, 395, 456]"
+no_drift,2,5,Srate,0.003505588604066209,0.25,False,False,"[388, 430, 417, 437, 409, 373, 387, 404, 395, 456]"
+no_drift,2,5,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,5,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,5,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,5,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,5,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,5,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,5,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,5,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,5,ack_count,0.0005690741292891249,0.25,False,False,"[3194, 108, 794]"
+no_drift,2,5,syn_count,0.0009264160742361515,0.25,False,False,"[2825, 114, 711, 446]"
+no_drift,2,5,fin_count,0.0004895246841335988,0.25,False,False,"[3191, 112, 793]"
+no_drift,2,5,urg_count,0.001066459878535897,0.25,False,False,"[3724, 372]"
+no_drift,2,5,rst_count,0.001411138454305002,0.25,False,False,"[3269, 460, 367]"
+no_drift,2,5,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,5,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,5,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,5,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,5,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,5,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,5,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,5,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,5,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,5,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,5,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,5,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,5,Tot sum,0.0010552487064714347,0.25,False,False,"[360, 489, 28, 1981, 406, 400, 432]"
+no_drift,2,5,Min,0.000694528014974058,0.25,False,False,"[351, 502, 43, 2781, 419]"
+no_drift,2,5,Max,0.0009939993300362884,0.25,False,False,"[318, 428, 2096, 434, 365, 455]"
+no_drift,2,5,AVG,0.001431855310026077,0.25,False,False,"[341, 514, 2015, 412, 374, 440]"
+no_drift,2,5,Std,0.0003337501090196096,0.25,False,False,"[2864, 412, 427, 393]"
+no_drift,2,5,Tot size,0.000866139434639036,0.25,False,False,"[340, 508, 1980, 431, 400, 437]"
+no_drift,2,5,IAT,0.004774254212650946,0.25,False,False,"[360, 420, 422, 413, 402, 360, 426, 399, 442, 452]"
+no_drift,2,5,Number,0.0003146608777940744,0.25,False,False,"[94, 4002]"
+no_drift,2,5,Magnitue,0.0011024791719276335,0.25,False,False,"[341, 515, 2016, 406, 386, 432]"
+no_drift,2,5,Radius,0.0003474737366442682,0.25,False,False,"[2857, 422, 424, 393]"
+no_drift,2,5,Covariance,0.0010674025170839584,0.25,False,False,"[2854, 438, 423, 381]"
+no_drift,2,5,Variance,7.522794224545148e-05,0.25,False,False,"[2862, 388, 439, 407]"
+no_drift,2,5,Weight,0.0002845945556516795,0.25,False,False,"[95, 4001]"
+no_drift,2,6,flow_duration,0.0009688171102046674,0.25,False,False,"[2450, 410, 389, 403, 444]"
+no_drift,2,6,Header_Length,0.0006411543266014565,0.25,False,False,"[435, 279, 1761, 368, 446, 410, 397]"
+no_drift,2,6,Protocol Type,0.002149259267473435,0.25,False,False,"[447, 169, 2701, 185, 594]"
+no_drift,2,6,Duration,0.00012191312478183186,0.25,False,False,"[400, 43, 3198, 455]"
+no_drift,2,6,Rate,0.001254059779458069,0.25,False,False,"[431, 415, 412, 411, 392, 420, 417, 407, 414, 377]"
+no_drift,2,6,Srate,0.001254059779458069,0.25,False,False,"[431, 415, 412, 411, 392, 420, 417, 407, 414, 377]"
+no_drift,2,6,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,6,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,6,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,6,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,6,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,6,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,6,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,6,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,6,ack_count,8.366952173690861e-05,0.25,False,False,"[3194, 120, 782]"
+no_drift,2,6,syn_count,0.0008952643470108258,0.25,False,False,"[2817, 106, 739, 434]"
+no_drift,2,6,fin_count,0.00012264737781020506,0.25,False,False,"[3189, 120, 787]"
+no_drift,2,6,urg_count,6.118573739721368e-05,0.25,False,False,"[3675, 421]"
+no_drift,2,6,rst_count,0.0002698834194790309,0.25,False,False,"[3220, 452, 424]"
+no_drift,2,6,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,6,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,6,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,6,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,6,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,6,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,6,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,6,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,6,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,6,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,6,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,6,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,6,Tot sum,0.001517972843752443,0.25,False,False,"[392, 443, 22, 2020, 421, 386, 412]"
+no_drift,2,6,Min,0.0020885062707090302,0.25,False,False,"[374, 462, 31, 2842, 387]"
+no_drift,2,6,Max,0.0017594762157928006,0.25,False,False,"[345, 392, 2123, 435, 375, 426]"
+no_drift,2,6,AVG,0.0015676543392706792,0.25,False,False,"[362, 457, 2058, 419, 386, 414]"
+no_drift,2,6,Std,1.610260803935393e-05,0.25,False,False,"[2860, 410, 414, 412]"
+no_drift,2,6,Tot size,0.0017593285184940148,0.25,False,False,"[362, 456, 2018, 458, 391, 411]"
+no_drift,2,6,IAT,0.00196351093553626,0.25,False,False,"[387, 398, 398, 407, 445, 413, 384, 427, 426, 411]"
+no_drift,2,6,Number,0.0004417624102090268,0.25,False,False,"[92, 4004]"
+no_drift,2,6,Magnitue,0.0016160895380445753,0.25,False,False,"[363, 460, 2063, 412, 386, 412]"
+no_drift,2,6,Radius,2.071596217672241e-05,0.25,False,False,"[2856, 416, 412, 412]"
+no_drift,2,6,Covariance,4.512374459724246e-05,0.25,False,False,"[2860, 417, 413, 406]"
+no_drift,2,6,Variance,0.0001239962370252804,0.25,False,False,"[2873, 386, 434, 403]"
+no_drift,2,6,Weight,0.00040530396306765853,0.25,False,False,"[93, 4003]"
+no_drift,2,7,flow_duration,0.001200469231684235,0.25,False,False,"[2493, 423, 371, 402, 407]"
+no_drift,2,7,Header_Length,0.000719483832409672,0.25,False,False,"[413, 291, 1789, 376, 449, 385, 393]"
+no_drift,2,7,Protocol Type,0.0007946027511195088,0.25,False,False,"[386, 183, 2729, 180, 618]"
+no_drift,2,7,Duration,0.00015351584574358225,0.25,False,False,"[399, 40, 3215, 442]"
+no_drift,2,7,Rate,0.0023332909528778786,0.25,False,False,"[431, 402, 410, 417, 405, 456, 396, 382, 404, 393]"
+no_drift,2,7,Srate,0.0023332909528778786,0.25,False,False,"[431, 402, 410, 417, 405, 456, 396, 382, 404, 393]"
+no_drift,2,7,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,7,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,7,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,7,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,7,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,7,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,7,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,7,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,7,ack_count,0.0006417982430682534,0.25,False,False,"[3216, 128, 752]"
+no_drift,2,7,syn_count,0.0011077681761214072,0.25,False,False,"[2776, 129, 767, 424]"
+no_drift,2,7,fin_count,0.000971964120346658,0.25,False,False,"[3217, 135, 744]"
+no_drift,2,7,urg_count,8.88942565018873e-05,0.25,False,False,"[3673, 423]"
+no_drift,2,7,rst_count,0.00031266691422132686,0.25,False,False,"[3187, 485, 424]"
+no_drift,2,7,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,7,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,7,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,7,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,7,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,7,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,7,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,7,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,7,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,7,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,7,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,7,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,7,Tot sum,0.001232702683972478,0.25,False,False,"[321, 446, 22, 2049, 414, 412, 432]"
+no_drift,2,7,Min,0.0012384845007569194,0.25,False,False,"[306, 461, 41, 2859, 429]"
+no_drift,2,7,Max,0.0014588374395030968,0.25,False,False,"[283, 392, 2163, 421, 374, 463]"
+no_drift,2,7,AVG,0.0013489725575216835,0.25,False,False,"[294, 460, 2071, 430, 404, 437]"
+no_drift,2,7,Std,0.0007501243071012916,0.25,False,False,"[2824, 421, 440, 411]"
+no_drift,2,7,Tot size,0.0013380684234531991,0.25,False,False,"[294, 458, 2033, 456, 415, 440]"
+no_drift,2,7,IAT,0.0026987769362867104,0.25,False,False,"[403, 400, 452, 401, 376, 422, 411, 377, 435, 419]"
+no_drift,2,7,Number,0.00025959385339468453,0.25,False,False,"[95, 4001]"
+no_drift,2,7,Magnitue,0.00129765950480915,0.25,False,False,"[294, 463, 2074, 425, 411, 429]"
+no_drift,2,7,Radius,0.0007654566878643609,0.25,False,False,"[2822, 421, 441, 412]"
+no_drift,2,7,Covariance,0.0007739864425254999,0.25,False,False,"[2819, 435, 429, 413]"
+no_drift,2,7,Variance,0.001727290925468926,0.25,False,False,"[2834, 352, 486, 424]"
+no_drift,2,7,Weight,0.0002845945556516795,0.25,False,False,"[95, 4001]"
+no_drift,2,8,flow_duration,0.0010399747094512416,0.25,False,False,"[2485, 401, 390, 386, 434]"
+no_drift,2,8,Header_Length,0.0006672102080738163,0.25,False,False,"[401, 300, 1797, 374, 434, 398, 392]"
+no_drift,2,8,Protocol Type,0.0008596649760114644,0.25,False,False,"[399, 189, 2717, 164, 627]"
+no_drift,2,8,Duration,0.0007844719654212481,0.25,False,False,"[390, 43, 3248, 415]"
+no_drift,2,8,Rate,0.0019625580573079315,0.25,False,False,"[427, 430, 393, 395, 397, 405, 437, 428, 382, 402]"
+no_drift,2,8,Srate,0.0019625580573079315,0.25,False,False,"[427, 430, 393, 395, 397, 405, 437, 428, 382, 402]"
+no_drift,2,8,Drate,0.0,0.25,False,False,[4096]
+no_drift,2,8,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,8,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,8,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,8,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,8,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,8,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,8,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,2,8,ack_count,0.0004059181026091247,0.25,False,False,"[3174, 112, 810]"
+no_drift,2,8,syn_count,0.0009092126469566768,0.25,False,False,"[2804, 113, 772, 407]"
+no_drift,2,8,fin_count,0.0003114038730261568,0.25,False,False,"[3169, 117, 810]"
+no_drift,2,8,urg_count,8.88942565018873e-05,0.25,False,False,"[3673, 423]"
+no_drift,2,8,rst_count,0.0002756361302051687,0.25,False,False,"[3190, 488, 418]"
+no_drift,2,8,HTTP,0.0,0.25,False,False,[4096]
+no_drift,2,8,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,2,8,DNS,0.0,0.25,False,False,[4096]
+no_drift,2,8,SMTP,0.0,0.25,False,False,[4096]
+no_drift,2,8,SSH,0.0,0.25,False,False,[4096]
+no_drift,2,8,TCP,0.0,0.25,False,False,[4096]
+no_drift,2,8,UDP,0.0,0.25,False,False,[4096]
+no_drift,2,8,DHCP,0.0,0.25,False,False,[4096]
+no_drift,2,8,ARP,0.0,0.25,False,False,[4096]
+no_drift,2,8,ICMP,0.0,0.25,False,False,[4096]
+no_drift,2,8,IPv,0.0,0.25,False,False,[4096]
+no_drift,2,8,LLC,0.0,0.25,False,False,[4096]
+no_drift,2,8,Tot sum,0.0012120126574664404,0.25,False,False,"[352, 447, 18, 2048, 425, 373, 433]"
+no_drift,2,8,Min,0.00010483553287308432,0.25,False,False,"[335, 473, 37, 2842, 409]"
+no_drift,2,8,Max,0.0003397006745692349,0.25,False,False,"[305, 403, 2168, 401, 374, 445]"
+no_drift,2,8,AVG,0.0006854962251856409,0.25,False,False,"[319, 460, 2093, 406, 387, 431]"
+no_drift,2,8,Std,0.00035294161263207447,0.25,False,False,"[2877, 387, 413, 419]"
+no_drift,2,8,Tot size,0.00116535605571383,0.25,False,False,"[320, 458, 2062, 416, 407, 433]"
+no_drift,2,8,IAT,0.0022181578370532424,0.25,False,False,"[386, 390, 448, 413, 407, 410, 407, 421, 387, 427]"
+no_drift,2,8,Number,8.184897498853081e-08,0.25,False,False,"[105, 3991]"
+no_drift,2,8,Magnitue,0.0006605558523032906,0.25,False,False,"[319, 462, 2096, 404, 390, 425]"
+no_drift,2,8,Radius,0.0005420624676512302,0.25,False,False,"[2880, 385, 411, 420]"
+no_drift,2,8,Covariance,0.0004112933983577524,0.25,False,False,"[2885, 390, 400, 421]"
+no_drift,2,8,Variance,0.00044094308537171286,0.25,False,False,"[2876, 356, 452, 412]"
+no_drift,2,8,Weight,1.089658813985105e-06,0.25,False,False,"[105, 3991]"
+no_drift,3,1,flow_duration,0.001482180903238399,0.25,False,False,"[2479, 429, 370, 395, 423]"
+no_drift,3,1,Header_Length,0.0035236776407281023,0.25,False,False,"[1480, 1015, 442, 406, 367, 386]"
+no_drift,3,1,Protocol Type,0.003122085724131917,0.25,False,False,"[77, 1143, 304, 1408, 339, 93, 732]"
+no_drift,3,1,Duration,0.000606549858710182,0.25,False,False,"[376, 3303, 417]"
+no_drift,3,1,Rate,0.0032617196623949134,0.25,False,False,"[439, 421, 423, 439, 384, 426, 414, 389, 368, 393]"
+no_drift,3,1,Srate,0.0032617196623949134,0.25,False,False,"[439, 421, 423, 439, 384, 426, 414, 389, 368, 393]"
+no_drift,3,1,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,1,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,1,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,1,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,1,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,1,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,1,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,1,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,1,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,1,syn_count,5.0724158158875425e-06,0.25,False,False,"[3689, 407]"
+no_drift,3,1,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,1,urg_count,9.060173874832266e-05,0.25,False,False,"[3261, 253, 582]"
+no_drift,3,1,rst_count,9.043562692383398e-05,0.25,False,False,"[3265, 172, 659]"
+no_drift,3,1,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,1,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,1,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,1,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,1,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,1,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,1,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,1,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,1,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,1,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,1,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,1,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,1,Tot sum,0.0028722312565517376,0.25,False,False,"[7, 1225, 190, 593, 187, 1523, 371]"
+no_drift,3,1,Min,0.0025777439569673816,0.25,False,False,"[1418, 818, 1479, 381]"
+no_drift,3,1,Max,0.0033680435867888834,0.25,False,False,"[1236, 97, 661, 25, 1269, 437, 371]"
+no_drift,3,1,AVG,0.0032264955994193104,0.25,False,False,"[1239, 173, 606, 174, 1538, 366]"
+no_drift,3,1,Std,0.00010933643556289951,0.25,False,False,"[3286, 413, 397]"
+no_drift,3,1,Tot size,0.0025766865334063463,0.25,False,False,"[1173, 235, 602, 176, 1535, 375]"
+no_drift,3,1,IAT,0.002828587268618747,0.25,False,False,"[451, 412, 392, 379, 431, 396, 396, 433, 411, 395]"
+no_drift,3,1,Number,0.000991385869589898,0.25,False,False,"[27, 4069]"
+no_drift,3,1,Magnitue,0.0033878276268376603,0.25,False,False,"[1237, 177, 603, 179, 1535, 365]"
+no_drift,3,1,Radius,0.00010956164381155991,0.25,False,False,"[3286, 413, 397]"
+no_drift,3,1,Covariance,6.175538081466701e-05,0.25,False,False,"[3285, 411, 400]"
+no_drift,3,1,Variance,0.0002833738476125231,0.25,False,False,"[3273, 394, 429]"
+no_drift,3,1,Weight,0.0010578619867665346,0.25,False,False,"[27, 4069]"
+no_drift,3,2,flow_duration,0.002007913736212657,0.25,False,False,"[2517, 391, 412, 414, 362]"
+no_drift,3,2,Header_Length,0.0017987887826834594,0.25,False,False,"[1506, 1006, 355, 438, 390, 401]"
+no_drift,3,2,Protocol Type,0.0009202038033014265,0.25,False,False,"[89, 1125, 300, 1351, 388, 92, 751]"
+no_drift,3,2,Duration,0.0006639092106175916,0.25,False,False,"[364, 3261, 471]"
+no_drift,3,2,Rate,0.0014208220057078354,0.25,False,False,"[382, 412, 426, 410, 393, 427, 431, 405, 416, 394]"
+no_drift,3,2,Srate,0.0014208220057078354,0.25,False,False,"[382, 412, 426, 410, 393, 427, 431, 405, 416, 394]"
+no_drift,3,2,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,2,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,2,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,2,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,2,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,2,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,2,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,2,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,2,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,2,syn_count,0.00026534759741344676,0.25,False,False,"[3666, 430]"
+no_drift,3,2,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,2,urg_count,0.0011913057015630877,0.25,False,False,"[3218, 254, 624]"
+no_drift,3,2,rst_count,0.0009425219875295102,0.25,False,False,"[3233, 171, 692]"
+no_drift,3,2,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,2,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,2,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,2,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,2,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,2,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,2,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,2,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,2,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,2,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,2,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,2,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,2,Tot sum,0.0021368631018780825,0.25,False,False,"[3, 1204, 195, 593, 204, 1457, 440]"
+no_drift,3,2,Min,0.0005218490441186484,0.25,False,False,"[1409, 846, 1409, 432]"
+no_drift,3,2,Max,0.0013948039465135234,0.25,False,False,"[1213, 120, 663, 20, 1225, 411, 444]"
+no_drift,3,2,AVG,0.0010212212989074566,0.25,False,False,"[1209, 183, 610, 188, 1473, 433]"
+no_drift,3,2,Std,0.0008070904299793954,0.25,False,False,"[3227, 443, 426]"
+no_drift,3,2,Tot size,0.0008274546563535982,0.25,False,False,"[1156, 238, 610, 188, 1469, 435]"
+no_drift,3,2,IAT,0.007554065414015959,0.25,False,False,"[341, 460, 410, 408, 382, 422, 393, 467, 438, 375]"
+no_drift,3,2,Number,3.8805723593078005e-05,0.25,False,False,"[36, 4060]"
+no_drift,3,2,Magnitue,0.0010141453762301735,0.25,False,False,"[1210, 184, 610, 189, 1468, 435]"
+no_drift,3,2,Radius,0.0008185923114289532,0.25,False,False,"[3226, 442, 428]"
+no_drift,3,2,Covariance,0.0010748645425790165,0.25,False,False,"[3223, 441, 432]"
+no_drift,3,2,Variance,0.001370093111565632,0.25,False,False,"[3196, 405, 495]"
+no_drift,3,2,Weight,5.2769365352537085e-05,0.25,False,False,"[36, 4060]"
+no_drift,3,3,flow_duration,0.0026021486389692415,0.25,False,False,"[2487, 351, 418, 409, 431]"
+no_drift,3,3,Header_Length,0.0010299845501889036,0.25,False,False,"[1501, 999, 403, 394, 395, 404]"
+no_drift,3,3,Protocol Type,0.0030314827497478877,0.25,False,False,"[85, 1187, 242, 1389, 357, 85, 751]"
+no_drift,3,3,Duration,0.00022461290753899812,0.25,False,False,"[393, 3276, 427]"
+no_drift,3,3,Rate,0.0020937179855906986,0.25,False,False,"[419, 425, 428, 400, 395, 402, 387, 443, 381, 416]"
+no_drift,3,3,Srate,0.0020937179855906986,0.25,False,False,"[419, 425, 428, 400, 395, 402, 387, 443, 381, 416]"
+no_drift,3,3,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,3,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,3,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,3,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,3,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,3,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,3,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,3,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,3,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,3,syn_count,4.45131455970997e-05,0.25,False,False,"[3678, 418]"
+no_drift,3,3,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,3,urg_count,0.0003101112642107899,0.25,False,False,"[3247, 252, 597]"
+no_drift,3,3,rst_count,0.00023510076460953538,0.25,False,False,"[3250, 183, 663]"
+no_drift,3,3,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,3,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,3,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,3,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,3,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,3,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,3,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,3,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,3,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,3,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,3,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,3,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,3,Tot sum,0.0029637904986619607,0.25,False,False,"[5, 1270, 159, 594, 201, 1477, 390]"
+no_drift,3,3,Min,0.0007313618857843297,0.25,False,False,"[1441, 843, 1423, 389]"
+no_drift,3,3,Max,0.003191869284243082,0.25,False,False,"[1280, 86, 672, 15, 1247, 406, 390]"
+no_drift,3,3,AVG,0.0027558106566491843,0.25,False,False,"[1279, 147, 609, 181, 1492, 388]"
+no_drift,3,3,Std,0.0008505639664358331,0.25,False,False,"[3320, 388, 388]"
+no_drift,3,3,Tot size,0.0023596366543900994,0.25,False,False,"[1219, 207, 607, 182, 1488, 393]"
+no_drift,3,3,IAT,0.0006021305998064016,0.25,False,False,"[408, 408, 400, 396, 400, 429, 405, 435, 407, 408]"
+no_drift,3,3,Number,2.1383707403815658e-06,0.25,False,False,"[39, 4057]"
+no_drift,3,3,Magnitue,0.002726839742602992,0.25,False,False,"[1278, 150, 606, 186, 1489, 387]"
+no_drift,3,3,Radius,0.0008536604083086746,0.25,False,False,"[3320, 388, 388]"
+no_drift,3,3,Covariance,0.0009557112895127653,0.25,False,False,"[3326, 380, 390]"
+no_drift,3,3,Variance,0.0005957141518324026,0.25,False,False,"[3282, 364, 450]"
+no_drift,3,3,Weight,1.828765830844082e-07,0.25,False,False,"[39, 4057]"
+no_drift,3,4,flow_duration,0.0005331886827606785,0.25,False,False,"[2455, 391, 432, 404, 414]"
+no_drift,3,4,Header_Length,0.0017708394023648881,0.25,False,False,"[1525, 936, 424, 424, 412, 375]"
+no_drift,3,4,Protocol Type,0.0018477893122580656,0.25,False,False,"[93, 1193, 262, 1338, 382, 85, 743]"
+no_drift,3,4,Duration,1.8183165837531538e-05,0.25,False,False,"[383, 3263, 450]"
+no_drift,3,4,Rate,0.0012742698647650302,0.25,False,False,"[444, 422, 402, 414, 392, 418, 395, 401, 401, 407]"
+no_drift,3,4,Srate,0.0012742698647650302,0.25,False,False,"[444, 422, 402, 414, 392, 418, 395, 401, 401, 407]"
+no_drift,3,4,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,4,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,4,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,4,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,4,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,4,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,4,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,4,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,4,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,4,syn_count,0.0007063167217139885,0.25,False,False,"[3653, 443]"
+no_drift,3,4,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,4,urg_count,7.022089009593248e-05,0.25,False,False,"[3274, 258, 564]"
+no_drift,3,4,rst_count,0.00015392436999550662,0.25,False,False,"[3295, 172, 629]"
+no_drift,3,4,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,4,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,4,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,4,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,4,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,4,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,4,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,4,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,4,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,4,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,4,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,4,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,4,Tot sum,0.0019374415295785857,0.25,False,False,"[10, 1275, 181, 627, 204, 1426, 373]"
+no_drift,3,4,Min,0.0009985531447330351,0.25,False,False,"[1466, 869, 1382, 379]"
+no_drift,3,4,Max,0.003618247893143893,0.25,False,False,"[1284, 98, 699, 11, 1210, 428, 366]"
+no_drift,3,4,AVG,0.0015129191355158565,0.25,False,False,"[1280, 172, 633, 193, 1446, 372]"
+no_drift,3,4,Std,0.00037974035979600814,0.25,False,False,"[3295, 415, 386]"
+no_drift,3,4,Tot size,0.002381794298884665,0.25,False,False,"[1223, 228, 626, 207, 1443, 369]"
+no_drift,3,4,IAT,0.0034396294968092778,0.25,False,False,"[354, 447, 396, 403, 413, 441, 405, 430, 405, 402]"
+no_drift,3,4,Number,0.00013308814552670281,0.25,False,False,"[34, 4062]"
+no_drift,3,4,Magnitue,0.0015431035411091502,0.25,False,False,"[1281, 171, 631, 197, 1444, 372]"
+no_drift,3,4,Radius,0.00041333303151764477,0.25,False,False,"[3296, 415, 385]"
+no_drift,3,4,Covariance,0.0006582889730634416,0.25,False,False,"[3299, 418, 379]"
+no_drift,3,4,Variance,8.35435937143983e-05,0.25,False,False,"[3260, 382, 454]"
+no_drift,3,4,Weight,0.00015804417509825827,0.25,False,False,"[34, 4062]"
+no_drift,3,5,flow_duration,0.0008698905467081382,0.25,False,False,"[2409, 429, 424, 431, 403]"
+no_drift,3,5,Header_Length,0.0008020188499300104,0.25,False,False,"[1493, 937, 423, 432, 402, 409]"
+no_drift,3,5,Protocol Type,0.000506204403513056,0.25,False,False,"[90, 1126, 300, 1332, 363, 81, 804]"
+no_drift,3,5,Duration,2.4941748463258597e-06,0.25,False,False,"[386, 3267, 443]"
+no_drift,3,5,Rate,0.0006696194422892395,0.25,False,False,"[417, 413, 407, 410, 393, 402, 428, 417, 416, 393]"
+no_drift,3,5,Srate,0.0006696194422892395,0.25,False,False,"[417, 413, 407, 410, 393, 402, 428, 417, 416, 393]"
+no_drift,3,5,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,5,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,5,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,5,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,5,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,5,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,5,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,5,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,5,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,5,syn_count,0.00017152859739049485,0.25,False,False,"[3670, 426]"
+no_drift,3,5,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,5,urg_count,0.00017695289988545816,0.25,False,False,"[3282, 256, 558]"
+no_drift,3,5,rst_count,0.00015513347177384016,0.25,False,False,"[3295, 170, 631]"
+no_drift,3,5,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,5,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,5,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,5,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,5,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,5,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,5,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,5,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,5,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,5,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,5,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,5,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,5,Tot sum,0.00037750074565482544,0.25,False,False,"[5, 1228, 179, 624, 196, 1444, 420]"
+no_drift,3,5,Min,2.894553921305265e-05,0.25,False,False,"[1424, 866, 1400, 406]"
+no_drift,3,5,Max,0.0005880780266070126,0.25,False,False,"[1235, 107, 681, 21, 1202, 419, 431]"
+no_drift,3,5,AVG,0.00017809460521327357,0.25,False,False,"[1234, 169, 631, 184, 1461, 417]"
+no_drift,3,5,Std,0.00024755710041793,0.25,False,False,"[3250, 418, 428]"
+no_drift,3,5,Tot size,0.0002391971205251854,0.25,False,False,"[1162, 242, 640, 176, 1457, 419]"
+no_drift,3,5,IAT,0.0017614669712866363,0.25,False,False,"[404, 435, 434, 378, 410, 415, 397, 425, 385, 413]"
+no_drift,3,5,Number,0.00039209441451807704,0.25,False,False,"[31, 4065]"
+no_drift,3,5,Magnitue,0.00019421446819880222,0.25,False,False,"[1234, 169, 631, 198, 1453, 411]"
+no_drift,3,5,Radius,0.00025596114926967304,0.25,False,False,"[3249, 419, 428]"
+no_drift,3,5,Covariance,0.0001608121811624187,0.25,False,False,"[3256, 419, 421]"
+no_drift,3,5,Variance,0.0009876861040797875,0.25,False,False,"[3248, 366, 482]"
+no_drift,3,5,Weight,0.00032539819273490124,0.25,False,False,"[32, 4064]"
+no_drift,3,6,flow_duration,0.001715307148653744,0.25,False,False,"[2491, 368, 436, 397, 404]"
+no_drift,3,6,Header_Length,0.0005820316517638616,0.25,False,False,"[1488, 1002, 379, 410, 412, 405]"
+no_drift,3,6,Protocol Type,0.0008220429095923506,0.25,False,False,"[81, 1157, 272, 1368, 348, 89, 781]"
+no_drift,3,6,Duration,0.00018697115527420644,0.25,False,False,"[379, 3287, 430]"
+no_drift,3,6,Rate,0.0037311355609964893,0.25,False,False,"[394, 392, 375, 450, 408, 421, 455, 419, 394, 388]"
+no_drift,3,6,Srate,0.0037311355609964893,0.25,False,False,"[394, 392, 375, 450, 408, 421, 455, 419, 394, 388]"
+no_drift,3,6,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,6,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,6,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,6,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,6,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,6,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,6,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,6,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,6,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,6,syn_count,5.0724158158875425e-06,0.25,False,False,"[3689, 407]"
+no_drift,3,6,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,6,urg_count,0.0008167744067793625,0.25,False,False,"[3247, 242, 607]"
+no_drift,3,6,rst_count,0.0007991149419009101,0.25,False,False,"[3262, 158, 676]"
+no_drift,3,6,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,6,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,6,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,6,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,6,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,6,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,6,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,6,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,6,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,6,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,6,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,6,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,6,Tot sum,0.0007018845589308971,0.25,False,False,"[5, 1230, 201, 606, 194, 1447, 413]"
+no_drift,3,6,Min,0.00045325787434431384,0.25,False,False,"[1440, 838, 1411, 407]"
+no_drift,3,6,Max,0.0006640631638588907,0.25,False,False,"[1244, 112, 673, 17, 1241, 395, 414]"
+no_drift,3,6,AVG,0.0005064529322011893,0.25,False,False,"[1248, 176, 612, 186, 1459, 415]"
+no_drift,3,6,Std,0.00027977310120387165,0.25,False,False,"[3300, 401, 395]"
+no_drift,3,6,Tot size,0.0004238073533108062,0.25,False,False,"[1189, 232, 617, 182, 1458, 418]"
+no_drift,3,6,IAT,0.002537244995210338,0.25,False,False,"[406, 436, 369, 397, 407, 409, 430, 444, 392, 406]"
+no_drift,3,6,Number,0.00012716523810686324,0.25,False,False,"[43, 4053]"
+no_drift,3,6,Magnitue,0.0004605447777478574,0.25,False,False,"[1248, 177, 612, 190, 1457, 412]"
+no_drift,3,6,Radius,0.00028513234173279056,0.25,False,False,"[3300, 402, 394]"
+no_drift,3,6,Covariance,0.00025623713500948285,0.25,False,False,"[3284, 420, 392]"
+no_drift,3,6,Variance,0.0005363647600996033,0.25,False,False,"[3265, 367, 464]"
+no_drift,3,6,Weight,0.00010489265838806801,0.25,False,False,"[43, 4053]"
+no_drift,3,7,flow_duration,0.0012407555484615113,0.25,False,False,"[2444, 398, 451, 393, 410]"
+no_drift,3,7,Header_Length,0.0016108391404197956,0.25,False,False,"[1515, 977, 408, 379, 402, 415]"
+no_drift,3,7,Protocol Type,0.0010068604998355302,0.25,False,False,"[74, 1150, 291, 1347, 383, 90, 761]"
+no_drift,3,7,Duration,0.0012928417603791647,0.25,False,False,"[345, 3313, 438]"
+no_drift,3,7,Rate,0.001499673340227922,0.25,False,False,"[403, 389, 434, 416, 427, 412, 390, 429, 391, 405]"
+no_drift,3,7,Srate,0.001499673340227922,0.25,False,False,"[403, 389, 434, 416, 427, 412, 390, 429, 391, 405]"
+no_drift,3,7,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,7,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,7,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,7,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,7,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,7,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,7,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,7,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,7,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,7,syn_count,2.557410389365e-05,0.25,False,False,"[3680, 416]"
+no_drift,3,7,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,7,urg_count,0.0005779102288916729,0.25,False,False,"[3293, 240, 563]"
+no_drift,3,7,rst_count,0.0003604348468937722,0.25,False,False,"[3305, 166, 625]"
+no_drift,3,7,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,7,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,7,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,7,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,7,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,7,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,7,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,7,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,7,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,7,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,7,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,7,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,7,Tot sum,0.0010094920979566687,0.25,False,False,"[4, 1243, 194, 629, 200, 1444, 382]"
+no_drift,3,7,Min,0.0005183660462589327,0.25,False,False,"[1446, 867, 1398, 385]"
+no_drift,3,7,Max,0.0013476570361624957,0.25,False,False,"[1256, 109, 708, 16, 1241, 385, 381]"
+no_drift,3,7,AVG,0.0005864796561227219,0.25,False,False,"[1252, 182, 644, 188, 1446, 384]"
+no_drift,3,7,Std,0.0006029333730547941,0.25,False,False,"[3290, 425, 381]"
+no_drift,3,7,Tot size,0.0009668137787612306,0.25,False,False,"[1194, 239, 629, 203, 1447, 384]"
+no_drift,3,7,IAT,0.0011415709069630276,0.25,False,False,"[399, 404, 428, 395, 419, 383, 421, 421, 408, 418]"
+no_drift,3,7,Number,0.0002030272647914313,0.25,False,False,"[33, 4063]"
+no_drift,3,7,Magnitue,0.0006194028865736155,0.25,False,False,"[1251, 186, 642, 191, 1442, 384]"
+no_drift,3,7,Radius,0.0004899663468364122,0.25,False,False,"[3293, 420, 383]"
+no_drift,3,7,Covariance,0.0006046201514856276,0.25,False,False,"[3284, 428, 384]"
+no_drift,3,7,Variance,0.0008640742590068451,0.25,False,False,"[3283, 358, 455]"
+no_drift,3,7,Weight,0.00023360685479951744,0.25,False,False,"[33, 4063]"
+no_drift,3,8,flow_duration,0.0008190578766528125,0.25,False,False,"[2431, 444, 400, 407, 414]"
+no_drift,3,8,Header_Length,0.002848936912732493,0.25,False,False,"[1467, 973, 418, 476, 388, 374]"
+no_drift,3,8,Protocol Type,0.0013150468546976074,0.25,False,False,"[85, 1109, 294, 1371, 391, 96, 750]"
+no_drift,3,8,Duration,0.0008028053746544281,0.25,False,False,"[420, 3233, 443]"
+no_drift,3,8,Rate,0.001787893896865847,0.25,False,False,"[414, 431, 410, 419, 383, 400, 437, 382, 417, 403]"
+no_drift,3,8,Srate,0.001787893896865847,0.25,False,False,"[414, 431, 410, 419, 383, 400, 437, 382, 417, 403]"
+no_drift,3,8,Drate,0.0,0.25,False,False,[4096]
+no_drift,3,8,fin_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,8,syn_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,8,rst_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,8,psh_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,8,ack_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,8,ece_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,8,cwr_flag_number,0.0,0.25,False,False,[4096]
+no_drift,3,8,ack_count,0.0,0.25,False,False,[4096]
+no_drift,3,8,syn_count,0.00024001976282475565,0.25,False,False,"[3667, 429]"
+no_drift,3,8,fin_count,0.0,0.25,False,False,[4096]
+no_drift,3,8,urg_count,0.0004758860225697723,0.25,False,False,"[3254, 282, 560]"
+no_drift,3,8,rst_count,0.0009855529957257868,0.25,False,False,"[3281, 198, 617]"
+no_drift,3,8,HTTP,0.0,0.25,False,False,[4096]
+no_drift,3,8,HTTPS,0.0,0.25,False,False,[4096]
+no_drift,3,8,DNS,0.0,0.25,False,False,[4096]
+no_drift,3,8,SMTP,0.0,0.25,False,False,[4096]
+no_drift,3,8,SSH,0.0,0.25,False,False,[4096]
+no_drift,3,8,TCP,0.0,0.25,False,False,[4096]
+no_drift,3,8,UDP,0.0,0.25,False,False,[4096]
+no_drift,3,8,DHCP,0.0,0.25,False,False,[4096]
+no_drift,3,8,ARP,0.0,0.25,False,False,[4096]
+no_drift,3,8,ICMP,0.0,0.25,False,False,[4096]
+no_drift,3,8,IPv,0.0,0.25,False,False,[4096]
+no_drift,3,8,LLC,0.0,0.25,False,False,[4096]
+no_drift,3,8,Tot sum,0.001535056227731932,0.25,False,False,"[7, 1183, 203, 598, 208, 1489, 408]"
+no_drift,3,8,Min,0.00048636198676171876,0.25,False,False,"[1397, 850, 1430, 419]"
+no_drift,3,8,Max,0.001597900166647876,0.25,False,False,"[1192, 124, 671, 15, 1247, 427, 420]"
+no_drift,3,8,AVG,0.0011108840318842697,0.25,False,False,"[1197, 187, 619, 180, 1501, 412]"
+no_drift,3,8,Std,0.0006792319341168275,0.25,False,False,"[3236, 445, 415]"
+no_drift,3,8,Tot size,0.0015807483204515762,0.25,False,False,"[1127, 255, 607, 194, 1501, 412]"
+no_drift,3,8,IAT,0.0018512533459807384,0.25,False,False,"[408, 447, 426, 376, 399, 417, 400, 395, 409, 419]"
+no_drift,3,8,Number,3.8805723593078005e-05,0.25,False,False,"[36, 4060]"
+no_drift,3,8,Magnitue,0.001168774956828891,0.25,False,False,"[1195, 189, 615, 190, 1498, 409]"
+no_drift,3,8,Radius,0.0007476925218523227,0.25,False,False,"[3235, 447, 414]"
+no_drift,3,8,Covariance,0.0007590292622587451,0.25,False,False,"[3234, 440, 422]"
+no_drift,3,8,Variance,8.24501619892988e-05,0.25,False,False,"[3242, 392, 462]"
+no_drift,3,8,Weight,2.177163550056681e-05,0.25,False,False,"[37, 4059]"
+synthetic_shift,1,1,flow_duration,0.0018112995417491277,0.25,False,False,"[2516, 367, 394, 397, 422]"
+synthetic_shift,1,1,Header_Length,0.0020921931889213412,0.25,False,False,"[359, 101, 1630, 421, 408, 392, 366, 419]"
+synthetic_shift,1,1,Protocol Type,0.0013856208479797953,0.25,False,False,"[309, 2609, 381, 797]"
+synthetic_shift,1,1,Duration,0.000811560185647548,0.25,False,False,"[367, 46, 3202, 481]"
+synthetic_shift,1,1,Rate,0.0030370141441875727,0.25,False,False,"[409, 386, 445, 428, 431, 411, 407, 424, 387, 368]"
+synthetic_shift,1,1,Srate,0.0030370141441875727,0.25,False,False,"[409, 386, 445, 428, 431, 411, 407, 424, 387, 368]"
+synthetic_shift,1,1,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,syn_count,0.0008664185308136663,0.25,False,False,"[2807, 261, 595, 433]"
+synthetic_shift,1,1,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,urg_count,0.00027210946130821237,0.25,False,False,"[3648, 448]"
+synthetic_shift,1,1,rst_count,0.00039166335889733687,0.25,False,False,"[3231, 376, 489]"
+synthetic_shift,1,1,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,1,Tot sum,0.0019957170421069643,0.25,False,False,"[138, 618, 2104, 410, 405, 421]"
+synthetic_shift,1,1,Min,0.001758640814757261,0.25,False,False,"[109, 651, 2924, 412]"
+synthetic_shift,1,1,Max,0.001763627895151366,0.25,False,False,"[95, 555, 2211, 402, 401, 432]"
+synthetic_shift,1,1,AVG,0.0021543100595239817,0.25,False,False,"[98, 610, 2157, 403, 418, 410]"
+synthetic_shift,1,1,Std,0.0007495743753352684,0.25,False,False,"[2875, 404, 384, 433]"
+synthetic_shift,1,1,Tot size,0.002297750873139972,0.25,False,False,"[98, 613, 2065, 493, 402, 425]"
+synthetic_shift,1,1,IAT,0.003965209659935593,0.25,False,False,"[422, 430, 404, 428, 379, 363, 418, 444, 383, 425]"
+synthetic_shift,1,1,Number,2.8750880143573557e-06,0.25,False,False,"[136, 3960]"
+synthetic_shift,1,1,Magnitue,0.0020648420710164188,0.25,False,False,"[98, 614, 2148, 405, 423, 408]"
+synthetic_shift,1,1,Radius,0.0007927357511113262,0.25,False,False,"[2870, 411, 381, 434]"
+synthetic_shift,1,1,Covariance,0.0002918983733675903,0.25,False,False,"[2871, 393, 408, 424]"
+synthetic_shift,1,1,Variance,0.0007967521791872579,0.25,False,False,"[2881, 362, 426, 427]"
+synthetic_shift,1,1,Weight,1.0474668897021147e-06,0.25,False,False,"[136, 3960]"
+synthetic_shift,1,2,flow_duration,0.000493966553737941,0.25,False,False,"[2445, 404, 411, 436, 400]"
+synthetic_shift,1,2,Header_Length,0.0014526417104672998,0.25,False,False,"[347, 112, 1569, 453, 411, 384, 408, 412]"
+synthetic_shift,1,2,Protocol Type,0.00020236708716268235,0.25,False,False,"[318, 2561, 402, 815]"
+synthetic_shift,1,2,Duration,0.001529413450396388,0.25,False,False,"[406, 37, 3224, 429]"
+synthetic_shift,1,2,Rate,0.0018693306372550038,0.25,False,False,"[425, 413, 399, 403, 420, 402, 401, 418, 442, 373]"
+synthetic_shift,1,2,Srate,0.0018693306372550038,0.25,False,False,"[425, 413, 399, 403, 420, 402, 401, 418, 442, 373]"
+synthetic_shift,1,2,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,syn_count,0.0012466551766026005,0.25,False,False,"[2813, 272, 609, 402]"
+synthetic_shift,1,2,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,urg_count,0.00014843767471664748,0.25,False,False,"[3684, 412]"
+synthetic_shift,1,2,rst_count,3.769664602654344e-05,0.25,False,False,"[3245, 391, 460]"
+synthetic_shift,1,2,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,2,Tot sum,0.00038578559667441445,0.25,False,False,"[126, 652, 2083, 421, 411, 403]"
+synthetic_shift,1,2,Min,0.00019036808739383637,0.25,False,False,"[101, 697, 2897, 401]"
+synthetic_shift,1,2,Max,0.0002236058589660054,0.25,False,False,"[83, 592, 2210, 409, 402, 400]"
+synthetic_shift,1,2,AVG,0.0004553141420939316,0.25,False,False,"[88, 647, 2137, 418, 402, 404]"
+synthetic_shift,1,2,Std,0.000363958321526558,0.25,False,False,"[2891, 396, 416, 393]"
+synthetic_shift,1,2,Tot size,0.0003674200535615001,0.25,False,False,"[88, 650, 2037, 513, 404, 404]"
+synthetic_shift,1,2,IAT,0.0020820356527599206,0.25,False,False,"[420, 442, 375, 403, 420, 388, 400, 416, 432, 400]"
+synthetic_shift,1,2,Number,7.139630791185514e-05,0.25,False,False,"[141, 3955]"
+synthetic_shift,1,2,Magnitue,0.000565357096581201,0.25,False,False,"[89, 647, 2125, 430, 400, 405]"
+synthetic_shift,1,2,Radius,0.00029686485097703936,0.25,False,False,"[2883, 402, 418, 393]"
+synthetic_shift,1,2,Covariance,0.0003172365549320034,0.25,False,False,"[2892, 408, 407, 389]"
+synthetic_shift,1,2,Variance,0.00037644161932013444,0.25,False,False,"[2876, 373, 425, 422]"
+synthetic_shift,1,2,Weight,6.048868588233433e-05,0.25,False,False,"[141, 3955]"
+synthetic_shift,1,3,flow_duration,0.0010559689934154085,0.25,False,False,"[2399, 438, 418, 413, 428]"
+synthetic_shift,1,3,Header_Length,0.0014867107405891595,0.25,False,False,"[362, 105, 1548, 403, 425, 388, 447, 418]"
+synthetic_shift,1,3,Protocol Type,0.00022900491273434927,0.25,False,False,"[310, 2518, 425, 843]"
+synthetic_shift,1,3,Duration,0.000869051753794215,0.25,False,False,"[430, 39, 3150, 477]"
+synthetic_shift,1,3,Rate,0.001173116655341547,0.25,False,False,"[404, 405, 409, 395, 406, 398, 420, 405, 406, 448]"
+synthetic_shift,1,3,Srate,0.001173116655341547,0.25,False,False,"[404, 405, 409, 395, 406, 398, 420, 405, 406, 448]"
+synthetic_shift,1,3,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,syn_count,0.00100452801442332,0.25,False,False,"[2827, 247, 573, 449]"
+synthetic_shift,1,3,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,urg_count,0.00017850377184350444,0.25,False,False,"[3652, 444]"
+synthetic_shift,1,3,rst_count,0.00019273679502475764,0.25,False,False,"[3220, 390, 486]"
+synthetic_shift,1,3,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,3,Tot sum,0.0018261385965485848,0.25,False,False,"[110, 708, 2026, 406, 403, 443]"
+synthetic_shift,1,3,Min,0.0008488558454391676,0.25,False,False,"[89, 742, 2842, 423]"
+synthetic_shift,1,3,Max,0.0004979702196950046,0.25,False,False,"[75, 619, 2154, 417, 411, 420]"
+synthetic_shift,1,3,AVG,0.0012629259885805202,0.25,False,False,"[78, 699, 2072, 414, 395, 438]"
+synthetic_shift,1,3,Std,0.0005557656939627159,0.25,False,False,"[2825, 433, 420, 418]"
+synthetic_shift,1,3,Tot size,0.0013185905257854322,0.25,False,False,"[78, 699, 1995, 495, 390, 439]"
+synthetic_shift,1,3,IAT,0.0025214714052162203,0.25,False,False,"[390, 411, 396, 367, 422, 419, 396, 429, 434, 432]"
+synthetic_shift,1,3,Number,0.00011602202560043305,0.25,False,False,"[127, 3969]"
+synthetic_shift,1,3,Magnitue,0.0011238397188821385,0.25,False,False,"[78, 702, 2070, 413, 398, 435]"
+synthetic_shift,1,3,Radius,0.0006286259103029952,0.25,False,False,"[2823, 433, 422, 418]"
+synthetic_shift,1,3,Covariance,0.00046680391190410795,0.25,False,False,"[2828, 428, 417, 423]"
+synthetic_shift,1,3,Variance,0.0009424773621290149,0.25,False,False,"[2822, 377, 470, 427]"
+synthetic_shift,1,3,Weight,0.00010075340956194908,0.25,False,False,"[128, 3968]"
+synthetic_shift,1,4,flow_duration,0.0014633888176449152,0.25,False,False,"[2428, 416, 455, 404, 393]"
+synthetic_shift,1,4,Header_Length,0.0025684317712710725,0.25,False,False,"[351, 118, 1544, 450, 438, 388, 426, 381]"
+synthetic_shift,1,4,Protocol Type,0.0017042094654079842,0.25,False,False,"[300, 2520, 459, 817]"
+synthetic_shift,1,4,Duration,0.0006210173591357023,0.25,False,False,"[415, 43, 3142, 496]"
+synthetic_shift,1,4,Rate,0.0010446444483385138,0.25,False,False,"[432, 382, 404, 415, 410, 408, 402, 401, 418, 424]"
+synthetic_shift,1,4,Srate,0.0010446444483385138,0.25,False,False,"[432, 382, 404, 415, 410, 408, 402, 401, 418, 424]"
+synthetic_shift,1,4,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,syn_count,0.001259048247891749,0.25,False,False,"[2808, 250, 635, 403]"
+synthetic_shift,1,4,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,urg_count,4.815886596648124e-07,0.25,False,False,"[3668, 428]"
+synthetic_shift,1,4,rst_count,0.0005771913456068196,0.25,False,False,"[3207, 421, 468]"
+synthetic_shift,1,4,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,4,Tot sum,0.003420045670060136,0.25,False,False,"[116, 695, 2012, 475, 428, 370]"
+synthetic_shift,1,4,Min,0.0007668536846623789,0.25,False,False,"[87, 738, 2868, 403]"
+synthetic_shift,1,4,Max,0.0029801068670497624,0.25,False,False,"[71, 595, 2152, 464, 435, 379]"
+synthetic_shift,1,4,AVG,0.0035625459196811293,0.25,False,False,"[74, 692, 2068, 469, 417, 376]"
+synthetic_shift,1,4,Std,0.0027470853235766813,0.25,False,False,"[2789, 458, 449, 400]"
+synthetic_shift,1,4,Tot size,0.0018566713065284336,0.25,False,False,"[75, 696, 1981, 548, 406, 390]"
+synthetic_shift,1,4,IAT,0.0019941607940146306,0.25,False,False,"[394, 428, 387, 398, 427, 435, 381, 396, 432, 418]"
+synthetic_shift,1,4,Number,7.139630791185514e-05,0.25,False,False,"[141, 3955]"
+synthetic_shift,1,4,Magnitue,0.003604844218790081,0.25,False,False,"[74, 692, 2062, 472, 422, 374]"
+synthetic_shift,1,4,Radius,0.0025049883612053175,0.25,False,False,"[2792, 455, 446, 403]"
+synthetic_shift,1,4,Covariance,0.002935788218657244,0.25,False,False,"[2802, 462, 445, 387]"
+synthetic_shift,1,4,Variance,0.0029827534888704887,0.25,False,False,"[2785, 386, 506, 419]"
+synthetic_shift,1,4,Weight,6.048868588233433e-05,0.25,False,False,"[141, 3955]"
+synthetic_shift,1,5,flow_duration,0.0005933667862766644,0.25,False,False,"[2456, 393, 436, 404, 407]"
+synthetic_shift,1,5,Header_Length,0.0010492326747939414,0.25,False,False,"[353, 105, 1566, 444, 415, 387, 405, 421]"
+synthetic_shift,1,5,Protocol Type,0.0004643496928613481,0.25,False,False,"[318, 2551, 424, 803]"
+synthetic_shift,1,5,Duration,0.0005630931940236596,0.25,False,False,"[411, 37, 3187, 461]"
+synthetic_shift,1,5,Rate,0.0028859422104523347,0.25,False,False,"[383, 400, 404, 382, 424, 460, 393, 420, 424, 406]"
+synthetic_shift,1,5,Srate,0.0028859422104523347,0.25,False,False,"[383, 400, 404, 382, 424, 460, 393, 420, 424, 406]"
+synthetic_shift,1,5,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,syn_count,1.221162439211622e-05,0.25,False,False,"[2858, 242, 589, 407]"
+synthetic_shift,1,5,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,urg_count,2.903916807636304e-06,0.25,False,False,"[3671, 425]"
+synthetic_shift,1,5,rst_count,0.00029949046294573006,0.25,False,False,"[3262, 373, 461]"
+synthetic_shift,1,5,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,5,Tot sum,0.003523841624379777,0.25,False,False,"[158, 685, 2086, 405, 403, 359]"
+synthetic_shift,1,5,Min,0.0010662534282333972,0.25,False,False,"[119, 726, 2864, 387]"
+synthetic_shift,1,5,Max,0.0027738651816606036,0.25,False,False,"[105, 596, 2208, 407, 417, 363]"
+synthetic_shift,1,5,AVG,0.002848491881004082,0.25,False,False,"[109, 681, 2133, 394, 417, 362]"
+synthetic_shift,1,5,Std,0.0014676925408338454,0.25,False,False,"[2885, 404, 437, 370]"
+synthetic_shift,1,5,Tot size,0.002773767826602466,0.25,False,False,"[109, 682, 2041, 484, 415, 365]"
+synthetic_shift,1,5,IAT,0.002045863771588799,0.25,False,False,"[402, 438, 412, 416, 440, 396, 409, 416, 388, 379]"
+synthetic_shift,1,5,Number,9.577669940222031e-05,0.25,False,False,"[142, 3954]"
+synthetic_shift,1,5,Magnitue,0.002862471649701547,0.25,False,False,"[109, 681, 2129, 395, 419, 363]"
+synthetic_shift,1,5,Radius,0.001619087399953295,0.25,False,False,"[2884, 403, 439, 370]"
+synthetic_shift,1,5,Covariance,0.001240482138071852,0.25,False,False,"[2885, 395, 438, 378]"
+synthetic_shift,1,5,Variance,0.00037378027287843777,0.25,False,False,"[2886, 381, 433, 396]"
+synthetic_shift,1,5,Weight,0.00010913486536071514,0.25,False,False,"[143, 3953]"
+synthetic_shift,1,6,flow_duration,0.0012858013486802828,0.25,False,False,"[2400, 400, 433, 427, 436]"
+synthetic_shift,1,6,Header_Length,0.0016395520692700132,0.25,False,False,"[355, 101, 1538, 438, 422, 386, 420, 436]"
+synthetic_shift,1,6,Protocol Type,0.00025615152354666846,0.25,False,False,"[304, 2532, 426, 834]"
+synthetic_shift,1,6,Duration,0.0017849419754962807,0.25,False,False,"[388, 65, 3167, 476]"
+synthetic_shift,1,6,Rate,0.0032669320623479607,0.25,False,False,"[453, 392, 403, 411, 405, 394, 402, 402, 455, 379]"
+synthetic_shift,1,6,Srate,0.0032669320623479607,0.25,False,False,"[453, 392, 403, 411, 405, 394, 402, 402, 455, 379]"
+synthetic_shift,1,6,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,syn_count,0.0008383977401853572,0.25,False,False,"[2820, 254, 622, 400]"
+synthetic_shift,1,6,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,urg_count,0.0005525165049665878,0.25,False,False,"[3639, 457]"
+synthetic_shift,1,6,rst_count,0.0009302424114105738,0.25,False,False,"[3185, 415, 496]"
+synthetic_shift,1,6,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,6,Tot sum,0.0008883893788643967,0.25,False,False,"[123, 676, 2053, 391, 423, 430]"
+synthetic_shift,1,6,Min,6.465181780583506e-05,0.25,False,False,"[102, 708, 2867, 419]"
+synthetic_shift,1,6,Max,0.0013073197303203337,0.25,False,False,"[80, 587, 2189, 379, 427, 434]"
+synthetic_shift,1,6,AVG,0.001806211360403899,0.25,False,False,"[85, 670, 2115, 365, 428, 433]"
+synthetic_shift,1,6,Std,0.0020368307301116837,0.25,False,False,"[2861, 365, 436, 434]"
+synthetic_shift,1,6,Tot size,0.0005654557516785753,0.25,False,False,"[85, 671, 1998, 489, 435, 418]"
+synthetic_shift,1,6,IAT,0.0017793293785425411,0.25,False,False,"[420, 400, 386, 389, 435, 399, 404, 406, 420, 437]"
+synthetic_shift,1,6,Number,1.9459733123114612e-05,0.25,False,False,"[138, 3958]"
+synthetic_shift,1,6,Magnitue,0.0019668039759757347,0.25,False,False,"[85, 671, 2111, 367, 428, 434]"
+synthetic_shift,1,6,Radius,0.0021509431225142967,0.25,False,False,"[2860, 363, 437, 436]"
+synthetic_shift,1,6,Covariance,0.001464124125916921,0.25,False,False,"[2859, 373, 438, 426]"
+synthetic_shift,1,6,Variance,0.0014929992923524427,0.25,False,False,"[2848, 365, 427, 456]"
+synthetic_shift,1,6,Weight,2.590710721060148e-05,0.25,False,False,"[139, 3957]"
+synthetic_shift,1,7,flow_duration,0.0005741676476191185,0.25,False,False,"[2432, 437, 418, 406, 403]"
+synthetic_shift,1,7,Header_Length,0.003427090898938009,0.25,False,False,"[312, 102, 1609, 427, 430, 432, 410, 374]"
+synthetic_shift,1,7,Protocol Type,0.0013279582164960285,0.25,False,False,"[313, 2606, 390, 787]"
+synthetic_shift,1,7,Duration,0.000638973668296768,0.25,False,False,"[395, 51, 3208, 442]"
+synthetic_shift,1,7,Rate,0.002163249499892992,0.25,False,False,"[415, 418, 395, 392, 407, 442, 442, 388, 409, 388]"
+synthetic_shift,1,7,Srate,0.002163249499892992,0.25,False,False,"[415, 418, 395, 392, 407, 442, 442, 388, 409, 388]"
+synthetic_shift,1,7,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,syn_count,0.00039999294417281085,0.25,False,False,"[2822, 245, 599, 430]"
+synthetic_shift,1,7,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,urg_count,0.00029137658485468707,0.25,False,False,"[3690, 406]"
+synthetic_shift,1,7,rst_count,0.0008441917863145668,0.25,False,False,"[3221, 425, 450]"
+synthetic_shift,1,7,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,7,Tot sum,0.003216098356644062,0.25,False,False,"[126, 669, 2115, 413, 426, 347]"
+synthetic_shift,1,7,Min,0.0011248491375827588,0.25,False,False,"[100, 697, 2925, 374]"
+synthetic_shift,1,7,Max,0.002533925171569367,0.25,False,False,"[81, 583, 2244, 439, 374, 375]"
+synthetic_shift,1,7,AVG,0.002332572167835653,0.25,False,False,"[87, 665, 2163, 417, 409, 355]"
+synthetic_shift,1,7,Std,0.0013851836689300478,0.25,False,False,"[2880, 434, 413, 369]"
+synthetic_shift,1,7,Tot size,0.002022635772873646,0.25,False,False,"[87, 664, 2071, 515, 396, 363]"
+synthetic_shift,1,7,IAT,0.00222844568875455,0.25,False,False,"[412, 425, 405, 393, 446, 392, 419, 391, 433, 380]"
+synthetic_shift,1,7,Number,0.0005606068982910278,0.25,False,False,"[118, 3978]"
+synthetic_shift,1,7,Magnitue,0.0025567010870974636,0.25,False,False,"[87, 666, 2157, 419, 415, 352]"
+synthetic_shift,1,7,Radius,0.0012585397051065443,0.25,False,False,"[2886, 425, 415, 370]"
+synthetic_shift,1,7,Covariance,0.0007244151036226215,0.25,False,False,"[2894, 422, 399, 381]"
+synthetic_shift,1,7,Variance,0.00043810701045389667,0.25,False,False,"[2872, 380, 449, 395]"
+synthetic_shift,1,7,Weight,0.0005240566583998584,0.25,False,False,"[119, 3977]"
+synthetic_shift,1,8,flow_duration,0.0011283230590319725,0.25,False,False,"[2457, 414, 401, 442, 382]"
+synthetic_shift,1,8,Header_Length,0.0013266255398782269,0.25,False,False,"[356, 110, 1580, 393, 443, 385, 412, 417]"
+synthetic_shift,1,8,Protocol Type,0.00013736170781369748,0.25,False,False,"[320, 2516, 412, 848]"
+synthetic_shift,1,8,Duration,0.0012474661240459506,0.25,False,False,"[408, 47, 3216, 425]"
+synthetic_shift,1,8,Rate,0.0033902121835496023,0.25,False,False,"[450, 406, 419, 422, 377, 384, 373, 410, 433, 422]"
+synthetic_shift,1,8,Srate,0.0033902121835496023,0.25,False,False,"[450, 406, 419, 422, 377, 384, 373, 410, 433, 422]"
+synthetic_shift,1,8,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,syn_count,0.0007997619242280024,0.25,False,False,"[2896, 226, 557, 417]"
+synthetic_shift,1,8,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,urg_count,0.00011155193207734595,0.25,False,False,"[3682, 414]"
+synthetic_shift,1,8,rst_count,0.00037994380192888586,0.25,False,False,"[3264, 370, 462]"
+synthetic_shift,1,8,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,1,8,Tot sum,0.0005522370134482056,0.25,False,False,"[125, 698, 2063, 425, 391, 394]"
+synthetic_shift,1,8,Min,0.00026293082684201465,0.25,False,False,"[109, 729, 2853, 405]"
+synthetic_shift,1,8,Max,0.002936988018517523,0.25,False,False,"[92, 621, 2199, 381, 440, 363]"
+synthetic_shift,1,8,AVG,0.0008057280574402048,0.25,False,False,"[94, 694, 2125, 392, 403, 388]"
+synthetic_shift,1,8,Std,0.0012211035356856947,0.25,False,False,"[2898, 425, 370, 403]"
+synthetic_shift,1,8,Tot size,0.0006242216711076208,0.25,False,False,"[94, 696, 2012, 505, 401, 388]"
+synthetic_shift,1,8,IAT,0.0013096177355049613,0.25,False,False,"[386, 421, 409, 395, 403, 420, 434, 409, 432, 387]"
+synthetic_shift,1,8,Number,0.0004313321837168122,0.25,False,False,"[120, 3976]"
+synthetic_shift,1,8,Magnitue,0.0007122481063784862,0.25,False,False,"[94, 696, 2113, 401, 405, 387]"
+synthetic_shift,1,8,Radius,0.0012143070512639939,0.25,False,False,"[2895, 426, 370, 405]"
+synthetic_shift,1,8,Covariance,0.001061121860987686,0.25,False,False,"[2895, 428, 376, 397]"
+synthetic_shift,1,8,Variance,0.0002758759359583159,0.25,False,False,"[2874, 398, 426, 398]"
+synthetic_shift,1,8,Weight,0.0004597145376490262,0.25,False,False,"[120, 3976]"
+synthetic_shift,2,1,flow_duration,0.0009333865359793035,0.25,False,False,"[2456, 443, 398, 391, 408]"
+synthetic_shift,2,1,Header_Length,0.001138867130999321,0.25,False,False,"[422, 262, 1754, 371, 450, 433, 404]"
+synthetic_shift,2,1,Protocol Type,0.0017652980547021185,0.25,False,False,"[413, 160, 2678, 179, 666]"
+synthetic_shift,2,1,Duration,0.0005488188944479586,0.25,False,False,"[382, 40, 3228, 446]"
+synthetic_shift,2,1,Rate,0.0024229911575104073,0.25,False,False,"[430, 392, 407, 393, 375, 429, 439, 403, 398, 430]"
+synthetic_shift,2,1,Srate,0.0024229911575104073,0.25,False,False,"[430, 392, 407, 393, 375, 429, 439, 403, 398, 430]"
+synthetic_shift,2,1,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,ack_count,0.00115711179436225,0.25,False,False,"[3217, 103, 776]"
+synthetic_shift,2,1,syn_count,0.00038131110979773325,0.25,False,False,"[2811, 117, 756, 412]"
+synthetic_shift,2,1,fin_count,0.0010064703915814083,0.25,False,False,"[3203, 106, 787]"
+synthetic_shift,2,1,urg_count,7.107265987214197e-05,0.25,False,False,"[3695, 401]"
+synthetic_shift,2,1,rst_count,0.00037050724797644744,0.25,False,False,"[3244, 445, 407]"
+synthetic_shift,2,1,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,2,1,Tot sum,0.002278246031594518,0.25,False,False,"[347, 489, 27, 2031, 371, 388, 443]"
+synthetic_shift,2,1,Min,0.0002771408946247345,0.25,False,False,"[329, 500, 39, 2806, 422]"
+synthetic_shift,2,1,Max,0.0016842891500676088,0.25,False,False,"[298, 441, 2147, 370, 384, 456]"
+synthetic_shift,2,1,AVG,0.0021346454291077946,0.25,False,False,"[316, 511, 2067, 381, 370, 451]"
+synthetic_shift,2,1,Std,0.001098366806556538,0.25,False,False,"[2908, 377, 390, 421]"
+synthetic_shift,2,1,Tot size,0.00280231053630658,0.25,False,False,"[316, 511, 2036, 395, 384, 454]"
+synthetic_shift,2,1,IAT,0.004199660874862836,0.25,False,False,"[406, 472, 434, 420, 377, 407, 397, 396, 378, 409]"
+synthetic_shift,2,1,Number,0.0005561323178790389,0.25,False,False,"[121, 3975]"
+synthetic_shift,2,1,Magnitue,0.002293912816765592,0.25,False,False,"[316, 512, 2076, 372, 374, 446]"
+synthetic_shift,2,1,Radius,0.0012677680612724887,0.25,False,False,"[2909, 381, 384, 422]"
+synthetic_shift,2,1,Covariance,0.001282591237080783,0.25,False,False,"[2913, 371, 396, 416]"
+synthetic_shift,2,1,Variance,0.0018118714364870076,0.25,False,False,"[2924, 338, 416, 418]"
+synthetic_shift,2,1,Weight,0.0005887460665543177,0.25,False,False,"[122, 3974]"
+synthetic_shift,2,2,flow_duration,0.001066519291529437,0.25,False,False,"[2444, 397, 420, 444, 391]"
+synthetic_shift,2,2,Header_Length,0.00217663559400079,0.25,False,False,"[406, 320, 1761, 367, 448, 368, 426]"
+synthetic_shift,2,2,Protocol Type,0.00024930266308020513,0.25,False,False,"[406, 185, 2692, 174, 639]"
+synthetic_shift,2,2,Duration,0.00012147042893722049,0.25,False,False,"[410, 45, 3212, 429]"
+synthetic_shift,2,2,Rate,0.0032074635426033097,0.25,False,False,"[406, 388, 413, 449, 450, 391, 400, 424, 397, 378]"
+synthetic_shift,2,2,Srate,0.0032074635426033097,0.25,False,False,"[406, 388, 413, 449, 450, 391, 400, 424, 397, 378]"
+synthetic_shift,2,2,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,ack_count,1.2590771616359655e-05,0.25,False,False,"[3184, 122, 790]"
+synthetic_shift,2,2,syn_count,0.0017624397696574161,0.25,False,False,"[2779, 108, 768, 441]"
+synthetic_shift,2,2,fin_count,2.164810861651073e-05,0.25,False,False,"[3184, 125, 787]"
+synthetic_shift,2,2,urg_count,0.0004009426065219882,0.25,False,False,"[3709, 387]"
+synthetic_shift,2,2,rst_count,0.0013205534660764777,0.25,False,False,"[3208, 508, 380]"
+synthetic_shift,2,2,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,2,2,Tot sum,0.0028245404973810386,0.25,False,False,"[347, 427, 29, 2038, 389, 407, 459]"
+synthetic_shift,2,2,Min,0.0012914961233743433,0.25,False,False,"[338, 448, 36, 2834, 440]"
+synthetic_shift,2,2,Max,0.0017914719949022361,0.25,False,False,"[310, 383, 2135, 410, 375, 483]"
+synthetic_shift,2,2,AVG,0.002275538901689362,0.25,False,False,"[328, 451, 2072, 386, 393, 466]"
+synthetic_shift,2,2,Std,0.0009067792684452894,0.25,False,False,"[2841, 389, 433, 433]"
+synthetic_shift,2,2,Tot size,0.0018644948180890665,0.25,False,False,"[327, 445, 2028, 428, 404, 464]"
+synthetic_shift,2,2,IAT,0.0032153822289758805,0.25,False,False,"[377, 377, 431, 397, 409, 391, 410, 413, 458, 433]"
+synthetic_shift,2,2,Number,0.0001272768562466696,0.25,False,False,"[98, 3998]"
+synthetic_shift,2,2,Magnitue,0.0022464407571751678,0.25,False,False,"[328, 453, 2076, 381, 397, 461]"
+synthetic_shift,2,2,Radius,0.0012467151436283722,0.25,False,False,"[2845, 383, 434, 434]"
+synthetic_shift,2,2,Covariance,0.001520256655570101,0.25,False,False,"[2845, 378, 437, 436]"
+synthetic_shift,2,2,Variance,0.00027593797424706304,0.25,False,False,"[2860, 366, 440, 430]"
+synthetic_shift,2,2,Weight,0.0001449519037193924,0.25,False,False,"[98, 3998]"
+synthetic_shift,2,3,flow_duration,0.0004166695301042121,0.25,False,False,"[2460, 422, 393, 399, 422]"
+synthetic_shift,2,3,Header_Length,0.0012473215252412422,0.25,False,False,"[421, 308, 1763, 393, 418, 383, 410]"
+synthetic_shift,2,3,Protocol Type,0.0013021287205249984,0.25,False,False,"[442, 173, 2684, 188, 609]"
+synthetic_shift,2,3,Duration,0.0002747778320194719,0.25,False,False,"[416, 49, 3202, 429]"
+synthetic_shift,2,3,Rate,0.0036570251888155634,0.25,False,False,"[433, 443, 354, 414, 406, 415, 419, 429, 388, 395]"
+synthetic_shift,2,3,Srate,0.0036570251888155634,0.25,False,False,"[433, 443, 354, 414, 406, 415, 419, 429, 388, 395]"
+synthetic_shift,2,3,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,ack_count,0.00044142553878361056,0.25,False,False,"[3204, 131, 761]"
+synthetic_shift,2,3,syn_count,0.00023928464703310272,0.25,False,False,"[2813, 125, 748, 410]"
+synthetic_shift,2,3,fin_count,0.0003538806881946392,0.25,False,False,"[3201, 132, 763]"
+synthetic_shift,2,3,urg_count,0.0001015131350238801,0.25,False,False,"[3697, 399]"
+synthetic_shift,2,3,rst_count,0.0006260272299426056,0.25,False,False,"[3191, 502, 403]"
+synthetic_shift,2,3,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,2,3,Tot sum,0.0015875417380826272,0.25,False,False,"[380, 439, 20, 2033, 404, 381, 439]"
+synthetic_shift,2,3,Min,0.001827876653048817,0.25,False,False,"[362, 451, 40, 2800, 443]"
+synthetic_shift,2,3,Max,0.002324960124323508,0.25,False,False,"[329, 371, 2151, 408, 366, 471]"
+synthetic_shift,2,3,AVG,0.0018102215370282549,0.25,False,False,"[348, 454, 2067, 398, 379, 450]"
+synthetic_shift,2,3,Std,0.0018258527666334056,0.25,False,False,"[2830, 382, 452, 432]"
+synthetic_shift,2,3,Tot size,0.001546825025171955,0.25,False,False,"[349, 453, 2029, 433, 387, 445]"
+synthetic_shift,2,3,IAT,0.0032452634137374353,0.25,False,False,"[408, 371, 415, 411, 415, 390, 398, 406, 475, 407]"
+synthetic_shift,2,3,Number,4.255889066172141e-05,0.25,False,False,"[101, 3995]"
+synthetic_shift,2,3,Magnitue,0.0019872659658031126,0.25,False,False,"[348, 456, 2073, 389, 382, 448]"
+synthetic_shift,2,3,Radius,0.0016782369982147054,0.25,False,False,"[2836, 382, 446, 432]"
+synthetic_shift,2,3,Covariance,0.0030136871107052515,0.25,False,False,"[2844, 365, 462, 425]"
+synthetic_shift,2,3,Variance,0.000507166708211943,0.25,False,False,"[2844, 372, 439, 441]"
+synthetic_shift,2,3,Weight,5.3020721650522885e-05,0.25,False,False,"[101, 3995]"
+synthetic_shift,2,4,flow_duration,0.0002594946722074736,0.25,False,True,"[2474, 417, 407, 392, 406]"
+synthetic_shift,2,4,Header_Length,0.0022369692015980474,0.25,False,True,"[421, 296, 1755, 329, 464, 409, 422]"
+synthetic_shift,2,4,Protocol Type,0.00037900425850439915,0.25,False,True,"[423, 182, 2655, 184, 652]"
+synthetic_shift,2,4,Duration,0.00031332365112668963,0.25,False,True,"[390, 49, 3213, 444]"
+synthetic_shift,2,4,Rate,12.433835175691192,0.25,True,True,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 4096]"
+synthetic_shift,2,4,Srate,0.002435780185539683,0.25,False,True,"[402, 381, 424, 422, 420, 371, 404, 438, 406, 428]"
+synthetic_shift,2,4,Drate,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,fin_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,syn_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,rst_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,psh_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,ack_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,ece_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,cwr_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,ack_count,0.000135344698654182,0.25,False,True,"[3167, 132, 797]"
+synthetic_shift,2,4,syn_count,0.00027745010023950425,0.25,False,True,"[2857, 118, 730, 391]"
+synthetic_shift,2,4,fin_count,0.00013252436374706252,0.25,False,True,"[3164, 135, 797]"
+synthetic_shift,2,4,urg_count,0.0003369423542921799,0.25,False,True,"[3707, 389]"
+synthetic_shift,2,4,rst_count,0.0008375407355278365,0.25,False,True,"[3265, 445, 386]"
+synthetic_shift,2,4,HTTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,HTTPS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,DNS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,SMTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,SSH,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,TCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,UDP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,DHCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,ARP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,ICMP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,IPv,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,LLC,0.0,0.25,False,True,[4096]
+synthetic_shift,2,4,Tot sum,0.0005530165186438817,0.25,False,True,"[362, 462, 21, 1989, 417, 403, 442]"
+synthetic_shift,2,4,Min,0.00047501514790151435,0.25,False,True,"[336, 488, 40, 2797, 435]"
+synthetic_shift,2,4,Max,0.0008968257133173041,0.25,False,True,"[307, 420, 2086, 427, 396, 460]"
+synthetic_shift,2,4,AVG,0.0005845175044813633,0.25,False,True,"[325, 486, 2018, 411, 412, 444]"
+synthetic_shift,2,4,Std,0.0003176082604983677,0.25,False,True,"[2849, 403, 413, 431]"
+synthetic_shift,2,4,Tot size,0.0006256457092925797,0.25,False,True,"[325, 484, 1986, 433, 418, 450]"
+synthetic_shift,2,4,IAT,0.0014824287143553373,0.25,False,True,"[391, 420, 423, 388, 395, 406, 439, 410, 402, 422]"
+synthetic_shift,2,4,Number,3.365264955704341e-06,0.25,False,True,"[104, 3992]"
+synthetic_shift,2,4,Magnitue,0.0005907584324374884,0.25,False,True,"[326, 486, 2022, 406, 414, 442]"
+synthetic_shift,2,4,Radius,0.00040516446826789816,0.25,False,True,"[2854, 398, 413, 431]"
+synthetic_shift,2,4,Covariance,0.000508400756554146,0.25,False,True,"[2849, 396, 418, 433]"
+synthetic_shift,2,4,Variance,0.00015520327449967204,0.25,False,True,"[2873, 375, 427, 421]"
+synthetic_shift,2,4,Weight,6.719730495967527e-06,0.25,False,True,"[104, 3992]"
+synthetic_shift,2,5,flow_duration,0.0005817909000102184,0.25,False,True,"[2422, 433, 424, 412, 405]"
+synthetic_shift,2,5,Header_Length,0.0012464282171369132,0.25,False,True,"[439, 273, 1720, 372, 443, 419, 430]"
+synthetic_shift,2,5,Protocol Type,0.00267764208743763,0.25,False,True,"[406, 157, 2660, 186, 687]"
+synthetic_shift,2,5,Duration,0.0029490878014924574,0.25,False,True,"[348, 39, 3238, 471]"
+synthetic_shift,2,5,Rate,12.433835175691192,0.25,True,True,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 4096]"
+synthetic_shift,2,5,Srate,0.003505588604066209,0.25,False,True,"[388, 430, 417, 437, 409, 373, 387, 404, 395, 456]"
+synthetic_shift,2,5,Drate,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,fin_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,syn_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,rst_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,psh_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,ack_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,ece_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,cwr_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,ack_count,0.0005690741292891249,0.25,False,True,"[3194, 108, 794]"
+synthetic_shift,2,5,syn_count,0.0009264160742361515,0.25,False,True,"[2825, 114, 711, 446]"
+synthetic_shift,2,5,fin_count,0.0004895246841335988,0.25,False,True,"[3191, 112, 793]"
+synthetic_shift,2,5,urg_count,0.001066459878535897,0.25,False,True,"[3724, 372]"
+synthetic_shift,2,5,rst_count,0.001411138454305002,0.25,False,True,"[3269, 460, 367]"
+synthetic_shift,2,5,HTTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,HTTPS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,DNS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,SMTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,SSH,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,TCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,UDP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,DHCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,ARP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,ICMP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,IPv,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,LLC,0.0,0.25,False,True,[4096]
+synthetic_shift,2,5,Tot sum,0.0010552487064714347,0.25,False,True,"[360, 489, 28, 1981, 406, 400, 432]"
+synthetic_shift,2,5,Min,0.000694528014974058,0.25,False,True,"[351, 502, 43, 2781, 419]"
+synthetic_shift,2,5,Max,0.0009939993300362884,0.25,False,True,"[318, 428, 2096, 434, 365, 455]"
+synthetic_shift,2,5,AVG,0.001431855310026077,0.25,False,True,"[341, 514, 2015, 412, 374, 440]"
+synthetic_shift,2,5,Std,0.0003337501090196096,0.25,False,True,"[2864, 412, 427, 393]"
+synthetic_shift,2,5,Tot size,0.000866139434639036,0.25,False,True,"[340, 508, 1980, 431, 400, 437]"
+synthetic_shift,2,5,IAT,0.004774254212650946,0.25,False,True,"[360, 420, 422, 413, 402, 360, 426, 399, 442, 452]"
+synthetic_shift,2,5,Number,0.0003146608777940744,0.25,False,True,"[94, 4002]"
+synthetic_shift,2,5,Magnitue,0.0011024791719276335,0.25,False,True,"[341, 515, 2016, 406, 386, 432]"
+synthetic_shift,2,5,Radius,0.0003474737366442682,0.25,False,True,"[2857, 422, 424, 393]"
+synthetic_shift,2,5,Covariance,0.0010674025170839584,0.25,False,True,"[2854, 438, 423, 381]"
+synthetic_shift,2,5,Variance,7.522794224545148e-05,0.25,False,True,"[2862, 388, 439, 407]"
+synthetic_shift,2,5,Weight,0.0002845945556516795,0.25,False,True,"[95, 4001]"
+synthetic_shift,2,6,flow_duration,0.0009688171102046674,0.25,False,True,"[2450, 410, 389, 403, 444]"
+synthetic_shift,2,6,Header_Length,0.0006411543266014565,0.25,False,True,"[435, 279, 1761, 368, 446, 410, 397]"
+synthetic_shift,2,6,Protocol Type,0.002149259267473435,0.25,False,True,"[447, 169, 2701, 185, 594]"
+synthetic_shift,2,6,Duration,0.00012191312478183186,0.25,False,True,"[400, 43, 3198, 455]"
+synthetic_shift,2,6,Rate,12.433835175691192,0.25,True,True,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 4096]"
+synthetic_shift,2,6,Srate,0.001254059779458069,0.25,False,True,"[431, 415, 412, 411, 392, 420, 417, 407, 414, 377]"
+synthetic_shift,2,6,Drate,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,fin_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,syn_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,rst_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,psh_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,ack_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,ece_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,cwr_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,ack_count,8.366952173690861e-05,0.25,False,True,"[3194, 120, 782]"
+synthetic_shift,2,6,syn_count,0.0008952643470108258,0.25,False,True,"[2817, 106, 739, 434]"
+synthetic_shift,2,6,fin_count,0.00012264737781020506,0.25,False,True,"[3189, 120, 787]"
+synthetic_shift,2,6,urg_count,6.118573739721368e-05,0.25,False,True,"[3675, 421]"
+synthetic_shift,2,6,rst_count,0.0002698834194790309,0.25,False,True,"[3220, 452, 424]"
+synthetic_shift,2,6,HTTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,HTTPS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,DNS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,SMTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,SSH,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,TCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,UDP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,DHCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,ARP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,ICMP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,IPv,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,LLC,0.0,0.25,False,True,[4096]
+synthetic_shift,2,6,Tot sum,0.001517972843752443,0.25,False,True,"[392, 443, 22, 2020, 421, 386, 412]"
+synthetic_shift,2,6,Min,0.0020885062707090302,0.25,False,True,"[374, 462, 31, 2842, 387]"
+synthetic_shift,2,6,Max,0.0017594762157928006,0.25,False,True,"[345, 392, 2123, 435, 375, 426]"
+synthetic_shift,2,6,AVG,0.0015676543392706792,0.25,False,True,"[362, 457, 2058, 419, 386, 414]"
+synthetic_shift,2,6,Std,1.610260803935393e-05,0.25,False,True,"[2860, 410, 414, 412]"
+synthetic_shift,2,6,Tot size,0.0017593285184940148,0.25,False,True,"[362, 456, 2018, 458, 391, 411]"
+synthetic_shift,2,6,IAT,0.00196351093553626,0.25,False,True,"[387, 398, 398, 407, 445, 413, 384, 427, 426, 411]"
+synthetic_shift,2,6,Number,0.0004417624102090268,0.25,False,True,"[92, 4004]"
+synthetic_shift,2,6,Magnitue,0.0016160895380445753,0.25,False,True,"[363, 460, 2063, 412, 386, 412]"
+synthetic_shift,2,6,Radius,2.071596217672241e-05,0.25,False,True,"[2856, 416, 412, 412]"
+synthetic_shift,2,6,Covariance,4.512374459724246e-05,0.25,False,True,"[2860, 417, 413, 406]"
+synthetic_shift,2,6,Variance,0.0001239962370252804,0.25,False,True,"[2873, 386, 434, 403]"
+synthetic_shift,2,6,Weight,0.00040530396306765853,0.25,False,True,"[93, 4003]"
+synthetic_shift,2,7,flow_duration,0.001200469231684235,0.25,False,True,"[2493, 423, 371, 402, 407]"
+synthetic_shift,2,7,Header_Length,0.000719483832409672,0.25,False,True,"[413, 291, 1789, 376, 449, 385, 393]"
+synthetic_shift,2,7,Protocol Type,0.0007946027511195088,0.25,False,True,"[386, 183, 2729, 180, 618]"
+synthetic_shift,2,7,Duration,0.00015351584574358225,0.25,False,True,"[399, 40, 3215, 442]"
+synthetic_shift,2,7,Rate,12.433835175691192,0.25,True,True,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 4096]"
+synthetic_shift,2,7,Srate,0.0023332909528778786,0.25,False,True,"[431, 402, 410, 417, 405, 456, 396, 382, 404, 393]"
+synthetic_shift,2,7,Drate,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,fin_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,syn_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,rst_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,psh_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,ack_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,ece_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,cwr_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,ack_count,0.0006417982430682534,0.25,False,True,"[3216, 128, 752]"
+synthetic_shift,2,7,syn_count,0.0011077681761214072,0.25,False,True,"[2776, 129, 767, 424]"
+synthetic_shift,2,7,fin_count,0.000971964120346658,0.25,False,True,"[3217, 135, 744]"
+synthetic_shift,2,7,urg_count,8.88942565018873e-05,0.25,False,True,"[3673, 423]"
+synthetic_shift,2,7,rst_count,0.00031266691422132686,0.25,False,True,"[3187, 485, 424]"
+synthetic_shift,2,7,HTTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,HTTPS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,DNS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,SMTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,SSH,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,TCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,UDP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,DHCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,ARP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,ICMP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,IPv,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,LLC,0.0,0.25,False,True,[4096]
+synthetic_shift,2,7,Tot sum,0.001232702683972478,0.25,False,True,"[321, 446, 22, 2049, 414, 412, 432]"
+synthetic_shift,2,7,Min,0.0012384845007569194,0.25,False,True,"[306, 461, 41, 2859, 429]"
+synthetic_shift,2,7,Max,0.0014588374395030968,0.25,False,True,"[283, 392, 2163, 421, 374, 463]"
+synthetic_shift,2,7,AVG,0.0013489725575216835,0.25,False,True,"[294, 460, 2071, 430, 404, 437]"
+synthetic_shift,2,7,Std,0.0007501243071012916,0.25,False,True,"[2824, 421, 440, 411]"
+synthetic_shift,2,7,Tot size,0.0013380684234531991,0.25,False,True,"[294, 458, 2033, 456, 415, 440]"
+synthetic_shift,2,7,IAT,0.0026987769362867104,0.25,False,True,"[403, 400, 452, 401, 376, 422, 411, 377, 435, 419]"
+synthetic_shift,2,7,Number,0.00025959385339468453,0.25,False,True,"[95, 4001]"
+synthetic_shift,2,7,Magnitue,0.00129765950480915,0.25,False,True,"[294, 463, 2074, 425, 411, 429]"
+synthetic_shift,2,7,Radius,0.0007654566878643609,0.25,False,True,"[2822, 421, 441, 412]"
+synthetic_shift,2,7,Covariance,0.0007739864425254999,0.25,False,True,"[2819, 435, 429, 413]"
+synthetic_shift,2,7,Variance,0.001727290925468926,0.25,False,True,"[2834, 352, 486, 424]"
+synthetic_shift,2,7,Weight,0.0002845945556516795,0.25,False,True,"[95, 4001]"
+synthetic_shift,2,8,flow_duration,0.0010399747094512416,0.25,False,True,"[2485, 401, 390, 386, 434]"
+synthetic_shift,2,8,Header_Length,0.0006672102080738163,0.25,False,True,"[401, 300, 1797, 374, 434, 398, 392]"
+synthetic_shift,2,8,Protocol Type,0.0008596649760114644,0.25,False,True,"[399, 189, 2717, 164, 627]"
+synthetic_shift,2,8,Duration,0.0007844719654212481,0.25,False,True,"[390, 43, 3248, 415]"
+synthetic_shift,2,8,Rate,12.433835175691192,0.25,True,True,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 4096]"
+synthetic_shift,2,8,Srate,0.0019625580573079315,0.25,False,True,"[427, 430, 393, 395, 397, 405, 437, 428, 382, 402]"
+synthetic_shift,2,8,Drate,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,fin_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,syn_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,rst_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,psh_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,ack_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,ece_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,cwr_flag_number,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,ack_count,0.0004059181026091247,0.25,False,True,"[3174, 112, 810]"
+synthetic_shift,2,8,syn_count,0.0009092126469566768,0.25,False,True,"[2804, 113, 772, 407]"
+synthetic_shift,2,8,fin_count,0.0003114038730261568,0.25,False,True,"[3169, 117, 810]"
+synthetic_shift,2,8,urg_count,8.88942565018873e-05,0.25,False,True,"[3673, 423]"
+synthetic_shift,2,8,rst_count,0.0002756361302051687,0.25,False,True,"[3190, 488, 418]"
+synthetic_shift,2,8,HTTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,HTTPS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,DNS,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,SMTP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,SSH,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,TCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,UDP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,DHCP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,ARP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,ICMP,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,IPv,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,LLC,0.0,0.25,False,True,[4096]
+synthetic_shift,2,8,Tot sum,0.0012120126574664404,0.25,False,True,"[352, 447, 18, 2048, 425, 373, 433]"
+synthetic_shift,2,8,Min,0.00010483553287308432,0.25,False,True,"[335, 473, 37, 2842, 409]"
+synthetic_shift,2,8,Max,0.0003397006745692349,0.25,False,True,"[305, 403, 2168, 401, 374, 445]"
+synthetic_shift,2,8,AVG,0.0006854962251856409,0.25,False,True,"[319, 460, 2093, 406, 387, 431]"
+synthetic_shift,2,8,Std,0.00035294161263207447,0.25,False,True,"[2877, 387, 413, 419]"
+synthetic_shift,2,8,Tot size,0.00116535605571383,0.25,False,True,"[320, 458, 2062, 416, 407, 433]"
+synthetic_shift,2,8,IAT,0.0022181578370532424,0.25,False,True,"[386, 390, 448, 413, 407, 410, 407, 421, 387, 427]"
+synthetic_shift,2,8,Number,8.184897498853081e-08,0.25,False,True,"[105, 3991]"
+synthetic_shift,2,8,Magnitue,0.0006605558523032906,0.25,False,True,"[319, 462, 2096, 404, 390, 425]"
+synthetic_shift,2,8,Radius,0.0005420624676512302,0.25,False,True,"[2880, 385, 411, 420]"
+synthetic_shift,2,8,Covariance,0.0004112933983577524,0.25,False,True,"[2885, 390, 400, 421]"
+synthetic_shift,2,8,Variance,0.00044094308537171286,0.25,False,True,"[2876, 356, 452, 412]"
+synthetic_shift,2,8,Weight,1.089658813985105e-06,0.25,False,True,"[105, 3991]"
+synthetic_shift,3,1,flow_duration,0.001482180903238399,0.25,False,False,"[2479, 429, 370, 395, 423]"
+synthetic_shift,3,1,Header_Length,0.0035236776407281023,0.25,False,False,"[1480, 1015, 442, 406, 367, 386]"
+synthetic_shift,3,1,Protocol Type,0.003122085724131917,0.25,False,False,"[77, 1143, 304, 1408, 339, 93, 732]"
+synthetic_shift,3,1,Duration,0.000606549858710182,0.25,False,False,"[376, 3303, 417]"
+synthetic_shift,3,1,Rate,0.0032617196623949134,0.25,False,False,"[439, 421, 423, 439, 384, 426, 414, 389, 368, 393]"
+synthetic_shift,3,1,Srate,0.0032617196623949134,0.25,False,False,"[439, 421, 423, 439, 384, 426, 414, 389, 368, 393]"
+synthetic_shift,3,1,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,syn_count,5.0724158158875425e-06,0.25,False,False,"[3689, 407]"
+synthetic_shift,3,1,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,urg_count,9.060173874832266e-05,0.25,False,False,"[3261, 253, 582]"
+synthetic_shift,3,1,rst_count,9.043562692383398e-05,0.25,False,False,"[3265, 172, 659]"
+synthetic_shift,3,1,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,1,Tot sum,0.0028722312565517376,0.25,False,False,"[7, 1225, 190, 593, 187, 1523, 371]"
+synthetic_shift,3,1,Min,0.0025777439569673816,0.25,False,False,"[1418, 818, 1479, 381]"
+synthetic_shift,3,1,Max,0.0033680435867888834,0.25,False,False,"[1236, 97, 661, 25, 1269, 437, 371]"
+synthetic_shift,3,1,AVG,0.0032264955994193104,0.25,False,False,"[1239, 173, 606, 174, 1538, 366]"
+synthetic_shift,3,1,Std,0.00010933643556289951,0.25,False,False,"[3286, 413, 397]"
+synthetic_shift,3,1,Tot size,0.0025766865334063463,0.25,False,False,"[1173, 235, 602, 176, 1535, 375]"
+synthetic_shift,3,1,IAT,0.002828587268618747,0.25,False,False,"[451, 412, 392, 379, 431, 396, 396, 433, 411, 395]"
+synthetic_shift,3,1,Number,0.000991385869589898,0.25,False,False,"[27, 4069]"
+synthetic_shift,3,1,Magnitue,0.0033878276268376603,0.25,False,False,"[1237, 177, 603, 179, 1535, 365]"
+synthetic_shift,3,1,Radius,0.00010956164381155991,0.25,False,False,"[3286, 413, 397]"
+synthetic_shift,3,1,Covariance,6.175538081466701e-05,0.25,False,False,"[3285, 411, 400]"
+synthetic_shift,3,1,Variance,0.0002833738476125231,0.25,False,False,"[3273, 394, 429]"
+synthetic_shift,3,1,Weight,0.0010578619867665346,0.25,False,False,"[27, 4069]"
+synthetic_shift,3,2,flow_duration,0.002007913736212657,0.25,False,False,"[2517, 391, 412, 414, 362]"
+synthetic_shift,3,2,Header_Length,0.0017987887826834594,0.25,False,False,"[1506, 1006, 355, 438, 390, 401]"
+synthetic_shift,3,2,Protocol Type,0.0009202038033014265,0.25,False,False,"[89, 1125, 300, 1351, 388, 92, 751]"
+synthetic_shift,3,2,Duration,0.0006639092106175916,0.25,False,False,"[364, 3261, 471]"
+synthetic_shift,3,2,Rate,0.0014208220057078354,0.25,False,False,"[382, 412, 426, 410, 393, 427, 431, 405, 416, 394]"
+synthetic_shift,3,2,Srate,0.0014208220057078354,0.25,False,False,"[382, 412, 426, 410, 393, 427, 431, 405, 416, 394]"
+synthetic_shift,3,2,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,syn_count,0.00026534759741344676,0.25,False,False,"[3666, 430]"
+synthetic_shift,3,2,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,urg_count,0.0011913057015630877,0.25,False,False,"[3218, 254, 624]"
+synthetic_shift,3,2,rst_count,0.0009425219875295102,0.25,False,False,"[3233, 171, 692]"
+synthetic_shift,3,2,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,2,Tot sum,0.0021368631018780825,0.25,False,False,"[3, 1204, 195, 593, 204, 1457, 440]"
+synthetic_shift,3,2,Min,0.0005218490441186484,0.25,False,False,"[1409, 846, 1409, 432]"
+synthetic_shift,3,2,Max,0.0013948039465135234,0.25,False,False,"[1213, 120, 663, 20, 1225, 411, 444]"
+synthetic_shift,3,2,AVG,0.0010212212989074566,0.25,False,False,"[1209, 183, 610, 188, 1473, 433]"
+synthetic_shift,3,2,Std,0.0008070904299793954,0.25,False,False,"[3227, 443, 426]"
+synthetic_shift,3,2,Tot size,0.0008274546563535982,0.25,False,False,"[1156, 238, 610, 188, 1469, 435]"
+synthetic_shift,3,2,IAT,0.007554065414015959,0.25,False,False,"[341, 460, 410, 408, 382, 422, 393, 467, 438, 375]"
+synthetic_shift,3,2,Number,3.8805723593078005e-05,0.25,False,False,"[36, 4060]"
+synthetic_shift,3,2,Magnitue,0.0010141453762301735,0.25,False,False,"[1210, 184, 610, 189, 1468, 435]"
+synthetic_shift,3,2,Radius,0.0008185923114289532,0.25,False,False,"[3226, 442, 428]"
+synthetic_shift,3,2,Covariance,0.0010748645425790165,0.25,False,False,"[3223, 441, 432]"
+synthetic_shift,3,2,Variance,0.001370093111565632,0.25,False,False,"[3196, 405, 495]"
+synthetic_shift,3,2,Weight,5.2769365352537085e-05,0.25,False,False,"[36, 4060]"
+synthetic_shift,3,3,flow_duration,0.0026021486389692415,0.25,False,False,"[2487, 351, 418, 409, 431]"
+synthetic_shift,3,3,Header_Length,0.0010299845501889036,0.25,False,False,"[1501, 999, 403, 394, 395, 404]"
+synthetic_shift,3,3,Protocol Type,0.0030314827497478877,0.25,False,False,"[85, 1187, 242, 1389, 357, 85, 751]"
+synthetic_shift,3,3,Duration,0.00022461290753899812,0.25,False,False,"[393, 3276, 427]"
+synthetic_shift,3,3,Rate,0.0020937179855906986,0.25,False,False,"[419, 425, 428, 400, 395, 402, 387, 443, 381, 416]"
+synthetic_shift,3,3,Srate,0.0020937179855906986,0.25,False,False,"[419, 425, 428, 400, 395, 402, 387, 443, 381, 416]"
+synthetic_shift,3,3,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,syn_count,4.45131455970997e-05,0.25,False,False,"[3678, 418]"
+synthetic_shift,3,3,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,urg_count,0.0003101112642107899,0.25,False,False,"[3247, 252, 597]"
+synthetic_shift,3,3,rst_count,0.00023510076460953538,0.25,False,False,"[3250, 183, 663]"
+synthetic_shift,3,3,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,3,Tot sum,0.0029637904986619607,0.25,False,False,"[5, 1270, 159, 594, 201, 1477, 390]"
+synthetic_shift,3,3,Min,0.0007313618857843297,0.25,False,False,"[1441, 843, 1423, 389]"
+synthetic_shift,3,3,Max,0.003191869284243082,0.25,False,False,"[1280, 86, 672, 15, 1247, 406, 390]"
+synthetic_shift,3,3,AVG,0.0027558106566491843,0.25,False,False,"[1279, 147, 609, 181, 1492, 388]"
+synthetic_shift,3,3,Std,0.0008505639664358331,0.25,False,False,"[3320, 388, 388]"
+synthetic_shift,3,3,Tot size,0.0023596366543900994,0.25,False,False,"[1219, 207, 607, 182, 1488, 393]"
+synthetic_shift,3,3,IAT,0.0006021305998064016,0.25,False,False,"[408, 408, 400, 396, 400, 429, 405, 435, 407, 408]"
+synthetic_shift,3,3,Number,2.1383707403815658e-06,0.25,False,False,"[39, 4057]"
+synthetic_shift,3,3,Magnitue,0.002726839742602992,0.25,False,False,"[1278, 150, 606, 186, 1489, 387]"
+synthetic_shift,3,3,Radius,0.0008536604083086746,0.25,False,False,"[3320, 388, 388]"
+synthetic_shift,3,3,Covariance,0.0009557112895127653,0.25,False,False,"[3326, 380, 390]"
+synthetic_shift,3,3,Variance,0.0005957141518324026,0.25,False,False,"[3282, 364, 450]"
+synthetic_shift,3,3,Weight,1.828765830844082e-07,0.25,False,False,"[39, 4057]"
+synthetic_shift,3,4,flow_duration,0.0005331886827606785,0.25,False,False,"[2455, 391, 432, 404, 414]"
+synthetic_shift,3,4,Header_Length,0.0017708394023648881,0.25,False,False,"[1525, 936, 424, 424, 412, 375]"
+synthetic_shift,3,4,Protocol Type,0.0018477893122580656,0.25,False,False,"[93, 1193, 262, 1338, 382, 85, 743]"
+synthetic_shift,3,4,Duration,1.8183165837531538e-05,0.25,False,False,"[383, 3263, 450]"
+synthetic_shift,3,4,Rate,0.0012742698647650302,0.25,False,False,"[444, 422, 402, 414, 392, 418, 395, 401, 401, 407]"
+synthetic_shift,3,4,Srate,0.0012742698647650302,0.25,False,False,"[444, 422, 402, 414, 392, 418, 395, 401, 401, 407]"
+synthetic_shift,3,4,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,syn_count,0.0007063167217139885,0.25,False,False,"[3653, 443]"
+synthetic_shift,3,4,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,urg_count,7.022089009593248e-05,0.25,False,False,"[3274, 258, 564]"
+synthetic_shift,3,4,rst_count,0.00015392436999550662,0.25,False,False,"[3295, 172, 629]"
+synthetic_shift,3,4,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,4,Tot sum,0.0019374415295785857,0.25,False,False,"[10, 1275, 181, 627, 204, 1426, 373]"
+synthetic_shift,3,4,Min,0.0009985531447330351,0.25,False,False,"[1466, 869, 1382, 379]"
+synthetic_shift,3,4,Max,0.003618247893143893,0.25,False,False,"[1284, 98, 699, 11, 1210, 428, 366]"
+synthetic_shift,3,4,AVG,0.0015129191355158565,0.25,False,False,"[1280, 172, 633, 193, 1446, 372]"
+synthetic_shift,3,4,Std,0.00037974035979600814,0.25,False,False,"[3295, 415, 386]"
+synthetic_shift,3,4,Tot size,0.002381794298884665,0.25,False,False,"[1223, 228, 626, 207, 1443, 369]"
+synthetic_shift,3,4,IAT,0.0034396294968092778,0.25,False,False,"[354, 447, 396, 403, 413, 441, 405, 430, 405, 402]"
+synthetic_shift,3,4,Number,0.00013308814552670281,0.25,False,False,"[34, 4062]"
+synthetic_shift,3,4,Magnitue,0.0015431035411091502,0.25,False,False,"[1281, 171, 631, 197, 1444, 372]"
+synthetic_shift,3,4,Radius,0.00041333303151764477,0.25,False,False,"[3296, 415, 385]"
+synthetic_shift,3,4,Covariance,0.0006582889730634416,0.25,False,False,"[3299, 418, 379]"
+synthetic_shift,3,4,Variance,8.35435937143983e-05,0.25,False,False,"[3260, 382, 454]"
+synthetic_shift,3,4,Weight,0.00015804417509825827,0.25,False,False,"[34, 4062]"
+synthetic_shift,3,5,flow_duration,0.0008698905467081382,0.25,False,False,"[2409, 429, 424, 431, 403]"
+synthetic_shift,3,5,Header_Length,0.0008020188499300104,0.25,False,False,"[1493, 937, 423, 432, 402, 409]"
+synthetic_shift,3,5,Protocol Type,0.000506204403513056,0.25,False,False,"[90, 1126, 300, 1332, 363, 81, 804]"
+synthetic_shift,3,5,Duration,2.4941748463258597e-06,0.25,False,False,"[386, 3267, 443]"
+synthetic_shift,3,5,Rate,0.0006696194422892395,0.25,False,False,"[417, 413, 407, 410, 393, 402, 428, 417, 416, 393]"
+synthetic_shift,3,5,Srate,0.0006696194422892395,0.25,False,False,"[417, 413, 407, 410, 393, 402, 428, 417, 416, 393]"
+synthetic_shift,3,5,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,syn_count,0.00017152859739049485,0.25,False,False,"[3670, 426]"
+synthetic_shift,3,5,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,urg_count,0.00017695289988545816,0.25,False,False,"[3282, 256, 558]"
+synthetic_shift,3,5,rst_count,0.00015513347177384016,0.25,False,False,"[3295, 170, 631]"
+synthetic_shift,3,5,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,5,Tot sum,0.00037750074565482544,0.25,False,False,"[5, 1228, 179, 624, 196, 1444, 420]"
+synthetic_shift,3,5,Min,2.894553921305265e-05,0.25,False,False,"[1424, 866, 1400, 406]"
+synthetic_shift,3,5,Max,0.0005880780266070126,0.25,False,False,"[1235, 107, 681, 21, 1202, 419, 431]"
+synthetic_shift,3,5,AVG,0.00017809460521327357,0.25,False,False,"[1234, 169, 631, 184, 1461, 417]"
+synthetic_shift,3,5,Std,0.00024755710041793,0.25,False,False,"[3250, 418, 428]"
+synthetic_shift,3,5,Tot size,0.0002391971205251854,0.25,False,False,"[1162, 242, 640, 176, 1457, 419]"
+synthetic_shift,3,5,IAT,0.0017614669712866363,0.25,False,False,"[404, 435, 434, 378, 410, 415, 397, 425, 385, 413]"
+synthetic_shift,3,5,Number,0.00039209441451807704,0.25,False,False,"[31, 4065]"
+synthetic_shift,3,5,Magnitue,0.00019421446819880222,0.25,False,False,"[1234, 169, 631, 198, 1453, 411]"
+synthetic_shift,3,5,Radius,0.00025596114926967304,0.25,False,False,"[3249, 419, 428]"
+synthetic_shift,3,5,Covariance,0.0001608121811624187,0.25,False,False,"[3256, 419, 421]"
+synthetic_shift,3,5,Variance,0.0009876861040797875,0.25,False,False,"[3248, 366, 482]"
+synthetic_shift,3,5,Weight,0.00032539819273490124,0.25,False,False,"[32, 4064]"
+synthetic_shift,3,6,flow_duration,0.001715307148653744,0.25,False,False,"[2491, 368, 436, 397, 404]"
+synthetic_shift,3,6,Header_Length,0.0005820316517638616,0.25,False,False,"[1488, 1002, 379, 410, 412, 405]"
+synthetic_shift,3,6,Protocol Type,0.0008220429095923506,0.25,False,False,"[81, 1157, 272, 1368, 348, 89, 781]"
+synthetic_shift,3,6,Duration,0.00018697115527420644,0.25,False,False,"[379, 3287, 430]"
+synthetic_shift,3,6,Rate,0.0037311355609964893,0.25,False,False,"[394, 392, 375, 450, 408, 421, 455, 419, 394, 388]"
+synthetic_shift,3,6,Srate,0.0037311355609964893,0.25,False,False,"[394, 392, 375, 450, 408, 421, 455, 419, 394, 388]"
+synthetic_shift,3,6,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,syn_count,5.0724158158875425e-06,0.25,False,False,"[3689, 407]"
+synthetic_shift,3,6,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,urg_count,0.0008167744067793625,0.25,False,False,"[3247, 242, 607]"
+synthetic_shift,3,6,rst_count,0.0007991149419009101,0.25,False,False,"[3262, 158, 676]"
+synthetic_shift,3,6,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,6,Tot sum,0.0007018845589308971,0.25,False,False,"[5, 1230, 201, 606, 194, 1447, 413]"
+synthetic_shift,3,6,Min,0.00045325787434431384,0.25,False,False,"[1440, 838, 1411, 407]"
+synthetic_shift,3,6,Max,0.0006640631638588907,0.25,False,False,"[1244, 112, 673, 17, 1241, 395, 414]"
+synthetic_shift,3,6,AVG,0.0005064529322011893,0.25,False,False,"[1248, 176, 612, 186, 1459, 415]"
+synthetic_shift,3,6,Std,0.00027977310120387165,0.25,False,False,"[3300, 401, 395]"
+synthetic_shift,3,6,Tot size,0.0004238073533108062,0.25,False,False,"[1189, 232, 617, 182, 1458, 418]"
+synthetic_shift,3,6,IAT,0.002537244995210338,0.25,False,False,"[406, 436, 369, 397, 407, 409, 430, 444, 392, 406]"
+synthetic_shift,3,6,Number,0.00012716523810686324,0.25,False,False,"[43, 4053]"
+synthetic_shift,3,6,Magnitue,0.0004605447777478574,0.25,False,False,"[1248, 177, 612, 190, 1457, 412]"
+synthetic_shift,3,6,Radius,0.00028513234173279056,0.25,False,False,"[3300, 402, 394]"
+synthetic_shift,3,6,Covariance,0.00025623713500948285,0.25,False,False,"[3284, 420, 392]"
+synthetic_shift,3,6,Variance,0.0005363647600996033,0.25,False,False,"[3265, 367, 464]"
+synthetic_shift,3,6,Weight,0.00010489265838806801,0.25,False,False,"[43, 4053]"
+synthetic_shift,3,7,flow_duration,0.0012407555484615113,0.25,False,False,"[2444, 398, 451, 393, 410]"
+synthetic_shift,3,7,Header_Length,0.0016108391404197956,0.25,False,False,"[1515, 977, 408, 379, 402, 415]"
+synthetic_shift,3,7,Protocol Type,0.0010068604998355302,0.25,False,False,"[74, 1150, 291, 1347, 383, 90, 761]"
+synthetic_shift,3,7,Duration,0.0012928417603791647,0.25,False,False,"[345, 3313, 438]"
+synthetic_shift,3,7,Rate,0.001499673340227922,0.25,False,False,"[403, 389, 434, 416, 427, 412, 390, 429, 391, 405]"
+synthetic_shift,3,7,Srate,0.001499673340227922,0.25,False,False,"[403, 389, 434, 416, 427, 412, 390, 429, 391, 405]"
+synthetic_shift,3,7,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,syn_count,2.557410389365e-05,0.25,False,False,"[3680, 416]"
+synthetic_shift,3,7,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,urg_count,0.0005779102288916729,0.25,False,False,"[3293, 240, 563]"
+synthetic_shift,3,7,rst_count,0.0003604348468937722,0.25,False,False,"[3305, 166, 625]"
+synthetic_shift,3,7,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,7,Tot sum,0.0010094920979566687,0.25,False,False,"[4, 1243, 194, 629, 200, 1444, 382]"
+synthetic_shift,3,7,Min,0.0005183660462589327,0.25,False,False,"[1446, 867, 1398, 385]"
+synthetic_shift,3,7,Max,0.0013476570361624957,0.25,False,False,"[1256, 109, 708, 16, 1241, 385, 381]"
+synthetic_shift,3,7,AVG,0.0005864796561227219,0.25,False,False,"[1252, 182, 644, 188, 1446, 384]"
+synthetic_shift,3,7,Std,0.0006029333730547941,0.25,False,False,"[3290, 425, 381]"
+synthetic_shift,3,7,Tot size,0.0009668137787612306,0.25,False,False,"[1194, 239, 629, 203, 1447, 384]"
+synthetic_shift,3,7,IAT,0.0011415709069630276,0.25,False,False,"[399, 404, 428, 395, 419, 383, 421, 421, 408, 418]"
+synthetic_shift,3,7,Number,0.0002030272647914313,0.25,False,False,"[33, 4063]"
+synthetic_shift,3,7,Magnitue,0.0006194028865736155,0.25,False,False,"[1251, 186, 642, 191, 1442, 384]"
+synthetic_shift,3,7,Radius,0.0004899663468364122,0.25,False,False,"[3293, 420, 383]"
+synthetic_shift,3,7,Covariance,0.0006046201514856276,0.25,False,False,"[3284, 428, 384]"
+synthetic_shift,3,7,Variance,0.0008640742590068451,0.25,False,False,"[3283, 358, 455]"
+synthetic_shift,3,7,Weight,0.00023360685479951744,0.25,False,False,"[33, 4063]"
+synthetic_shift,3,8,flow_duration,0.0008190578766528125,0.25,False,False,"[2431, 444, 400, 407, 414]"
+synthetic_shift,3,8,Header_Length,0.002848936912732493,0.25,False,False,"[1467, 973, 418, 476, 388, 374]"
+synthetic_shift,3,8,Protocol Type,0.0013150468546976074,0.25,False,False,"[85, 1109, 294, 1371, 391, 96, 750]"
+synthetic_shift,3,8,Duration,0.0008028053746544281,0.25,False,False,"[420, 3233, 443]"
+synthetic_shift,3,8,Rate,0.001787893896865847,0.25,False,False,"[414, 431, 410, 419, 383, 400, 437, 382, 417, 403]"
+synthetic_shift,3,8,Srate,0.001787893896865847,0.25,False,False,"[414, 431, 410, 419, 383, 400, 437, 382, 417, 403]"
+synthetic_shift,3,8,Drate,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,fin_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,syn_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,rst_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,psh_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,ack_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,ece_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,cwr_flag_number,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,ack_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,syn_count,0.00024001976282475565,0.25,False,False,"[3667, 429]"
+synthetic_shift,3,8,fin_count,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,urg_count,0.0004758860225697723,0.25,False,False,"[3254, 282, 560]"
+synthetic_shift,3,8,rst_count,0.0009855529957257868,0.25,False,False,"[3281, 198, 617]"
+synthetic_shift,3,8,HTTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,HTTPS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,DNS,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,SMTP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,SSH,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,TCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,UDP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,DHCP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,ARP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,ICMP,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,IPv,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,LLC,0.0,0.25,False,False,[4096]
+synthetic_shift,3,8,Tot sum,0.001535056227731932,0.25,False,False,"[7, 1183, 203, 598, 208, 1489, 408]"
+synthetic_shift,3,8,Min,0.00048636198676171876,0.25,False,False,"[1397, 850, 1430, 419]"
+synthetic_shift,3,8,Max,0.001597900166647876,0.25,False,False,"[1192, 124, 671, 15, 1247, 427, 420]"
+synthetic_shift,3,8,AVG,0.0011108840318842697,0.25,False,False,"[1197, 187, 619, 180, 1501, 412]"
+synthetic_shift,3,8,Std,0.0006792319341168275,0.25,False,False,"[3236, 445, 415]"
+synthetic_shift,3,8,Tot size,0.0015807483204515762,0.25,False,False,"[1127, 255, 607, 194, 1501, 412]"
+synthetic_shift,3,8,IAT,0.0018512533459807384,0.25,False,False,"[408, 447, 426, 376, 399, 417, 400, 395, 409, 419]"
+synthetic_shift,3,8,Number,3.8805723593078005e-05,0.25,False,False,"[36, 4060]"
+synthetic_shift,3,8,Magnitue,0.001168774956828891,0.25,False,False,"[1195, 189, 615, 190, 1498, 409]"
+synthetic_shift,3,8,Radius,0.0007476925218523227,0.25,False,False,"[3235, 447, 414]"
+synthetic_shift,3,8,Covariance,0.0007590292622587451,0.25,False,False,"[3234, 440, 422]"
+synthetic_shift,3,8,Variance,8.24501619892988e-05,0.25,False,False,"[3242, 392, 462]"
+synthetic_shift,3,8,Weight,2.177163550056681e-05,0.25,False,False,"[37, 4059]"

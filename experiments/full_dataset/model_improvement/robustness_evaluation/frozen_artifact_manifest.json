@@ -1,0 +1,30 @@
+{
+  "checkpoint": {
+    "source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\checkpoints\\best_model.joblib",
+    "source_sha256": "47984db438d22952a8624c675cfc31cae67885f1e0e016f2186679fffd52b88a",
+    "frozen_path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\robustness_evaluation\\frozen_candidate.joblib",
+    "frozen_sha256": "47984db438d22952a8624c675cfc31cae67885f1e0e016f2186679fffd52b88a"
+  },
+  "artifacts": {
+    "phase1_metadata.json": {
+      "source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\phase1_metadata.json",
+      "sha256": "d5f26d01eca4c0fb386cbb908a1742042c7ddad143bb063946401353c141fa1b"
+    },
+    "preprocessing_metadata.json": {
+      "source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\preprocessing_metadata.json",
+      "sha256": "cd64dd3461c885e494a3ee290c2467312f395676b088aa1d35b4234722098c3f"
+    },
+    "preprocessing.joblib": {
+      "source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\arrays\\preprocessing.joblib",
+      "sha256": "4045058b6006d3bbc293b4a029154752f5d232306ed84a20e93cac6a70eb44ab"
+    },
+    "label_mapping.json": {
+      "source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\preprocessing_metadata.json",
+      "sha256": "e6caf20744888f1cd282c53cb8bc934f4024e1d3a22865f65bbc1c77f55b4524"
+    },
+    "configuration.json": {
+      "source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\run_metadata.json",
+      "sha256": "0f7f3ab2e44a82d6f1253abad2444176b44ee22ab4c6d1673378b841e6cb57a3"
+    }
+  }
+}

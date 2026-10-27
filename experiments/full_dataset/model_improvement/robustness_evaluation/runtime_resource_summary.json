@@ -1,0 +1,23 @@
+{
+  "additional_seed_runs": [
+    {
+      "seed": 20261028,
+      "training_and_validation_seconds": 190.34631559997797,
+      "peak_working_set_bytes": 1451606016,
+      "warnings": []
+    },
+    {
+      "seed": 20261029,
+      "training_and_validation_seconds": 196.21028699993622,
+      "peak_working_set_bytes": 1454161920,
+      "warnings": []
+    }
+  ],
+  "total_additional_seed_runtime_seconds": 386.5566025999142,
+  "peak_working_set_bytes": 1454161920,
+  "final_test_inference_seconds": 1.1966439000098035,
+  "warnings": {
+    "20261028": [],
+    "20261029": []
+  }
+}

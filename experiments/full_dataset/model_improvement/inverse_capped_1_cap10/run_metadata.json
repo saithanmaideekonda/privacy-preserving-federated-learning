@@ -1,0 +1,166 @@
+{
+  "strategy": "inverse_capped_1_cap10",
+  "created_utc": "2026-10-26T12:26:47.363142+00:00",
+  "configuration": {
+    "strategy": "inverse_capped_1_cap10",
+    "method": "inverse_frequency_power",
+    "power": 1.0,
+    "cap": 10.0,
+    "description": "Inverse-frequency weighting with final per-class cap 10 and weighted-mean normalization",
+    "seed": 20261026,
+    "hidden_layer_sizes": [
+      128,
+      64
+    ],
+    "activation": "relu",
+    "solver": "adam",
+    "alpha": 0.0001,
+    "batch_size": 8192,
+    "learning_rate_init": 0.001,
+    "max_epochs": 12,
+    "early_stopping_patience": 3,
+    "selection_metric": "validation macro-F1",
+    "training_rows": 5492542,
+    "validation_rows": 1176701,
+    "feature_count": 44,
+    "class_count": 34,
+    "test_arrays_loaded": false,
+    "weight_normalization": "training-row-support-weighted mean equals 1",
+    "class_weight_by_label": {
+      "Backdoor_Malware": 10.0,
+      "BenignTraffic": 2.0050878665108556,
+      "BrowserHijacking": 10.0,
+      "CommandInjection": 10.0,
+      "DDoS-ACK_Fragmentation": 7.723005439560074,
+      "DDoS-HTTP_Flood": 10.0,
+      "DDoS-ICMP_Flood": 0.3062416280288156,
+      "DDoS-ICMP_Fragmentation": 4.897174601378436,
+      "DDoS-PSHACK_Flood": 0.5397005530567771,
+      "DDoS-RSTFINFlood": 0.546025324074366,
+      "DDoS-SYN_Flood": 0.5423801901398626,
+      "DDoS-SlowLoris": 10.0,
+      "DDoS-SynonymousIP_Flood": 0.6151152087802984,
+      "DDoS-TCP_Flood": 0.4912786780480164,
+      "DDoS-UDP_Flood": 0.4072274603204474,
+      "DDoS-UDP_Fragmentation": 7.596702521543805,
+      "DNS_Spoofing": 10.0,
+      "DictionaryBruteForce": 10.0,
+      "DoS-HTTP_Flood": 10.0,
+      "DoS-SYN_Flood": 1.092760694083809,
+      "DoS-TCP_Flood": 0.8257842060554146,
+      "DoS-UDP_Flood": 0.6649259409109246,
+      "MITM-ArpSpoofing": 7.142032865442386,
+      "Mirai-greeth_flood": 2.2345819253445622,
+      "Mirai-greip_flood": 2.9250209961236955,
+      "Mirai-udpplain": 2.4776993214588625,
+      "Recon-HostDiscovery": 10.0,
+      "Recon-OSScan": 10.0,
+      "Recon-PingSweep": 10.0,
+      "Recon-PortScan": 10.0,
+      "SqlInjection": 10.0,
+      "Uploading_Attack": 10.0,
+      "VulnerabilityScan": 10.0,
+      "XSS": 10.0
+    }
+  },
+  "selected_epoch": 12,
+  "validation_metrics": {
+    "accuracy": 0.8928682817470198,
+    "macro_precision": 0.670970585072715,
+    "macro_recall": 0.641866994330041,
+    "macro_f1": 0.6302001871053772,
+    "weighted_f1": 0.8897251735538833,
+    "evaluated_rows": 1176701,
+    "supported_classes": 34
+  },
+  "timing_seconds": {
+    "training_and_epoch_validation": 274.4248340999475,
+    "train_seconds_sum": 258.79629840003327,
+    "validation_seconds_sum": 13.735426599974744
+  },
+  "resource_samples": [
+    {
+      "working_set_bytes": 1392443392,
+      "peak_working_set_bytes": 1454436352,
+      "private_bytes": 910241792,
+      "epoch": 1
+    },
+    {
+      "working_set_bytes": 1392656384,
+      "peak_working_set_bytes": 1454436352,
+      "private_bytes": 910422016,
+      "epoch": 2
+    },
+    {
+      "working_set_bytes": 1392869376,
+      "peak_working_set_bytes": 1454436352,
+      "private_bytes": 910704640,
+      "epoch": 3
+    },
+    {
+      "working_set_bytes": 1392910336,
+      "peak_working_set_bytes": 1455599616,
+      "private_bytes": 910733312,
+      "epoch": 4
+    },
+    {
+      "working_set_bytes": 1393061888,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 910991360,
+      "epoch": 5
+    },
+    {
+      "working_set_bytes": 1392963584,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 910966784,
+      "epoch": 6
+    },
+    {
+      "working_set_bytes": 1393037312,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 911024128,
+      "epoch": 7
+    },
+    {
+      "working_set_bytes": 1392979968,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 910942208,
+      "epoch": 8
+    },
+    {
+      "working_set_bytes": 1392885760,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 910688256,
+      "epoch": 9
+    },
+    {
+      "working_set_bytes": 1392889856,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 910684160,
+      "epoch": 10
+    },
+    {
+      "working_set_bytes": 1392963584,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 910901248,
+      "epoch": 11
+    },
+    {
+      "working_set_bytes": 1393106944,
+      "peak_working_set_bytes": 1455616000,
+      "private_bytes": 910946304,
+      "epoch": 12
+    }
+  ],
+  "warnings": [],
+  "test_arrays_loaded": false,
+  "test_labels_loaded": false,
+  "checkpoint_path": "checkpoints/best_model.joblib",
+  "selection_protocol": "validation macro-F1 only; test split is not loaded or evaluated",
+  "software_versions": {
+    "python": "3.14.3",
+    "numpy": "2.4.4",
+    "scikit_learn": "1.8.0",
+    "joblib": "1.5.3"
+  }
+}

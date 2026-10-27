@@ -1,0 +1,16 @@
+{
+  "selection_metric": "validation macro-F1",
+  "ranked_candidates": [
+    "reproduction_control",
+    "effective_number_beta_09999",
+    "inverse_capped_1_cap10",
+    "inverse_power_075"
+  ],
+  "baseline_strategy": "reproduction_control",
+  "selected_candidate": "reproduction_control",
+  "baseline_validation_macro_f1": 0.6696508820436516,
+  "candidate_validation_macro_f1": 0.6696508820436516,
+  "delta": 0.0,
+  "test_evaluation_performed": false,
+  "recommendation": "Keep the Phase 2 weighting/model as the current validation reference. If approved next, evaluate training-parameter changes in a separate validation-only experiment; do not tune on the test split."
+}

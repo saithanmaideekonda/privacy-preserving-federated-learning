@@ -1,0 +1,3 @@
+scenario,windows_checked,alert_windows,pending_alerts,trigger_decisions,cooldown_suppressed,max_frequency_suppressed,actual_training_runs,accepted_candidates
+no_drift,24,0,0,0,0,0,0,0
+synthetic_shift,24,5,1,1,3,0,1,0

@@ -1,0 +1,28 @@
+{
+  "model": "sklearn MLPClassifier, Phase 2 architecture",
+  "hidden_layer_sizes": [
+    128,
+    64
+  ],
+  "activation": "relu",
+  "solver": "Adam",
+  "batch_size": 8192,
+  "learning_rate_init": 0.001,
+  "alpha": 0.0001,
+  "rounds_requested": 12,
+  "rounds_run_limit": 12,
+  "local_epochs": 1,
+  "client_count": 3,
+  "partition": "class-wise Dirichlet",
+  "dirichlet_alpha": 1.0,
+  "partition_seed": 20261026,
+  "seed": 20261026,
+  "aggregation": "sample-count-weighted average of coefs_ and intercepts_",
+  "optimizer_state": "fresh local Adam optimizer each client/round; never aggregated",
+  "class_weighting": "Phase 2 inverse-square-root weights fitted on training counts",
+  "selection_metric": "validation macro-F1",
+  "patience": 3,
+  "test_used_for_model_selection": false,
+  "centralized_weights_used_as_init": false,
+  "cpu_threads": 4
+}

@@ -1,0 +1,7 @@
+{
+  "started_utc": "2026-10-26T13:27:16.623463+00:00",
+  "completed_utc": "2026-10-26T13:27:17.919025+00:00",
+  "frozen_checkpoint_sha256": "47984db438d22952a8624c675cfc31cae67885f1e0e016f2186679fffd52b88a",
+  "completed": true,
+  "rows_evaluated": 1176430
+}

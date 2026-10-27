@@ -1,0 +1,1690 @@
+{
+  "1": {
+    "flow_duration": {
+      "edges": [
+        -0.020581229403615,
+        -0.0203196756541729,
+        -0.01908365823328495,
+        -0.0070725885685533375
+      ],
+      "reference_counts": [
+        30000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 5
+    },
+    "Header_Length": {
+      "edges": [
+        -0.1664438396692276,
+        -0.1664426624774933,
+        -0.16644132137298584,
+        -0.16637887060642242,
+        -0.16621212661266327,
+        -0.13015758097171776,
+        -0.0897210218012333
+      ],
+      "reference_counts": [
+        4399,
+        1331,
+        19225,
+        5045,
+        4998,
+        5002,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 8
+    },
+    "Protocol Type": {
+      "edges": [
+        -0.3429053723812103,
+        -0.31830742955207825,
+        0.886993944644928
+      ],
+      "reference_counts": [
+        3831,
+        30991,
+        4989,
+        10189
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Duration": {
+      "edges": [
+        -0.17788754403591156,
+        -0.1679353415966034,
+        -0.032157979905605316
+      ],
+      "reference_counts": [
+        4888,
+        558,
+        38817,
+        5737
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Rate": {
+      "edges": [
+        -0.09064669162034988,
+        -0.09063883125782013,
+        -0.0906249850988388,
+        -0.09058661311864853,
+        -0.09048094972968102,
+        -0.09037212878465653,
+        -0.09009398594498634,
+        -0.08281393796205516,
+        -0.02027090191841127
+      ],
+      "reference_counts": [
+        4998,
+        4999,
+        5003,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Srate": {
+      "edges": [
+        -0.09064669162034988,
+        -0.09063883125782013,
+        -0.0906249850988388,
+        -0.09058661311864853,
+        -0.09048094972968102,
+        -0.09037212878465653,
+        -0.09009398594498634,
+        -0.08281393796205516,
+        -0.02027090191841127
+      ],
+      "reference_counts": [
+        4998,
+        4999,
+        5003,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Drate": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "fin_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "syn_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "rst_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "psh_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ack_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ece_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "cwr_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ack_count": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "syn_count": {
+      "edges": [
+        -0.4072954058647156,
+        1.0100566148757935,
+        1.8393582105636597
+      ],
+      "reference_counts": [
+        34874,
+        2962,
+        7152,
+        5012
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "fin_count": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "urg_count": {
+      "edges": [
+        -0.07293961197137833
+      ],
+      "reference_counts": [
+        44786,
+        5214
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    },
+    "rst_count": {
+      "edges": [
+        -0.11829705536365509,
+        -0.11531899124383926
+      ],
+      "reference_counts": [
+        39507,
+        4783,
+        5710
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "HTTP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "HTTPS": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "DNS": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "SMTP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "SSH": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "TCP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "UDP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "DHCP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ARP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ICMP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "IPv": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "LLC": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "Tot sum": {
+      "edges": [
+        -0.29979318380355835,
+        -0.28373706340789795,
+        -0.2835535705089569,
+        -0.27648578286170955,
+        1.7658481359481804
+      ],
+      "reference_counts": [
+        1558,
+        8270,
+        25048,
+        5124,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Min": {
+      "edges": [
+        -0.2978467345237732,
+        -0.26922354102134705,
+        1.6827707409858699
+      ],
+      "reference_counts": [
+        1237,
+        8707,
+        35056,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Max": {
+      "edges": [
+        -0.25173309445381165,
+        -0.24411779642105103,
+        -0.24217589199543,
+        -0.19842591881752014,
+        0.7702627718448639
+      ],
+      "reference_counts": [
+        1013,
+        7325,
+        26621,
+        5035,
+        5006,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "AVG": {
+      "edges": [
+        -0.3099350035190582,
+        -0.29334747791290283,
+        -0.2931285500526428,
+        -0.28254711627960205,
+        1.8362380266189573
+      ],
+      "reference_counts": [
+        1071,
+        8216,
+        25711,
+        5001,
+        5001,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Std": {
+      "edges": [
+        -0.20701919496059418,
+        -0.19863055050373077,
+        -0.010445695184171563
+      ],
+      "reference_counts": [
+        34993,
+        5007,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Tot size": {
+      "edges": [
+        -0.309329628944397,
+        -0.29277247190475464,
+        -0.292524129152298,
+        -0.2813480794429779,
+        1.8333536744117733
+      ],
+      "reference_counts": [
+        1069,
+        8224,
+        24536,
+        6165,
+        5006,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "IAT": {
+      "edges": [
+        -0.009437925182282925,
+        -0.0074521806091070175,
+        -0.006951056886464357,
+        -0.006126944441348314,
+        -0.005410651210695505,
+        -0.004144012462347746,
+        0.00876332726329565,
+        0.009820891544222832,
+        0.026523929089307785
+      ],
+      "reference_counts": [
+        4937,
+        5060,
+        4989,
+        5001,
+        4993,
+        4998,
+        5021,
+        4957,
+        5035,
+        5009
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Number": {
+      "edges": [
+        0.0011774166487157345
+      ],
+      "reference_counts": [
+        1645,
+        48355
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    },
+    "Magnitue": {
+      "edges": [
+        -0.36195993423461914,
+        -0.31651484966278076,
+        -0.31599992513656616,
+        -0.2901228487491608,
+        2.3714163064956666
+      ],
+      "reference_counts": [
+        1073,
+        8232,
+        25641,
+        5054,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Radius": {
+      "edges": [
+        -0.2069481611251831,
+        -0.1985696405172348,
+        -0.010423188097774982
+      ],
+      "reference_counts": [
+        34997,
+        4992,
+        4993,
+        5018
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Covariance": {
+      "edges": [
+        -0.09570093974471092,
+        -0.09564905315637588,
+        -0.08428890705108646
+      ],
+      "reference_counts": [
+        35000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Variance": {
+      "edges": [
+        -0.1997319608926773,
+        0.1860976219177246,
+        1.000626802444458
+      ],
+      "reference_counts": [
+        34834,
+        4785,
+        5323,
+        5058
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Weight": {
+      "edges": [
+        0.001097382395528257
+      ],
+      "reference_counts": [
+        1651,
+        48349
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    }
+  },
+  "2": {
+    "flow_duration": {
+      "edges": [
+        -0.02068759799003601,
+        -0.02052277699112892,
+        -0.019920790940523146,
+        -0.007199400244280698
+      ],
+      "reference_counts": [
+        30000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 5
+    },
+    "Header_Length": {
+      "edges": [
+        -0.16655845195055008,
+        -0.1664426624774933,
+        -0.1664375513792038,
+        -0.166325643658638,
+        -0.16424397826194756,
+        -0.0980369433760643
+      ],
+      "reference_counts": [
+        5000,
+        3521,
+        21471,
+        4627,
+        5381,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 7
+    },
+    "Protocol Type": {
+      "edges": [
+        -0.3630309998989105,
+        -0.3429053723812103,
+        0.8272878646850732,
+        0.886993944644928
+      ],
+      "reference_counts": [
+        4996,
+        2329,
+        32675,
+        2260,
+        7740
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 5
+    },
+    "Duration": {
+      "edges": [
+        -0.17788754403591156,
+        -0.1679353415966034,
+        -0.032157979905605316
+      ],
+      "reference_counts": [
+        4970,
+        539,
+        39087,
+        5404
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Rate": {
+      "edges": [
+        -0.09064801782369614,
+        -0.09063953906297684,
+        -0.09062714129686356,
+        -0.09059994667768478,
+        -0.09053091332316399,
+        -0.09041751325130462,
+        -0.09023222103714942,
+        -0.0891994833946228,
+        -0.03491555117070675
+      ],
+      "reference_counts": [
+        4999,
+        5000,
+        4999,
+        5000,
+        5002,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Srate": {
+      "edges": [
+        -0.09064801782369614,
+        -0.09063953906297684,
+        -0.09062714129686356,
+        -0.09059994667768478,
+        -0.09053091332316399,
+        -0.09041751325130462,
+        -0.09023222103714942,
+        -0.0891994833946228,
+        -0.03491555117070675
+      ],
+      "reference_counts": [
+        4999,
+        5000,
+        4999,
+        5000,
+        5002,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Drate": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "fin_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "syn_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "rst_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "psh_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ack_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ece_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "cwr_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ack_count": {
+      "edges": [
+        3.1429996490478516,
+        3.1779391765594482
+      ],
+      "reference_counts": [
+        38813,
+        1516,
+        9671
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "syn_count": {
+      "edges": [
+        0.9949783682823181,
+        1.0100566148757935,
+        1.3719336986541748
+      ],
+      "reference_counts": [
+        34646,
+        1476,
+        8870,
+        5008
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "fin_count": {
+      "edges": [
+        2.76827335357666,
+        2.7993416786193848
+      ],
+      "reference_counts": [
+        38778,
+        1553,
+        9669
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "urg_count": {
+      "edges": [
+        -0.084793321788311
+      ],
+      "reference_counts": [
+        44979,
+        5021
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    },
+    "rst_count": {
+      "edges": [
+        -0.11832775175571442,
+        -0.1156260073184967
+      ],
+      "reference_counts": [
+        39269,
+        5726,
+        5005
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "HTTP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "HTTPS": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "DNS": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "SMTP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "SSH": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "TCP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "UDP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "DHCP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ARP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ICMP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "IPv": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "LLC": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "Tot sum": {
+      "edges": [
+        -0.29979318380355835,
+        -0.2894782721996307,
+        -0.28373706340789795,
+        -0.2836223542690277,
+        -0.2787061333656311,
+        1.7232816219329834
+      ],
+      "reference_counts": [
+        4305,
+        5695,
+        265,
+        24667,
+        5064,
+        4912,
+        5092
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 7
+    },
+    "Min": {
+      "edges": [
+        -0.2978467345237732,
+        -0.29612934589385986,
+        -0.26922354102134705,
+        1.0615545868873584
+      ],
+      "reference_counts": [
+        4085,
+        5914,
+        474,
+        34527,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 5
+    },
+    "Max": {
+      "edges": [
+        -0.25173309445381165,
+        -0.24411779642105103,
+        -0.24267089366912842,
+        -0.2151605784893036,
+        0.7534881234169006
+      ],
+      "reference_counts": [
+        3783,
+        5084,
+        26117,
+        5014,
+        4656,
+        5346
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "AVG": {
+      "edges": [
+        -0.3099350035190582,
+        -0.29334747791290283,
+        -0.29322442412376404,
+        -0.28696457743644715,
+        1.7800918817520142
+      ],
+      "reference_counts": [
+        3952,
+        5912,
+        25077,
+        5059,
+        4865,
+        5135
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Std": {
+      "edges": [
+        -0.20711984783411028,
+        -0.19998951256275177,
+        -0.027906149439513764
+      ],
+      "reference_counts": [
+        35000,
+        4989,
+        5011,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Tot size": {
+      "edges": [
+        -0.309329628944397,
+        -0.29277247190475464,
+        -0.292524129152298,
+        -0.2854873538017273,
+        1.7768689393997192
+      ],
+      "reference_counts": [
+        3955,
+        5898,
+        24569,
+        5435,
+        4970,
+        5173
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "IAT": {
+      "edges": [
+        -0.01251920498907566,
+        -0.007184039335697889,
+        -0.006119912955909967,
+        -0.005404557101428509,
+        -0.0026326715014874935,
+        0.008738482370972633,
+        0.008812549524009228,
+        0.009059595875442028,
+        0.01686287857592106
+      ],
+      "reference_counts": [
+        4994,
+        5003,
+        4999,
+        5001,
+        4996,
+        4986,
+        4997,
+        4942,
+        5068,
+        5014
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Number": {
+      "edges": [
+        0.0011774166487157345
+      ],
+      "reference_counts": [
+        1284,
+        48716
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    },
+    "Magnitue": {
+      "edges": [
+        -0.36195993423461914,
+        -0.31651484966278076,
+        -0.31622186303138733,
+        -0.30074554085731503,
+        2.3355953693389893
+      ],
+      "reference_counts": [
+        3957,
+        5937,
+        25101,
+        5005,
+        4909,
+        5091
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Radius": {
+      "edges": [
+        -0.20705339312553406,
+        -0.1998891681432724,
+        -0.028195358440280077
+      ],
+      "reference_counts": [
+        34966,
+        5033,
+        5001,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Covariance": {
+      "edges": [
+        -0.09570111334323883,
+        -0.09566154330968857,
+        -0.08522635251283646
+      ],
+      "reference_counts": [
+        34992,
+        5008,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Variance": {
+      "edges": [
+        -0.1997319608926773,
+        0.1860976219177246,
+        0.9148868322372437
+      ],
+      "reference_counts": [
+        34953,
+        4627,
+        5376,
+        5044
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Weight": {
+      "edges": [
+        0.001097382395528257
+      ],
+      "reference_counts": [
+        1290,
+        48710
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    }
+  },
+  "3": {
+    "flow_duration": {
+      "edges": [
+        -0.02067235894501209,
+        -0.02053916919976473,
+        -0.020258769765496253,
+        -0.01202136911451818
+      ],
+      "reference_counts": [
+        30000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 5
+    },
+    "Header_Length": {
+      "edges": [
+        -0.1664426624774933,
+        -0.16638650000095367,
+        -0.16620860993862152,
+        -0.13252937793731687,
+        -0.09498867690563202
+      ],
+      "reference_counts": [
+        18153,
+        11832,
+        4821,
+        5194,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Protocol Type": {
+      "edges": [
+        -0.9019505381584167,
+        -0.8974781632423401,
+        -0.3429053723812103,
+        -0.31830742955207825,
+        0.8746948838233948,
+        0.886993944644928
+      ],
+      "reference_counts": [
+        1074,
+        13868,
+        3465,
+        16432,
+        4524,
+        1050,
+        9587
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 7
+    },
+    "Duration": {
+      "edges": [
+        -0.1679353415966034,
+        -0.032157979905605316
+      ],
+      "reference_counts": [
+        4706,
+        39862,
+        5432
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "Rate": {
+      "edges": [
+        -0.09064925462007523,
+        -0.09063881635665894,
+        -0.09062343835830688,
+        -0.09057686626911163,
+        -0.09046890214085579,
+        -0.09031163007020951,
+        -0.08961832895874977,
+        -0.05224434286355971,
+        0.029358156770467735
+      ],
+      "reference_counts": [
+        4999,
+        4997,
+        5002,
+        5002,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Srate": {
+      "edges": [
+        -0.09064925462007523,
+        -0.09063881635665894,
+        -0.09062343835830688,
+        -0.09057686626911163,
+        -0.09046890214085579,
+        -0.09031163007020951,
+        -0.08961832895874977,
+        -0.05224434286355971,
+        0.029358156770467735
+      ],
+      "reference_counts": [
+        4999,
+        4997,
+        5002,
+        5002,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Drate": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "fin_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "syn_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "rst_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "psh_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ack_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ece_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "cwr_flag_number": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ack_count": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "syn_count": {
+      "edges": [
+        0.9346655011177063
+      ],
+      "reference_counts": [
+        44998,
+        5002
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    },
+    "fin_count": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "urg_count": {
+      "edges": [
+        -0.08632733672857285,
+        -0.07293961197137833
+      ],
+      "reference_counts": [
+        39799,
+        3190,
+        7011
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "rst_count": {
+      "edges": [
+        -0.11777512729167938,
+        -0.11531899124383926
+      ],
+      "reference_counts": [
+        39976,
+        2142,
+        7882
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "HTTP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "HTTPS": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "DNS": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "SMTP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "SSH": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "TCP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "UDP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "DHCP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ARP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "ICMP": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "IPv": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "LLC": {
+      "edges": [],
+      "reference_counts": [
+        50000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 1
+    },
+    "Tot sum": {
+      "edges": [
+        -0.3319054841995239,
+        -0.33114856481552124,
+        -0.29979318380355835,
+        -0.29875338077545166,
+        -0.28373706340789795,
+        -0.22831083983182926
+      ],
+      "reference_counts": [
+        83,
+        14872,
+        2299,
+        7737,
+        2418,
+        17591,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 7
+    },
+    "Min": {
+      "edges": [
+        -0.2978467345237732,
+        -0.26922354102134705,
+        -0.26550254225730896
+      ],
+      "reference_counts": [
+        17327,
+        10643,
+        17023,
+        5007
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 4
+    },
+    "Max": {
+      "edges": [
+        -0.26302090585231785,
+        -0.25173309445381165,
+        -0.2448793351650238,
+        -0.24411779642105103,
+        -0.2421340107917785,
+        -0.043100204691291576
+      ],
+      "reference_counts": [
+        15000,
+        1367,
+        8554,
+        237,
+        14842,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 7
+    },
+    "AVG": {
+      "edges": [
+        -0.3424868047237396,
+        -0.3099350035190582,
+        -0.3089785724878311,
+        -0.29334747791290283,
+        -0.21737859994173145
+      ],
+      "reference_counts": [
+        15000,
+        2135,
+        7865,
+        2278,
+        17722,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Std": {
+      "edges": [
+        -0.2042863816022873,
+        -0.18439916223287584
+      ],
+      "reference_counts": [
+        39951,
+        5049,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "Tot size": {
+      "edges": [
+        -0.3416987955570221,
+        -0.309329628944397,
+        -0.3080878257751465,
+        -0.29277247190475464,
+        -0.22643634974956547
+      ],
+      "reference_counts": [
+        14249,
+        2888,
+        7831,
+        2277,
+        17755,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "IAT": {
+      "edges": [
+        -0.013013296760618687,
+        -0.010718627832829952,
+        -0.00718042990192771,
+        -0.005135009530931711,
+        -0.0039161862805485725,
+        -0.0038402441423386335,
+        -0.0026068887673318386,
+        0.0070302546955645084,
+        0.008233233075588941
+      ],
+      "reference_counts": [
+        4971,
+        5011,
+        5018,
+        4973,
+        4942,
+        5037,
+        4994,
+        5051,
+        5003,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 10
+    },
+    "Number": {
+      "edges": [
+        0.0011774166487157345
+      ],
+      "reference_counts": [
+        469,
+        49531
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    },
+    "Magnitue": {
+      "edges": [
+        -0.4568907588720322,
+        -0.36195993423461914,
+        -0.3593357652425766,
+        -0.31651484966278076,
+        -0.1681678131222732
+      ],
+      "reference_counts": [
+        15000,
+        2158,
+        7842,
+        2344,
+        17656,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 6
+    },
+    "Radius": {
+      "edges": [
+        -0.20413269102573395,
+        -0.18436722904443745
+      ],
+      "reference_counts": [
+        39950,
+        5050,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "Covariance": {
+      "edges": [
+        -0.09569106251001358,
+        -0.0953000895678997
+      ],
+      "reference_counts": [
+        40000,
+        5000,
+        5000
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "Variance": {
+      "edges": [
+        0.014617807231843472,
+        0.35757744312286377
+      ],
+      "reference_counts": [
+        39709,
+        4794,
+        5497
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 3
+    },
+    "Weight": {
+      "edges": [
+        0.001097382395528257
+      ],
+      "reference_counts": [
+        474,
+        49526
+      ],
+      "finite_reference_rows": 50000,
+      "effective_bins": 2
+    }
+  }
+}

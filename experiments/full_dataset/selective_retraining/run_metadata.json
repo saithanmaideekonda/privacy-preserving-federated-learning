@@ -1,0 +1,116 @@
+{
+  "created_utc": "2026-10-26T11:43:04.840026+00:00",
+  "status": "completed",
+  "software": {
+    "python": "3.14.3",
+    "numpy": "2.4.4",
+    "scikit_learn": "1.8.0",
+    "joblib": "1.5.3"
+  },
+  "data_splits": {
+    "training_rows": 5492542,
+    "validation_rows": 1176701,
+    "test_arrays_loaded": false,
+    "test_used_for_trigger_or_training": false
+  },
+  "policy": {
+    "required_consecutive_alerts": 2,
+    "cooldown_windows": 3,
+    "max_retrainings_per_client_per_scenario": 1,
+    "candidate_local_epochs": 1,
+    "minimum_target_validation_macro_f1_improvement": 0.0,
+    "maximum_clean_validation_macro_f1_drop": 0.01,
+    "psi_threshold": 0.25,
+    "threshold_source": "Phase 4 configuration.json; reused unchanged"
+  },
+  "scenario_summaries": [
+    {
+      "scenario": "no_drift",
+      "windows_checked": 24,
+      "alert_windows": 0,
+      "pending_alerts": 0,
+      "trigger_decisions": 0,
+      "cooldown_suppressed": 0,
+      "max_frequency_suppressed": 0,
+      "actual_training_runs": 0,
+      "accepted_candidates": 0
+    },
+    {
+      "scenario": "synthetic_shift",
+      "windows_checked": 24,
+      "alert_windows": 5,
+      "pending_alerts": 1,
+      "trigger_decisions": 1,
+      "cooldown_suppressed": 3,
+      "max_frequency_suppressed": 0,
+      "actual_training_runs": 1,
+      "accepted_candidates": 0
+    }
+  ],
+  "retraining_actions": [
+    {
+      "scenario": "synthetic_shift",
+      "client_id": 2,
+      "trigger_window": 5,
+      "reason": "2 consecutive alerts reached policy requirement",
+      "trigger_alert_windows": "4,5",
+      "affected_client_retrained": 2,
+      "unaffected_clients_skipped": "1,3",
+      "actual_training_run": true,
+      "training_rows": 8192,
+      "accepted_by_validation": false,
+      "selected_checkpoint": "Phase 3 FedAvg best checkpoint",
+      "deployment_performed": false
+    }
+  ],
+  "candidate_results": [
+    {
+      "scenario": "synthetic_shift",
+      "client_id": 2,
+      "trigger_window": 5,
+      "trigger_alert_windows": [
+        4,
+        5
+      ],
+      "training_rows": 8192,
+      "training_source_split": "training",
+      "synthetic_shift_training": true,
+      "shift_feature": "Rate",
+      "shift_scaled_units": 5.0,
+      "local_epochs": 1,
+      "local_training_history": [
+        {
+          "local_epoch": 1,
+          "rows": 8192,
+          "weighted_loss": 0.9100841288701227,
+          "training_seconds": 0.07156980002764612
+        }
+      ],
+      "local_candidate_checkpoint": "candidates/synthetic_shift_client_2_local_candidate.joblib",
+      "global_candidate_checkpoint": "candidates/synthetic_shift_client_2_global_candidate.joblib",
+      "skipped_clients": [
+        1,
+        3
+      ],
+      "unaffected_client_parameters_changed_during_local_training": false,
+      "baseline_clean_validation_macro_f1": 0.5762867396535416,
+      "candidate_clean_validation_macro_f1": 0.5691879239412323,
+      "baseline_target_validation_macro_f1": 0.5210195438955868,
+      "candidate_target_validation_macro_f1": 0.5183122456472843,
+      "target_validation_macro_f1_gain": -0.0027072982483025143,
+      "clean_validation_macro_f1_drop": 0.007098815712309303,
+      "minimum_target_validation_macro_f1_improvement": 0.0,
+      "maximum_clean_validation_macro_f1_drop": 0.01,
+      "accepted": false,
+      "deployment_performed": false,
+      "test_evaluation": null
+    }
+  ],
+  "runtime_seconds": 6.260002399911173,
+  "limitations": [
+    "All Phase 4 windows and distribution changes are synthetic; no natural temporal drift is validated.",
+    "PSI indicates distribution change, not an attack.",
+    "Clients are single-process simulations without OS-level isolation or formal privacy guarantees.",
+    "Candidate acceptance is based only on the documented validation rule; deployment is not implemented."
+  ]
+}

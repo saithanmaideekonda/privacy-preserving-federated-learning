@@ -1,0 +1,80 @@
+{
+  "created_utc": "2026-10-26T11:32:44.159069+00:00",
+  "events": [
+    {
+      "scenario": "synthetic_shift",
+      "client_id": 2,
+      "window_index": 4,
+      "rows": 4096,
+      "max_feature_psi": 12.433835175691192,
+      "top_feature": "Rate",
+      "threshold": 0.25,
+      "alert": true,
+      "synthetic_shift_applied": true,
+      "shifted_feature": "Rate",
+      "injected_shift_scaled_units": 5.0,
+      "source_split": "training",
+      "event_type": "distribution_drift_alert"
+    },
+    {
+      "scenario": "synthetic_shift",
+      "client_id": 2,
+      "window_index": 5,
+      "rows": 4096,
+      "max_feature_psi": 12.433835175691192,
+      "top_feature": "Rate",
+      "threshold": 0.25,
+      "alert": true,
+      "synthetic_shift_applied": true,
+      "shifted_feature": "Rate",
+      "injected_shift_scaled_units": 5.0,
+      "source_split": "training",
+      "event_type": "distribution_drift_alert"
+    },
+    {
+      "scenario": "synthetic_shift",
+      "client_id": 2,
+      "window_index": 6,
+      "rows": 4096,
+      "max_feature_psi": 12.433835175691192,
+      "top_feature": "Rate",
+      "threshold": 0.25,
+      "alert": true,
+      "synthetic_shift_applied": true,
+      "shifted_feature": "Rate",
+      "injected_shift_scaled_units": 5.0,
+      "source_split": "training",
+      "event_type": "distribution_drift_alert"
+    },
+    {
+      "scenario": "synthetic_shift",
+      "client_id": 2,
+      "window_index": 7,
+      "rows": 4096,
+      "max_feature_psi": 12.433835175691192,
+      "top_feature": "Rate",
+      "threshold": 0.25,
+      "alert": true,
+      "synthetic_shift_applied": true,
+      "shifted_feature": "Rate",
+      "injected_shift_scaled_units": 5.0,
+      "source_split": "training",
+      "event_type": "distribution_drift_alert"
+    },
+    {
+      "scenario": "synthetic_shift",
+      "client_id": 2,
+      "window_index": 8,
+      "rows": 4096,
+      "max_feature_psi": 12.433835175691192,
+      "top_feature": "Rate",
+      "threshold": 0.25,
+      "alert": true,
+      "synthetic_shift_applied": true,
+      "shifted_feature": "Rate",
+      "injected_shift_scaled_units": 5.0,
+      "source_split": "training",
+      "event_type": "distribution_drift_alert"
+    }
+  ]
+}

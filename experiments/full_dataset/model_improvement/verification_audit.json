@@ -1,0 +1,79 @@
+{
+  "status": "passed",
+  "candidate_checks": [
+    {
+      "strategy": "reproduction_control",
+      "selected_epoch": 12,
+      "validation_macro_f1": 0.6696508820436516,
+      "runtime_seconds": 293.8160939000081,
+      "peak_working_set_bytes": 1452433408,
+      "warnings": []
+    },
+    {
+      "strategy": "inverse_power_075",
+      "selected_epoch": 9,
+      "validation_macro_f1": 0.618508094801439,
+      "runtime_seconds": 268.2898340000538,
+      "peak_working_set_bytes": 1454436352,
+      "warnings": []
+    },
+    {
+      "strategy": "inverse_capped_1_cap10",
+      "selected_epoch": 12,
+      "validation_macro_f1": 0.6302001871053772,
+      "runtime_seconds": 274.4248340999475,
+      "peak_working_set_bytes": 1455616000,
+      "warnings": []
+    },
+    {
+      "strategy": "effective_number_beta_09999",
+      "selected_epoch": 9,
+      "validation_macro_f1": 0.664704487121576,
+      "runtime_seconds": 366.6644797999179,
+      "peak_working_set_bytes": 1455677440,
+      "warnings": []
+    }
+  ],
+  "phase2_reproduction_matches_saved_validation": true,
+  "candidate_test_evaluation_performed": false,
+  "no_test_array_or_label_artifacts_created": true,
+  "note": "Hashes record current read-only baseline artifacts after the experiment; the experiment code writes only below model_improvement/.",
+  "protected_artifacts": [
+    {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\checkpoints\\best_model.joblib",
+      "size_bytes": 310927,
+      "sha256_after_experiment": "e3de9665a589cd410061fe39405ef8134f7567c51c426c3785364ffc94c17f7b",
+      "last_write_time_ns": 1793012644780036900
+    },
+    {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\best_validation_metrics.json",
+      "size_bytes": 19591,
+      "sha256_after_experiment": "825d216d1baf8057b54e8e161ec775e928a5ee153cf7495519b634e29154fdae",
+      "last_write_time_ns": 1793012648669486900
+    },
+    {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\test_metrics.json",
+      "size_bytes": 353,
+      "sha256_after_experiment": "0b16f09fcb34f3027454fc51eb434e396286a5029ef1dfcc944549e1b30857bb",
+      "last_write_time_ns": 1793012652702542500
+    },
+    {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\federated\\experiment\\checkpoints\\best_model.joblib",
+      "size_bytes": 145133,
+      "sha256_after_experiment": "b10c7e0371af2f90b0395c51841c9e6408ac1edf3104f6ddc1fd8c3a5ed34fda",
+      "last_write_time_ns": 1793013880506354000
+    },
+    {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\phase1_metadata.json",
+      "size_bytes": 22528,
+      "sha256_after_experiment": "d5f26d01eca4c0fb386cbb908a1742042c7ddad143bb063946401353c141fa1b",
+      "last_write_time_ns": 1793011117735510300
+    },
+    {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\preprocessing_metadata.json",
+      "size_bytes": 7006,
+      "sha256_after_experiment": "cd64dd3461c885e494a3ee290c2467312f395676b088aa1d35b4234722098c3f",
+      "last_write_time_ns": 1793011117735510300
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+scenario,windows_checked,alerts,false_alarm_windows,shift_windows,detected_shift_windows,missed_shift_windows,false_alarm_rate,detection_delay_windows
+no_drift,24,0,0,0,0,0,0.0,
+synthetic_shift,24,5,0,5,5,0,0.0,0

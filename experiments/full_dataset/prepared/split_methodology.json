@@ -1,0 +1,9 @@
+{
+  "policy": "Assign each 46-feature SHA-256 group to the original split with the most occurrences; ties use a stable seeded SHA-256 choice.",
+  "fingerprint": "SHA-256 over the original serialized 46 feature tokens; label and line ending excluded",
+  "label_conflict_policy": "keep all identical feature vectors in one split; report conflicts, never silently resolve them",
+  "duplicates": "retain every source row exactly once; no automatic deduplication or oversampling",
+  "grouping_limitation": "the available columns include no stable device, capture, session, timestamp, or event identifier",
+  "test_use": "test fingerprints participate only in exact-group overlap reconciliation; test labels do not fit preprocessing or model selection",
+  "seed": 20261026
+}

@@ -1,0 +1,169 @@
+{
+  "configuration": {
+    "learning_rate_init": 0.002,
+    "max_epochs": 12,
+    "patience": 3,
+    "seeds": [
+      20261026,
+      20261027
+    ]
+  },
+  "validation_macro_f1_mean_two_seeds": 0.6883278191508441,
+  "validation_macro_f1_min": 0.6849077781423318,
+  "validation_macro_f1_max": 0.6917478601593563,
+  "absolute_seed_spread": 0.0068400820170244625,
+  "each_seed_delta_vs_phase2": [
+    0.022096978115704657,
+    0.015256896098680195
+  ],
+  "focus_class_validation": {
+    "Uploading_Attack": {
+      "seed_20261026": {
+        "validation_support": 37,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "seed_20261027": {
+        "validation_support": 37,
+        "recall": 0.05405405405405406,
+        "f1": 0.06779661016949154
+      }
+    },
+    "Recon-PingSweep": {
+      "seed_20261026": {
+        "validation_support": 45,
+        "recall": 0.17777777777777778,
+        "f1": 0.06956521739130435
+      },
+      "seed_20261027": {
+        "validation_support": 45,
+        "recall": 0.17777777777777778,
+        "f1": 0.08333333333333333
+      }
+    },
+    "XSS": {
+      "seed_20261026": {
+        "validation_support": 92,
+        "recall": 0.11956521739130435,
+        "f1": 0.10784313725490195
+      },
+      "seed_20261027": {
+        "validation_support": 92,
+        "recall": 0.09782608695652174,
+        "f1": 0.08955223880597016
+      }
+    },
+    "Backdoor_Malware": {
+      "seed_20261026": {
+        "validation_support": 96,
+        "recall": 0.1875,
+        "f1": 0.20454545454545456
+      },
+      "seed_20261027": {
+        "validation_support": 96,
+        "recall": 0.0625,
+        "f1": 0.09448818897637795
+      }
+    },
+    "SqlInjection": {
+      "seed_20261026": {
+        "validation_support": 148,
+        "recall": 0.27702702702702703,
+        "f1": 0.17372881355932204
+      },
+      "seed_20261027": {
+        "validation_support": 148,
+        "recall": 0.2635135135135135,
+        "f1": 0.17972350230414744
+      }
+    },
+    "BrowserHijacking": {
+      "seed_20261026": {
+        "validation_support": 155,
+        "recall": 0.16774193548387098,
+        "f1": 0.1477272727272727
+      },
+      "seed_20261027": {
+        "validation_support": 155,
+        "recall": 0.14193548387096774,
+        "f1": 0.1990950226244344
+      }
+    },
+    "Recon-OSScan": {
+      "seed_20261026": {
+        "validation_support": 2488,
+        "recall": 0.1812700964630225,
+        "f1": 0.25595913734392733
+      },
+      "seed_20261027": {
+        "validation_support": 2488,
+        "recall": 0.3271704180064309,
+        "f1": 0.332992431990182
+      }
+    },
+    "DictionaryBruteForce": {
+      "seed_20261026": {
+        "validation_support": 290,
+        "recall": 0.1724137931034483,
+        "f1": 0.22779043280182232
+      },
+      "seed_20261027": {
+        "validation_support": 290,
+        "recall": 0.2103448275862069,
+        "f1": 0.2026578073089701
+      }
+    },
+    "CommandInjection": {
+      "seed_20261026": {
+        "validation_support": 126,
+        "recall": 0.3968253968253968,
+        "f1": 0.3076923076923077
+      },
+      "seed_20261027": {
+        "validation_support": 126,
+        "recall": 0.2698412698412698,
+        "f1": 0.288135593220339
+      }
+    },
+    "Recon-PortScan": {
+      "seed_20261026": {
+        "validation_support": 2081,
+        "recall": 0.4589139836617011,
+        "f1": 0.39292326681752726
+      },
+      "seed_20261027": {
+        "validation_support": 2081,
+        "recall": 0.2921672272945699,
+        "f1": 0.30575810912748297
+      }
+    },
+    "DNS_Spoofing": {
+      "seed_20261026": {
+        "validation_support": 4543,
+        "recall": 0.40457847237508254,
+        "f1": 0.45875452389866467
+      },
+      "seed_20261027": {
+        "validation_support": 4543,
+        "recall": 0.5443539511336122,
+        "f1": 0.4806608357628766
+      }
+    },
+    "Recon-HostDiscovery": {
+      "seed_20261026": {
+        "validation_support": 3459,
+        "recall": 0.7606244579358196,
+        "f1": 0.6709167410429682
+      },
+      "seed_20261027": {
+        "validation_support": 3459,
+        "recall": 0.6767851980341139,
+        "f1": 0.6893404004711424
+      }
+    }
+  },
+  "repeat_runtime_seconds": 205.37657550000586,
+  "all_runs_runtime_seconds": 1077.4514511000598,
+  "test_evaluation_performed": false,
+  "primary_checkpoint_selection_unchanged": true
+}

@@ -1,0 +1,66 @@
+{
+  "created_utc": "2026-10-26T12:42:03.972057+00:00",
+  "base_phase2_configuration": {
+    "model": "sklearn.neural_network.MLPClassifier",
+    "hidden_layer_sizes": [
+      128,
+      64
+    ],
+    "activation": "relu",
+    "solver": "adam",
+    "alpha": 0.0001,
+    "batch_size": 8192,
+    "learning_rate_init": 0.001,
+    "max_epochs": 12,
+    "early_stopping_patience": 3,
+    "selection_metric": "validation macro-F1",
+    "class_weighting": "normalized inverse square-root of training class frequency",
+    "seed": 20261026,
+    "cpu_threads": 4
+  },
+  "candidate_configs": [
+    {
+      "name": "phase2_reproduction_lr_0p001_epochs_12",
+      "learning_rate_init": 0.001,
+      "max_epochs": 12,
+      "patience": 3,
+      "seed": 20261026,
+      "factor_changed": "none; Phase 2 reproduction control"
+    },
+    {
+      "name": "learning_rate_half_epochs_12",
+      "learning_rate_init": 0.0005,
+      "max_epochs": 12,
+      "patience": 3,
+      "seed": 20261026,
+      "factor_changed": "learning_rate_init only (0.5x Phase 2)"
+    },
+    {
+      "name": "learning_rate_double_epochs_12",
+      "learning_rate_init": 0.002,
+      "max_epochs": 12,
+      "patience": 3,
+      "seed": 20261026,
+      "factor_changed": "learning_rate_init only (2x Phase 2)"
+    },
+    {
+      "name": "budget_18_lr_baseline",
+      "learning_rate_init": 0.001,
+      "max_epochs": 18,
+      "patience": 3,
+      "seed": 20261026,
+      "factor_changed": "max_epochs only (1.5x Phase 2)"
+    }
+  ],
+  "selection_metric": "validation macro-F1",
+  "test_data_access": "prohibited in this stage",
+  "gradient_update_data": "training split only",
+  "secondary_seed_repeat": {
+    "name": "learning_rate_double_seed_20261027",
+    "learning_rate_init": 0.002,
+    "max_epochs": 12,
+    "patience": 3,
+    "seed": 20261027,
+    "role": "robustness repeat only; excluded from primary fixed-seed ranking"
+  }
+}

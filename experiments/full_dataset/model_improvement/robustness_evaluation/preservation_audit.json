@@ -1,0 +1,283 @@
+{
+  "completed_utc": "2026-10-26T13:30:26.563353+00:00",
+  "protected_artifact_count": 20,
+  "unchanged": true,
+  "changed_artifacts": [],
+  "before": {
+    "phase1_inspection": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\inspection_report.md",
+      "size_bytes": 16500,
+      "mtime_ns": 1793009635660659500,
+      "sha256": "e86427f35264fe706cbd51f18b5dad09e0b50509a81dcc24d06b2d20591217fe"
+    },
+    "phase1_preparation_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\preparation_report.md",
+      "size_bytes": 7274,
+      "mtime_ns": 1793011327653466200,
+      "sha256": "86f8459ce8d57c994487032e786e96ce88b293d55e28883b51b470471607688c"
+    },
+    "phase1_metadata": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\phase1_metadata.json",
+      "size_bytes": 22528,
+      "mtime_ns": 1793011117735510300,
+      "sha256": "d5f26d01eca4c0fb386cbb908a1742042c7ddad143bb063946401353c141fa1b"
+    },
+    "phase1_preprocessing": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\preprocessing_metadata.json",
+      "size_bytes": 7006,
+      "mtime_ns": 1793011117735510300,
+      "sha256": "cd64dd3461c885e494a3ee290c2467312f395676b088aa1d35b4234722098c3f"
+    },
+    "phase2_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\checkpoints\\best_model.joblib",
+      "size_bytes": 310927,
+      "mtime_ns": 1793012644780036900,
+      "sha256": "e3de9665a589cd410061fe39405ef8134f7567c51c426c3785364ffc94c17f7b"
+    },
+    "phase2_validation_metrics": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\best_validation_metrics.json",
+      "size_bytes": 19591,
+      "mtime_ns": 1793012648669486900,
+      "sha256": "825d216d1baf8057b54e8e161ec775e928a5ee153cf7495519b634e29154fdae"
+    },
+    "phase2_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\report.md",
+      "size_bytes": 3886,
+      "mtime_ns": 1793012813446312200,
+      "sha256": "361b1a157b9c71016e498ed048fa35daf6be5f720ab14a1e4e52a8a8f6961965"
+    },
+    "phase3_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\federated\\experiment\\checkpoints\\best_model.joblib",
+      "size_bytes": 145133,
+      "mtime_ns": 1793013880506354000,
+      "sha256": "b10c7e0371af2f90b0395c51841c9e6408ac1edf3104f6ddc1fd8c3a5ed34fda"
+    },
+    "phase3_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\federated\\experiment\\report.md",
+      "size_bytes": 3590,
+      "mtime_ns": 1793013968501358300,
+      "sha256": "2762ec0ff26e1bb6beb595d5e9cf387d967acd57b88bf8c2fe1e40890bc4b0b9"
+    },
+    "phase4_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\drift\\report.md",
+      "size_bytes": 3570,
+      "mtime_ns": 1793014436760722000,
+      "sha256": "83c20854901dee7616932f37326cb49008247734a60310876b26feb08b256e20"
+    },
+    "phase5_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\selective_retraining\\report.md",
+      "size_bytes": 3299,
+      "mtime_ns": 1793014984844699700,
+      "sha256": "3fb2cb45395e1376c64dc371257c3095ca539dd7cd70ce4a5fb05cc60331ab4d"
+    },
+    "weighting_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\report.md",
+      "size_bytes": 7185,
+      "mtime_ns": 1793018205848116800,
+      "sha256": "d5a7451d8fde617bee5974f5e83154b4d5f3c378aa3c941b52b4d30ede00bc39"
+    },
+    "weighting_selection": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\selection_recommendation.json",
+      "size_bytes": 687,
+      "mtime_ns": 1793018205848116800,
+      "sha256": "8c60627a5e8615a4abb3135222ad4b0353239d84459dffbcecb9912683081299"
+    },
+    "diagnostics_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\diagnostics\\report.md",
+      "size_bytes": 3590,
+      "mtime_ns": 1793016586985547700,
+      "sha256": "24a6a5519ce45915a809cf42daf9962e6466a5d374638aed26b3cff632c94966"
+    },
+    "stage2_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\report.md",
+      "size_bytes": 19992,
+      "mtime_ns": 1793019917366250200,
+      "sha256": "d0eafce1f04757f0bf30233cf869849a2aeb76fa469afc4f0b77dd40c9db36c0"
+    },
+    "stage2_config": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\study_configuration.json",
+      "size_bytes": 1959,
+      "mtime_ns": 1793019917342648400,
+      "sha256": "7768810a5121e5e3ca334ed441387d418e329ad0613a12ebbe2ad8e3bf14614a"
+    },
+    "stage2_selection": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\selection_recommendation.json",
+      "size_bytes": 5633,
+      "mtime_ns": 1793019917368237700,
+      "sha256": "870ac036c317b48b82f515b201e7001f43d9583f46476a04614335095221754d"
+    },
+    "stage2_checkpoint_record": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\selected_checkpoint.json",
+      "size_bytes": 2839,
+      "mtime_ns": 1793019917319766900,
+      "sha256": "9160bb6540b888f7da12bd3896ee630d061aa7c2eb84370f02057c71c268a698"
+    },
+    "stage2_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\checkpoints\\best_model.joblib",
+      "size_bytes": 311773,
+      "mtime_ns": 1793019094070231700,
+      "sha256": "47984db438d22952a8624c675cfc31cae67885f1e0e016f2186679fffd52b88a"
+    },
+    "stage2_seed27_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\seed_repeat_20261027\\learning_rate_double_seed_20261027\\checkpoints\\best_model.joblib",
+      "size_bytes": 306478,
+      "mtime_ns": 1793019626385741700,
+      "sha256": "c220bcf6901f347ebc3eeccc973f80a0b69c584fd9fa03ab438c21fbb7e184ac"
+    }
+  },
+  "after": {
+    "phase1_inspection": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\inspection_report.md",
+      "size_bytes": 16500,
+      "mtime_ns": 1793009635660659500,
+      "sha256": "e86427f35264fe706cbd51f18b5dad09e0b50509a81dcc24d06b2d20591217fe"
+    },
+    "phase1_preparation_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\preparation_report.md",
+      "size_bytes": 7274,
+      "mtime_ns": 1793011327653466200,
+      "sha256": "86f8459ce8d57c994487032e786e96ce88b293d55e28883b51b470471607688c"
+    },
+    "phase1_metadata": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\phase1_metadata.json",
+      "size_bytes": 22528,
+      "mtime_ns": 1793011117735510300,
+      "sha256": "d5f26d01eca4c0fb386cbb908a1742042c7ddad143bb063946401353c141fa1b"
+    },
+    "phase1_preprocessing": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\prepared\\preprocessing_metadata.json",
+      "size_bytes": 7006,
+      "mtime_ns": 1793011117735510300,
+      "sha256": "cd64dd3461c885e494a3ee290c2467312f395676b088aa1d35b4234722098c3f"
+    },
+    "phase2_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\checkpoints\\best_model.joblib",
+      "size_bytes": 310927,
+      "mtime_ns": 1793012644780036900,
+      "sha256": "e3de9665a589cd410061fe39405ef8134f7567c51c426c3785364ffc94c17f7b"
+    },
+    "phase2_validation_metrics": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\best_validation_metrics.json",
+      "size_bytes": 19591,
+      "mtime_ns": 1793012648669486900,
+      "sha256": "825d216d1baf8057b54e8e161ec775e928a5ee153cf7495519b634e29154fdae"
+    },
+    "phase2_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\centralized\\report.md",
+      "size_bytes": 3886,
+      "mtime_ns": 1793012813446312200,
+      "sha256": "361b1a157b9c71016e498ed048fa35daf6be5f720ab14a1e4e52a8a8f6961965"
+    },
+    "phase3_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\federated\\experiment\\checkpoints\\best_model.joblib",
+      "size_bytes": 145133,
+      "mtime_ns": 1793013880506354000,
+      "sha256": "b10c7e0371af2f90b0395c51841c9e6408ac1edf3104f6ddc1fd8c3a5ed34fda"
+    },
+    "phase3_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\federated\\experiment\\report.md",
+      "size_bytes": 3590,
+      "mtime_ns": 1793013968501358300,
+      "sha256": "2762ec0ff26e1bb6beb595d5e9cf387d967acd57b88bf8c2fe1e40890bc4b0b9"
+    },
+    "phase4_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\drift\\report.md",
+      "size_bytes": 3570,
+      "mtime_ns": 1793014436760722000,
+      "sha256": "83c20854901dee7616932f37326cb49008247734a60310876b26feb08b256e20"
+    },
+    "phase5_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\selective_retraining\\report.md",
+      "size_bytes": 3299,
+      "mtime_ns": 1793014984844699700,
+      "sha256": "3fb2cb45395e1376c64dc371257c3095ca539dd7cd70ce4a5fb05cc60331ab4d"
+    },
+    "weighting_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\report.md",
+      "size_bytes": 7185,
+      "mtime_ns": 1793018205848116800,
+      "sha256": "d5a7451d8fde617bee5974f5e83154b4d5f3c378aa3c941b52b4d30ede00bc39"
+    },
+    "weighting_selection": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\selection_recommendation.json",
+      "size_bytes": 687,
+      "mtime_ns": 1793018205848116800,
+      "sha256": "8c60627a5e8615a4abb3135222ad4b0353239d84459dffbcecb9912683081299"
+    },
+    "diagnostics_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\diagnostics\\report.md",
+      "size_bytes": 3590,
+      "mtime_ns": 1793016586985547700,
+      "sha256": "24a6a5519ce45915a809cf42daf9962e6466a5d374638aed26b3cff632c94966"
+    },
+    "stage2_report": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\report.md",
+      "size_bytes": 19992,
+      "mtime_ns": 1793019917366250200,
+      "sha256": "d0eafce1f04757f0bf30233cf869849a2aeb76fa469afc4f0b77dd40c9db36c0"
+    },
+    "stage2_config": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\study_configuration.json",
+      "size_bytes": 1959,
+      "mtime_ns": 1793019917342648400,
+      "sha256": "7768810a5121e5e3ca334ed441387d418e329ad0613a12ebbe2ad8e3bf14614a"
+    },
+    "stage2_selection": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\selection_recommendation.json",
+      "size_bytes": 5633,
+      "mtime_ns": 1793019917368237700,
+      "sha256": "870ac036c317b48b82f515b201e7001f43d9583f46476a04614335095221754d"
+    },
+    "stage2_checkpoint_record": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\selected_checkpoint.json",
+      "size_bytes": 2839,
+      "mtime_ns": 1793019917319766900,
+      "sha256": "9160bb6540b888f7da12bd3896ee630d061aa7c2eb84370f02057c71c268a698"
+    },
+    "stage2_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\checkpoints\\best_model.joblib",
+      "size_bytes": 311773,
+      "mtime_ns": 1793019094070231700,
+      "sha256": "47984db438d22952a8624c675cfc31cae67885f1e0e016f2186679fffd52b88a"
+    },
+    "stage2_seed27_checkpoint": {
+      "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\seed_repeat_20261027\\learning_rate_double_seed_20261027\\checkpoints\\best_model.joblib",
+      "size_bytes": 306478,
+      "mtime_ns": 1793019626385741700,
+      "sha256": "c220bcf6901f347ebc3eeccc973f80a0b69c584fd9fa03ab438c21fbb7e184ac"
+    }
+  },
+  "stage2_prior_audit": {
+    "verified_entries": 14,
+    "mismatches": []
+  },
+  "stage2_selected_metadata": {
+    "checks": {
+      "checkpoint_matches_selected_record": true,
+      "run_metadata_matches_selected_configuration": true,
+      "configuration_file_matches_run_metadata": true,
+      "validation_macro_f1_matches_selected_record": true,
+      "stage2_candidate_has_no_test_selection": true
+    },
+    "files": {
+      "checkpoint": {
+        "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\checkpoints\\best_model.joblib",
+        "sha256": "47984db438d22952a8624c675cfc31cae67885f1e0e016f2186679fffd52b88a"
+      },
+      "run_metadata": {
+        "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\run_metadata.json",
+        "sha256": "4e340e474970a94a7a36ea0eb25ecb6a14b3432683293c321d8724fa8089f9a8"
+      },
+      "configuration": {
+        "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\configuration.json",
+        "sha256": "0f7f3ab2e44a82d6f1253abad2444176b44ee22ab4c6d1673378b841e6cb57a3"
+      },
+      "validation_metrics": {
+        "path": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\model_improvement\\training_parameters\\learning_rate_double_epochs_12\\best_validation_metrics.json",
+        "sha256": "54df6d80e9b9a9065d2533f483c750e43f63b0f5832af23bd9a2acd82030938a"
+      }
+    }
+  },
+  "sampled_project_modified": false,
+  "phase2_phase3_checkpoints_modified": false
+}

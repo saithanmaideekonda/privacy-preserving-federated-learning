@@ -1,0 +1,13 @@
+{
+  "source_rows": {
+    "train": 5491971,
+    "validation": 1176851,
+    "test": 1176851
+  },
+  "derived_rows": {
+    "train": 5492542,
+    "test": 1176430,
+    "validation": 1176701
+  },
+  "row_total_preserved": true
+}

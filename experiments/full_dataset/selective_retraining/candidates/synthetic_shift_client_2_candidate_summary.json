@@ -1,0 +1,41 @@
+{
+  "scenario": "synthetic_shift",
+  "client_id": 2,
+  "trigger_window": 5,
+  "trigger_alert_windows": [
+    4,
+    5
+  ],
+  "training_rows": 8192,
+  "training_source_split": "training",
+  "synthetic_shift_training": true,
+  "shift_feature": "Rate",
+  "shift_scaled_units": 5.0,
+  "local_epochs": 1,
+  "local_training_history": [
+    {
+      "local_epoch": 1,
+      "rows": 8192,
+      "weighted_loss": 0.9100841288701227,
+      "training_seconds": 0.07156980002764612
+    }
+  ],
+  "local_candidate_checkpoint": "candidates/synthetic_shift_client_2_local_candidate.joblib",
+  "global_candidate_checkpoint": "candidates/synthetic_shift_client_2_global_candidate.joblib",
+  "skipped_clients": [
+    1,
+    3
+  ],
+  "unaffected_client_parameters_changed_during_local_training": false,
+  "baseline_clean_validation_macro_f1": 0.5762867396535416,
+  "candidate_clean_validation_macro_f1": 0.5691879239412323,
+  "baseline_target_validation_macro_f1": 0.5210195438955868,
+  "candidate_target_validation_macro_f1": 0.5183122456472843,
+  "target_validation_macro_f1_gain": -0.0027072982483025143,
+  "clean_validation_macro_f1_drop": 0.007098815712309303,
+  "minimum_target_validation_macro_f1_improvement": 0.0,
+  "maximum_clean_validation_macro_f1_drop": 0.01,
+  "accepted": false,
+  "deployment_performed": false,
+  "test_evaluation": null
+}

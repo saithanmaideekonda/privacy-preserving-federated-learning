@@ -1,0 +1,11 @@
+{
+  "split": "test",
+  "use": "final evaluation after validation selection",
+  "accuracy": 0.8037528794743418,
+  "macro_precision": 0.6241613631987682,
+  "macro_recall": 0.5960917262907767,
+  "macro_f1": 0.5754428458704006,
+  "weighted_f1": 0.7819797649430038,
+  "evaluated_rows": 1176430,
+  "supported_classes": 34
+}

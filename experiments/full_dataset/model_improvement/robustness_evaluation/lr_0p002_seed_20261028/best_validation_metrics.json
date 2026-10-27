@@ -1,0 +1,12 @@
+{
+  "selected_epoch": 12,
+  "selection_metric": "validation macro-F1",
+  "accuracy": 0.9740749774156732,
+  "macro_precision": 0.6766459437254746,
+  "macro_recall": 0.7133174568725176,
+  "macro_f1": 0.682134122843446,
+  "weighted_f1": 0.9739460323466345,
+  "evaluated_rows": 1176701,
+  "supported_classes": 34,
+  "test_used_for_selection": false
+}

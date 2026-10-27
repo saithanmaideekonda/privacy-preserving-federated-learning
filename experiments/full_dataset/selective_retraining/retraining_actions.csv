@@ -1,0 +1,2 @@
+scenario,client_id,trigger_window,reason,trigger_alert_windows,affected_client_retrained,unaffected_clients_skipped,actual_training_run,training_rows,accepted_by_validation,selected_checkpoint,deployment_performed
+synthetic_shift,2,5,2 consecutive alerts reached policy requirement,"4,5",2,"1,3",True,8192,False,Phase 3 FedAvg best checkpoint,False

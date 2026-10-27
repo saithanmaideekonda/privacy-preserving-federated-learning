@@ -1,0 +1,25 @@
+{
+  "class_mapping_verified": true,
+  "train_validation_test_rows_from_metadata": {
+    "train": 5492542,
+    "test": 1176430,
+    "validation": 1176701
+  },
+  "validation_confusion_matches_saved_per_class_support": true,
+  "saved_test_confusion_matches_saved_per_class_support": true,
+  "validation_metrics_recomputed_from_confusion": {
+    "accuracy": 0.9712713765009123,
+    "macro_precision": 0.6637043071175197,
+    "macro_recall": 0.6908920449010565,
+    "macro_f1": 0.6696508820436516,
+    "weighted_f1": 0.9710758258753904
+  },
+  "saved_test_metrics_recomputed_from_saved_confusion_diagnostic_only": {
+    "accuracy": 0.970912846493204,
+    "macro_precision": 0.667388100318707,
+    "macro_recall": 0.6956334077707287,
+    "macro_f1": 0.6732901073931531,
+    "weighted_f1": 0.9707534204534319
+  },
+  "test_arrays_or_labels_loaded": false
+}

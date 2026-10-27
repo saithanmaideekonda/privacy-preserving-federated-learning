@@ -1,0 +1,11 @@
+{
+  "split": "test",
+  "use": "final evaluation after validation-based checkpoint selection; no tuning",
+  "accuracy": 0.970912846493204,
+  "macro_precision": 0.667388100318707,
+  "macro_recall": 0.6956334077707287,
+  "macro_f1": 0.6732901073931531,
+  "weighted_f1": 0.9707534204534319,
+  "evaluated_rows": 1176430,
+  "supported_classes": 34
+}

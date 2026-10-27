@@ -1,0 +1,88 @@
+{
+  "source_fingerprint_audit": {
+    "method": "SHA-256 over exact serialized CSV record bytes (line endings excluded); feature-vector digest excludes the final label field; records are streamed, only digests/counts are stored in SQLite.",
+    "sha256_collision_risk": "Cryptographically negligible; matching hashes are treated as identical fingerprints, not byte-for-byte rechecked against source rows.",
+    "physical_record_counts": {
+      "train": 5491971,
+      "validation": 1176851,
+      "test": 1176851
+    },
+    "indexed_row_counts": {
+      "train": 5491971,
+      "validation": 1176851,
+      "test": 1176851
+    },
+    "unexpected_field_count_records": {
+      "train": 0,
+      "validation": 0,
+      "test": 0
+    },
+    "within_split": {
+      "train": {
+        "duplicate_exact_row_fingerprints": 134565,
+        "duplicate_row_occurrences_beyond_first": 134565,
+        "duplicate_feature_vector_fingerprints": 134565,
+        "duplicate_feature_vector_occurrences_beyond_first": 134565
+      },
+      "validation": {
+        "duplicate_exact_row_fingerprints": 6297,
+        "duplicate_row_occurrences_beyond_first": 6297,
+        "duplicate_feature_vector_fingerprints": 6297,
+        "duplicate_feature_vector_occurrences_beyond_first": 6297
+      },
+      "test": {
+        "duplicate_exact_row_fingerprints": 6384,
+        "duplicate_row_occurrences_beyond_first": 6384,
+        "duplicate_feature_vector_fingerprints": 6384,
+        "duplicate_feature_vector_occurrences_beyond_first": 6384
+      }
+    },
+    "cross_split_unique_fingerprint_overlap": {
+      "train__validation": {
+        "exact_row": 57744,
+        "feature_vector": 57744
+      },
+      "train__test": {
+        "exact_row": 57847,
+        "feature_vector": 57847
+      },
+      "validation__test": {
+        "exact_row": 12422,
+        "feature_vector": 12422
+      }
+    },
+    "cross_split_matching_instances": {
+      "train__validation": {
+        "exact_row": 57744,
+        "feature_vector": 57744
+      },
+      "train__test": {
+        "exact_row": 57847,
+        "feature_vector": 57847
+      },
+      "validation__test": {
+        "exact_row": 12422,
+        "feature_vector": 12422
+      }
+    },
+    "audit_seconds": 174.43,
+    "temporary_database_bytes": 696709120
+  },
+  "repeated_or_shared_feature_groups_checked_for_label_conflicts": 275259,
+  "conflicting_label_feature_groups": 0,
+  "derived_cross_split_feature_vector_overlap_groups": 0,
+  "derived_cross_split_exact_row_overlap_groups": 0,
+  "post_assignment_claim": "zero for the serialized-token SHA-256 feature fingerprint used by the audit; exact float-value canonicalization was not performed",
+  "assignment": {
+    "shared_feature_groups": 128013,
+    "repeated_or_shared_groups_for_label_audit": 275259,
+    "tie_groups": 128013,
+    "occurrences_reassigned_from_source": {
+      "validation": 35158,
+      "test": 35345,
+      "train": 57510
+    },
+    "seed": 20261026,
+    "assignment_rule": "Assign each 46-feature SHA-256 group to the original split with the most occurrences; ties use a stable seeded SHA-256 choice."
+  }
+}

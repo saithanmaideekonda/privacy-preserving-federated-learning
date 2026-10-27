@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-10-26T11:43:04.840026+00:00",
+  "policy": {
+    "required_consecutive_alerts": 2,
+    "cooldown_windows": 3,
+    "max_retrainings_per_client_per_scenario": 1,
+    "candidate_local_epochs": 1,
+    "minimum_target_validation_macro_f1_improvement": 0.0,
+    "maximum_clean_validation_macro_f1_drop": 0.01,
+    "psi_threshold": 0.25,
+    "threshold_source": "Phase 4 configuration.json; reused unchanged"
+  },
+  "drift_score_source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\drift\\drift_scores.csv",
+  "drift_event_source": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\drift\\event_log.json",
+  "phase4_detector_changed": false,
+  "candidate_training": {
+    "initial_checkpoint": "C:\\Users\\saith\\Documents\\Codex\\project-privacy-preserving-federated-learning-full-dataset\\experiments\\full_dataset\\federated\\experiment\\checkpoints\\best_model.joblib",
+    "fitting_data": "affected client's source training rows from consecutive trigger windows; recorded synthetic shift applied to copied rows only",
+    "candidate_selection": "clean and scenario-target validation macro-F1; no test use",
+    "test_access": "test arrays opened only after candidate acceptance"
+  }
+}

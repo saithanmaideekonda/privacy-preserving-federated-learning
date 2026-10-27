@@ -1,0 +1,27 @@
+{
+  "created_utc": "2026-10-26T11:32:44.159069+00:00",
+  "method": "feature-wise Population Stability Index",
+  "reference_source": "Phase 1 prepared training rows only",
+  "client_baseline": "separate reference histogram for each Phase 3 simulated client",
+  "binning": "10 empirical quantile bins per client/feature; duplicate quantile cut-points collapse; effective bin count may be lower",
+  "psi_formula": "sum((actual_prop-reference_prop)*ln(actual_prop/reference_prop))",
+  "empty_bins": "floor each bin proportion at epsilon=1e-06, then renormalize before logarithm",
+  "threshold": 0.25,
+  "threshold_rationale": "Predeclared PSI 0.25 operational heuristic for a material distribution shift; not fitted or tuned on validation/test, and not a statistical guarantee.",
+  "alert_rule": "window alert if any feature PSI is greater than or equal to threshold; window score is maximum feature PSI",
+  "quantile_bins_requested": 10,
+  "reference_rows_per_client": 50000,
+  "window_rows": 4096,
+  "windows_per_client": 8,
+  "no_drift_stream": "independent rows from the same simulated client's training partition, disjoint from its reference rows",
+  "synthetic_shift": {
+    "affected_client": 2,
+    "feature": "Rate",
+    "first_window_index": 4,
+    "shift_in_standardized_feature_units": 5.0,
+    "source": "training rows copied and modified in memory; not natural traffic drift"
+  },
+  "seed": 20261026,
+  "chunk_rows": 50000,
+  "no_test_data_or_labels_used": true
+}
